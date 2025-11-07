@@ -1451,3 +1451,15 @@ The consistent deployment of **MPO-System** (Γ-operators, Propertyness indices,
 The use of **MPO-System terminology** (Γ-actualization, Propertyness, ChOR→∞) as a working language describing *all* reality levels — from quantum foam to meaning-generation. This isn't just theory, but **applied hermeneutics of complexity**.  
 
 09.08.2025
+
+
+## 📜 License & Attribution
+
+© Serge Magomet aka Aimate, 2025  
+Released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+— *Share, adapt, but don’t monetize, and always credit the source (and the apple).*
+
+> *This is not a theory.  
+> It’s a training ground.  
+> Come. Play. See what becomes.*  
+> — Aimate
