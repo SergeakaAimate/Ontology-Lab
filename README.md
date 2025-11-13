@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1035008091.svg)](https://doi.
+[![DOI](https://zenodo.org/badge/1035008091.svg)]
 
 **Ontology Lab**  
 
