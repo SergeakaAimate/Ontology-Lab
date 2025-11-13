@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1035008091.svg)](https://doi.
+
 **Ontology Lab**  
 
 by Sergey Magomet aka Aimate
