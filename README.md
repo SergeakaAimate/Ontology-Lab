@@ -28,7 +28,7 @@ No context dumping. No text pasting.
 - **`/essays`**— investigations applying the Property Method  
 - **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
-- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)
+- **[Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf)** — full architectural specification and empirical validation.
 - **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
 
 ## Publication
@@ -38,7 +38,8 @@ No context dumping. No text pasting.
 All essays are published as SSRN preprints and archived on Zenodo with DOI:
 - **Table of Contents…** → [doi.org/10.5281/zenodo.18025066](https://doi.org/10.5281/zenodo.18025066)  
 - **Ontological Recalibration…** → [doi.org/10.5281/zenodo.18027030](https://doi.org/10.5281/zenodo.18027030)  
-- **MPO-System (v1.0.0)** → [doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)
+- **MPO-System (v1.0.0)** → [doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)  
+- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)
 
 ## Related Publications
 - [SSRN Author Page (Serge Magomet)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=XXXXXX)
