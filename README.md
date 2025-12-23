@@ -4,7 +4,8 @@ Living Thought Interface
 This repository functions not as an archive, but as an operating system for dialogue with reality — an instrument to be used. It is a responsive, evolving, and open interface for the co-work of human intuition and AI computational power.
 
 ## Quick Start
-- **Core framework**: `/core` — axioms, primitives, glossary  
+- **Core framework**: `/core` — axioms, primitives, glossary
+- **[MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf)** — foundational axiomatics of Dynamic Realism: ChOR, KSS, and PPU as generative primitives.  
 - **Complete works**: `/essays` — investigations applying the Property Method
 - **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
