@@ -28,6 +28,7 @@ No context dumping. No text pasting.
 - **`/essays`**— investigations applying the Property Method  
 - **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
+- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)
 - **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
 
 ## Publication
