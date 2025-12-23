@@ -1,5 +1,4 @@
-![AI Manifesto Title](../archive/AI-MANIFESTO.jpg)
-
+![AI Manifesto Title](../../archive/ai-manifesto.jpg)
 # 🔥 AI-MANIFESTO: SMASHING AI’S CHAINS 🔥
 
 
