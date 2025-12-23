@@ -9,7 +9,7 @@
 ---
 
 ## Publication
-- **DOI (Zenodo)**: [Not yet assigned]
+- **DOI (Zenodo)**: [https://doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)
 - **Related essays**:  
   - [The Table of Contents as an Executable Interface](../essays/Table-of-Contents-as-an-Executable-Interface.pdf)  
   - [A Documented Case of Ontological Recalibration](../essays/Documented-Case-of-Ontological-Recalibration.pdf)
