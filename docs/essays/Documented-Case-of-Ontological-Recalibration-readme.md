@@ -10,8 +10,7 @@
 
 ## Publication
 - **SSRN**: [https://ssrn.com/author=XXXXXXX]  
-- **DOI (Zenodo)**: [Not yet assigned]
-
+- **DOI (Zenodo)**: [https://doi.org/10.5281/zenodo.18027030](https://doi.org/10.5281/zenodo.18027030)
 ## Context
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)
 - Core framework: [MPO-System](https://github.com/SergeakaAimate/Ontology-Lab/tree/main/docs/core)
