@@ -6,7 +6,7 @@ This repository functions not as an archive, but as an operating system for dial
 ## Quick Start
 - **Core framework**: `/core` — axioms, primitives, glossary  
 - **Complete works**: `/essays` — investigations applying the Property Method
-- - **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
+- **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
 - **Personal repository**: `/archive` — insights, drafts, dialogues, notes, and external materials  
 
