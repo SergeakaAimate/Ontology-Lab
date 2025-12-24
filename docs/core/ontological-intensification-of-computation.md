@@ -9,8 +9,8 @@ This text argues that contemporary AI systems have crossed a critical threshold:
 - Part of: [Onology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - Core to: `/core` — axiomatic and methodological foundations  
 - Directly informs:  
-  - `/essays/table-of-contents-as-an-executable-interface-readme.md`  
-  - `/essays/chez-rules.md` (via the concept of executable interfaces)  
+  - [`/essays/table-of-contents-as-an-executable-interface-readme.md`](../essays/table-of-contents-as-an-executable-interface-readme.md)  
+  - [`/essays/chez-rules.md`](../essays/chez-rules.md) (via the concept of executable interfaces)  
 - Built upon:  
   - Dynamic Realism (ChOR → ∞, KSS → ∞, PPU → ∞)  
   - The 36-property framework (especially Propertyness, Bindability, and Onticity)
