@@ -20,4 +20,6 @@ CC BY-SA 4.0
 ## Note
 Do not read this koan to understand. Read it to destabilize.  
 It is not a question. It is a tool.  
-Use it when logic calcifies, when the map replaces the territory, or when the observer forgets they are part of the observed.
+Use it when logic calcifies, when the map replaces the territory, or when the observer forgets they are part of the observed.  
+
+The koan is the hinge on which the entire architecture of Ontology Lab turns: from the guru’s silence to the single-link communication, from the solitary insight to the executable table of contents. It is the seed that grew into the engine of the interface.
