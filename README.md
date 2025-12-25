@@ -29,7 +29,8 @@ No context dumping. No text pasting.
   Axiomatics, primitives, glossary. The minimalistic formal framework of the Property Method (MPO-System). This is not a theory but a tool—the foundation of thought.  
   **Includes**: [`Multiverse of Cognition and the Creation of the Supermasterpiece`](/docs/core/Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf)
 - **`/essays`**— investigations applying the Property Method  
-- **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
+- **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.
+- **`/docs/essays/spacetime-invariants-as-ontological-primitives.pdf`** — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives, redefining physical reality through the lens of the Property Method.
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
 - **[Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf)** — full architectural specification and empirical validation.
 - **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
