@@ -14,7 +14,7 @@ The Property Method reveals that spacetime invariants satisfy the three criteria
 Thus, the spacetime interval is not just a number—it is a **property of the world itself**, prior to space, time, or matter.
 
 ## Context  
-- Part of: [Onology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
+- Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - Related to:  
   - `/core/axioms.md` — especially Property 7 (*Invariance under Γ-transformations*)  
   - `/essays/dynamic-realism-and-physics.md`  
@@ -37,7 +37,7 @@ Text: CC BY-SA 4.0
 Conceptual framework: © Aimate, 2025
 
 ## DOI  
-- Version: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx) *(replace when published)*
+- Version: [10.5281/zenodo.18053981](https://doi.org/10.5281/zenodo.18053981)
 
 ## Note  
 This work resides in `/essays` because it applies the Property Method to a concrete domain (physics). Its conclusions feed back into `/core` as candidate primitives for a universal ontology. Read it not as a physics paper, but as an **ontological protocol**—a method for distinguishing appearance from being in any relativistic system.
