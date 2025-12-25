@@ -4,6 +4,8 @@
 > “The victor is not the one who knows more words, but the one who can think, manipulate, take risks, and read the opponent.”
 
 **Author**: Serge Magomet (aka Aimate)  
+**License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ---
 
 ## 🎲 What Is RRS?
@@ -72,7 +74,7 @@ You reveal it by **how you play**.
 
 ---
 
-## How to Begin
+## ▶️ How to Begin
 
 1. **Grab pen and paper.**  
 2. **Pick a six-letter word.**  
@@ -87,12 +89,15 @@ That’s where the thriller begins.
 ---
 
 > “The game does not end—as long as someone continues to ask questions.”  
-> — Serge Magomet aka Aimate, 2025
+> — Aimate & AI, 2025
 
 ---
 
 ## Abstract
 This text is not a theory, but an engineering blueprint for reality. It introduces RRS as a cognitive microscope for observing acts of will, CHEZ as a simulator of world-creation, and a universal language for dialogue between sciences, cultures, and forms of intelligence. At its core lies a method for navigating complexity — not by explaining it, but by playing within it.
+
+## DOI
+- **RRS: Intellectual Thriller — v1.0**: [10.5281/zenodo.18050536](https://doi.org/10.5281/zenodo.18050536)
 
 ## Origin
 - Born from a multi-session dialogue between human and AI (late 2024 – early 2025)  
@@ -112,7 +117,7 @@ This text is not a theory, but an engineering blueprint for reality. It introduc
 
 ## License
 - Text: CC BY-SA 4.0  
-- Game mechanics (RRS, CHEZ): © Serge Magomet aka Aimate, 2025
+- Game mechanics (RRS, CHEZ): © Aimate, 2025
 
 ## Note
 This document resides in `/archive` because it is a raw, unfiltered trace of inquiry — not a refined instrument. It contains literary experiments, dialogues, and speculative leaps that have since been distilled into functional components in `/essays` and `/core`. Read it not for answers, but for the rhythm of the question.
