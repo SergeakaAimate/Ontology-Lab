@@ -16,10 +16,9 @@ Thus, the spacetime interval is not just a number—it is a **property of the wo
 ## Context  
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - Related to:  
-  - `/core/axioms.md` — especially Property 7 (*Invariance under Γ-transformations*)  
-  - `/essays/dynamic-realism-and-physics.md`  
-  - `/essays/rrs-ontology-of-self.md` (on invariants of identity)
-
+- [axioms.md](/core/axioms.md) — especially Property 7 (*Invariance under Γ-transformations*)  
+- [dynamic-realism-and-physics.md](/docs/essays/dynamic-realism-and-physics.md)  
+- [rrs-ontology-of-self.md](/docs/essays/rrs-ontology-of-self.md) (on invariants of identity)
 ## Key Insight  
 > Just as RRS reveals the “original word” as the hidden invariant beneath surface moves,  
 > relativity reveals **spacetime interval** as the hidden invariant beneath space and time.
