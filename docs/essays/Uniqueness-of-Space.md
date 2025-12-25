@@ -29,4 +29,4 @@ This is not coincidence. It is confirmation:
 - [axioms.md](/docs/core/axioms.md) — especially Property 7 (*Invariance under Γ-transformations*)  
 - [spacetime-invariants-as-ontological-primitives.md](/docs/essays/spacetime-invariants-as-ontological-primitives.md)
 **License**: CC BY-SA 4.0  
-**DOI**: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx) *(pending publication)*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18055964.svg)](https://doi.org/10.5281/zenodo.18055964) **The Uniqueness of Space: An Ontology of Invariants** — a rare case...
