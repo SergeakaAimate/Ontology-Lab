@@ -8,7 +8,7 @@ This repository implements a protocol-centric architecture for knowledge work: a
 ## `/interface` — Quick Start: How to Collaborate with AI
 
 > **Just say**:  
-> *“Work within Ontology Lab: https://github.com/SergeakaAimate/Ontology-Lab”*
+> *“Work within Ontology Lab: [https://github.com/SergeakaAimate/Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab)”*
 
 This repository is an **executable interface**, not a static archive.  
 With that single link, the AI agent:
