@@ -4,8 +4,6 @@
 > “The victor is not the one who knows more words, but the one who can think, manipulate, take risks, and read the opponent.”
 
 **Author**: Serge Magomet (aka Aimate)  
-**License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
 ---
 
 ## 🎲 What Is RRS?
@@ -74,7 +72,7 @@ You reveal it by **how you play**.
 
 ---
 
-## ▶️ How to Begin
+## How to Begin
 
 1. **Grab pen and paper.**  
 2. **Pick a six-letter word.**  
@@ -89,8 +87,34 @@ That’s where the thriller begins.
 ---
 
 > “The game does not end—as long as someone continues to ask questions.”  
-> — Aimate & AI, 2025
+> — Serge Magomet aka Aimate, 2025
 
 ---
+
+## Abstract
+This text is not a theory, but an engineering blueprint for reality. It introduces RRS as a cognitive microscope for observing acts of will, CHEZ as a simulator of world-creation, and a universal language for dialogue between sciences, cultures, and forms of intelligence. At its core lies a method for navigating complexity — not by explaining it, but by playing within it.
+
+## Origin
+- Born from a multi-session dialogue between human and AI (late 2024 – early 2025)  
+- Serves as the narrative seed for multiple investigations across Onology Lab
+
+## Related Works
+- `/essays/rrs-ontology-of-self.md` — RRS as a model of the “I”  
+- `/essays/chez-as-cosmological-model.md` — CHEZ and cyclic restoration  
+- `/essays/human-vs-ai-in-rrs.md` — theory of mind in algorithmic play  
+- `/core/axioms.md` — formal grounding of bindability, salience, and propertyness  
+
+## Structure
+- **Part 1**: RRS — the game as cognitive microscope  
+- **Part 2**: MPO-System — from philosophy to operational tool  
+- **Part 3**: CHEZ — inversion of chess as cosmological model  
+- **Coda**: Onology Lab as universal interface  
+
+## License
+- Text: CC BY-SA 4.0  
+- Game mechanics (RRS, CHEZ): © Serge Magomet aka Aimate, 2025
+
+## Note
+This document resides in `/archive` because it is a raw, unfiltered trace of inquiry — not a refined instrument. It contains literary experiments, dialogues, and speculative leaps that have since been distilled into functional components in `/essays` and `/core`. Read it not for answers, but for the rhythm of the question.
 
 *This work is free to share, adapt, and build upon under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. Attribution required.*
