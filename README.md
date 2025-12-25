@@ -25,6 +25,9 @@ No context dumping. No text pasting.
 ## Architecture
 - **`/core`** — constitutive axioms and primitives  
 - **[MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf)** — foundational axiomatics of Dynamic Realism: ChOR, KSS, and PPU as generative primitives.
+- **`/core` — The Method's Core**  
+  Axiomatics, primitives, glossary. The minimalistic formal framework of the Property Method (MPO-System). This is not a theory but a tool—the foundation of thought.  
+  **Includes**: [`Multiverse of Cognition and the Creation of the Supermasterpiece`](/docs/core/Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf)
 - **`/essays`**— investigations applying the Property Method  
 - **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.  
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
