@@ -48,4 +48,4 @@ Text: CC BY-SA 4.0
 Conceptual framework: © Serge Magomet aka Aimate, 2025
 
 ## DOI  
-- Version: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx) *(replace when published)*
+- Version: [10.5281/zenodo.18057311](https://doi.org/10.5281/zenodo.18057311)
