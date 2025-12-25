@@ -33,6 +33,8 @@ No context dumping. No text pasting.
 - **[Spacetime Invariants as Ontological Primitives](docs/essays/spacetime-invariants-as-ontological-primitives.pdf)** — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives, redefining physical reality through the lens of the Property Method.
 - **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
 - **[Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf)** — full architectural specification and empirical validation.
+- **[The Uniqueness of Space: An Ontology of Invariants](docs/essays/Uniqueness-of-Space.pdf)** — a rare case of heuristic self-validation: a closed ontological system independently arriving at empirically grounded physical invariants.
+
 - **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
 
 ## Publication
