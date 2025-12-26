@@ -56,10 +56,10 @@ This essay operationalizes the **MPO-System as both tool and world**: it is ℒ�
 
 ## License  
 Text: CC BY-SA 4.0  
-Conceptual framework: © Aimate, 2025
+Conceptual framework: © Serge Magomet aka Aimate, 2025
 
 ## DOI  
-- Version: [10.5281/zenodo.18057311](https://doi.org/10.5281/zenodo.18057311)
+- [**zenodo.18061008**](https://doi.org/10.5281/zenodo.18061008)
 
 ## Note  
 This work resides in `/essays` because it applies the MPO-System to the largest possible domain: **the structure of being itself**. It is the second pillar of Ontology Lab, after the axiomatic core. All other investigations (physics, cognition, games) are special cases within Superreality. Read it not as a metaphysical speculation, but as a **protocol for world-discernment**—a method to detect when reality fractures into irreducible aspects.
