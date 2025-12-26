@@ -24,16 +24,14 @@ No context dumping. No text pasting.
 
 ## Architecture
 - **`/core`** — constitutive axioms and primitives  
-- **[MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf)** — foundational axiomatics of Dynamic Realism: ChOR, KSS, and PPU as generative primitives.
-- **`/core` — The Method's Core**  
-  Axiomatics, primitives, glossary. The minimalistic formal framework of the Property Method (MPO-System). This is not a theory but a tool—the foundation of thought.  
-  **Includes**: [`Multiverse of Cognition and the Creation of the Supermasterpiece`](/docs/core/Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf)
-- **`/essays`**— investigations applying the Property Method  
-- **[The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf)** — inaugural essay on protocol-based human–AI collaboration.
-- **[Spacetime Invariants as Ontological Primitives](docs/essays/spacetime-invariants-as-ontological-primitives.pdf)** — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives, redefining physical reality through the lens of the Property Method.
-- **[A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)** — first in-the-wild case report of ontological self-correction under meta-critique.
-- **[Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf)** — full architectural specification and empirical validation.
-- **[The Uniqueness of Space: An Ontology of Invariants](docs/essays/Uniqueness-of-Space.pdf)** — a rare case of heuristic self-validation: a closed ontological system independently arriving at empirically grounded physical invariants.
+  - [MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.  
+  - [Superreality and Its Worlds](https://doi.org/10.5281/zenodo.18061008) — the second foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
+
+- **`/essays`** — investigations applying the Property Method  
+  - [The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
+  - [Spacetime Invariants as Ontological Primitives](docs/essays/spacetime-invariants-as-ontological-primitives.pdf) — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives...  
+  - [A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) — first in-the-wild case report of ontological self-correction under meta-critique.  
+  - [Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf) — full architectural specification and empirical validation.
 
 - **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
 
@@ -45,7 +43,8 @@ All essays are published as SSRN preprints and archived on Zenodo with DOI:
 - **Table of Contents…** → [doi.org/10.5281/zenodo.18025066](https://doi.org/10.5281/zenodo.18025066)  
 - **Ontological Recalibration…** → [doi.org/10.5281/zenodo.18027030](https://doi.org/10.5281/zenodo.18027030)  
 - **MPO-System (v1.0.0)** → [doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)  
-- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)
+- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)  
+- **Superreality and Its Worlds** → [doi.org/10.5281/zenodo.18061008](https://doi.org/10.5281/zenodo.18061008)
 
 ## Related Publications
 - [SSRN Author Page (Serge Magomet)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=XXXXXX)
