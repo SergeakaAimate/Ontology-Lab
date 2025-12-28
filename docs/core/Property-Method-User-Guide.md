@@ -1,7 +1,7 @@
 # Property Method: User Guide  
 *(Dynamic Realism — Operational Framework)*
 
-> **Core Ontology Artifact** | Ontology Lab · [GitHub](https://github.com/SergeakaAimate/Ontology-Lab) | DOI: *pending*
+> **Core Ontology Artifact** | Ontology Lab · [GitHub](https://github.com/SergeakaAimate/Ontology-Lab) | DOI: [10.5281/zenodo.18075579](https://doi.org/10.5281/zenodo.18075579)
 
 ---
 
@@ -38,7 +38,7 @@ You may share, adapt, and use this guide—even commercially—with attribution.
 
 ---
 
-## 🔗 Citation (DOI pending)  
+## 🔗 Citation (DOI assigned)  
 ```bibtex
 @manual{propertymethoduserguide2025,
   title        = {Property Method: User Guide},
@@ -46,5 +46,5 @@ You may share, adapt, and use this guide—even commercially—with attribution.
   year         = {2025},
   note         = {Core Operational Framework},
   url          = {https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf},
-  doi          = {pending}
+  doi          = {10.5281/zenodo.18075579}
 }
