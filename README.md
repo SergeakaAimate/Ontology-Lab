@@ -24,7 +24,8 @@ No context dumping. No text pasting.
 
 ## Architecture
 - **`/core`** — constitutive axioms and primitives  
-  - [MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.  
+  - [MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.
+  - **[Property Method: User Guide](docs/core/Property-Method-User-Guide.pdf)** — operational protocol for AI-human dialogue via 36 ontological invariants
   - [Superreality and Its Worlds](https://doi.org/10.5281/zenodo.18061008) — the second foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
 
 - **`/essays`** — investigations applying the Property Method  
