@@ -26,8 +26,7 @@ No context dumping. No text pasting.
 - **`/core`** — constitutive axioms and primitives  
   - [MPO-System (v1.0.0)](docs/core/MPO-S-v1-0-0.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.
   - **[Property Method: User Guide](docs/core/Property-Method-User-Guide.pdf)** — operational protocol for AI-human dialogue via 36 ontological invariants
-  - - **[Superreality and Its Worlds](docs/essays/Superreality-and-Its-Worlds.pdf)** — ontological cartography of layered realities through the 36-property lens
-    - (https://doi.org/10.5281/zenodo.18061008) — the second foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
+  - **[Superreality and Its Worlds](docs/core/Superreality-and-Its-Worlds.pdf)** — ontological cartography of layered realities through the 36-property lens — the third foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
 
 - **`/essays`** — investigations applying the Property Method  
   - [The Table of Contents as an Executable Interface](docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
