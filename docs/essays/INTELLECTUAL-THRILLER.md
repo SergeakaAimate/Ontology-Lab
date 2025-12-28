@@ -1,7 +1,7 @@
 # Intellectual Thriller  
 *READY-READY-SHOW! and the Architecture of Ontological Play*  
 
-> **DOI**: `10.5281/zenodo.XXXXXXX` *(placeholder — will be updated after Zenodo ingestion)*  
+> **DOI**: [10.5281/zenodo.18078825](https://doi.org/10.5281/zenodo.18078825)  
 > **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 > **Archive**: [`/docs/archive/INTELLECTUAL-THRILLER.pdf`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/INTELLECTUAL-THRILLER.pdf)  
 > **Essay**: [`/docs/essays/INTELLECTUAL-THRILLER.pdf`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf)  
@@ -20,7 +20,7 @@
   - Demonstrates the **MPO-System** in action—without naming it—as an operating system for reality  
 
 ## Key Contributions  
-- **READY-READY-SH OW!** as a scalable, multi-format intellectual platform:  
+- **READY-READY-SHOW!** as a scalable, multi-format intellectual platform:  
   - 1v1 duel → group “detective” mode → human vs. AI → AI vs. AI  
   - Abstract generalizations: digits → sets → theorems → quantum states  
 - **The “I” as gameplay**: A processual ontology where identity emerges through:  
@@ -37,7 +37,7 @@
 - Extends the **Reflexive Realism Series** into empirical, playable form  
 
 ## Citation Suggestion  
-Magomet, S. (2025). *Intellectual Thriller: READY-READY-SHOW! and the Architecture of Ontological Play*. Ontology Lab. DOI: `10.5281/zenodo.XXXXXXX`
+Magomet, S. (2025). *Intellectual Thriller: READY-READY-SHOW! and the Architecture of Ontological Play*. Ontology Lab. DOI: [10.5281/zenodo.18078825](https://doi.org/10.5281/zenodo.18078825)
 
 ## Primary Review Reference  
 This document is formally introduced and evaluated in:  
