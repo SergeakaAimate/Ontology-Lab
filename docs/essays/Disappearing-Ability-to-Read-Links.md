@@ -1,6 +1,8 @@
 # Disappearing Ability to Read Links  
 *A Cognitive-Epistemic Essay on Interface-Induced Illiteracy*  
 
+📄 **[Read the full essay (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Disappearing-Ability-to-Read-Links.pdf)**
+
 **Abstract**  
 This essay examines the rapid erosion of deep hyperlink literacy in digital-native and hybrid cognitive environments. It argues that contemporary interface design—particularly in social media, AI chat systems, and mobile ecosystems—systematically suppresses the user’s capacity to perceive, interpret, and verify hyperlinks as semantic and epistemic anchors. The result is a form of “link-blindness,” where users navigate information landscapes without awareness of provenance, topology, or citation integrity. Through the lens of Dynamic Realism, the phenomenon is analyzed as a collapse of **Observability (10)**, **Interpretability (27)**, and **Bindability (34)**—core properties governing epistemic trust in networked knowledge.
 
