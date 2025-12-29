@@ -20,7 +20,7 @@ With that single link, the AI agent:
 No context dumping. No text pasting.  
 **The structure is the context. The table of contents is the interface.**
 
-- **[Disappearing Ability to Read Links](docs/essays/Disappearing-Ability-to-Read-Links.md)** — **Critical!** The collapse of hyperlink literacy in AI-native interfaces.
+- **[Disappearing Ability to Read Links](docs/essays/Disappearing-Ability-to-Read-Links.md)** — **Critical error!** The collapse of hyperlink literacy in AI-native interfaces.
 ---
 
 ## Architecture
