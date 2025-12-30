@@ -3,6 +3,8 @@
 
 [Read the full document (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf)
 
+- DOI (Zenodo): [10.5281/zenodo.18094792](https://doi.org/10.5281/zenodo.18094792)
+
 This text is **not an introduction**. It is an ascent to a higher-stratum ontology within the **MPO-System** framework.
 
 ## Reader Advisory
