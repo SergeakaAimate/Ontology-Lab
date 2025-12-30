@@ -1,6 +1,5 @@
 # Universality as Challenge  
 ## Overcoming Intellectual Skepticism
-(Serge Magomet aka Aimate)
 
 [Read the full essay (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universality-as-Challenge.pdf)
 
@@ -24,7 +23,7 @@ The essay concludes that systematic empirical success across disparate fields tr
 
 ### Publication
 
-- DOI (Zenodo): [10.5281/zenodo.18090344](https://doi.org/10.5281/zenodo.18090344)
+- DOI (Zenodo): [10.5281/zenodo.18100345](https://doi.org/10.5281/zenodo.18100345)
 
 ### Context
 
