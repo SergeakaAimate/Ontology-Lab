@@ -1,5 +1,5 @@
 # Interface and Bindability  
-## On the Dialectics of Boundary and Control in Superreality (2025)
+## On the Dialectics of Boundary and Control in Superreality (Serge Magomet aka Aimate, 2025)
 
 [Read the full document (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Interface-and-Bindability.pdf)
 
