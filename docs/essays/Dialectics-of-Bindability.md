@@ -1,7 +1,7 @@
 # The Dialectics of Bindability  
 ## Power as Mutual Control (Property 34, Ontology Lab)
 
-[Read the full document (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialectics-of-Bindability.pdf)
+[Read the full document (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf)
 
 This concise core note articulates the dialectical essence of **Property 34 (Bindability)** within the Meta-Ontological Property System (MPO-System). It challenges the classical, asymmetric view of power—where an agent unilaterally binds an object—and reveals its hidden feedback structure: **every act of control generates counter-dependence**.
 
