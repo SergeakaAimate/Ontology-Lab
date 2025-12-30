@@ -14,7 +14,7 @@ The result is **ontological counterpoint**: the controller becomes bound by the 
 
 > “One cannot enter a connection without being changed by it. Any attempt at unidirectional action upon a system results in the system beginning to act upon you.”
 
-This document serves as the **theoretical nucleus** later expanded into the full methodological protocol in **[Interface and Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Interface-and-Bindability.pdf)** (DOI: [10.5281/zenodo.18099757](https://doi.org/10.5281/zenodo.18099757)).
+This document serves as the **theoretical nucleus** later expanded into the full methodological protocol in **[Interface and Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Interface-and-Bindability.pdf)** (DOI: [10.5281/zenodo.18099757](https://doi.org/10.5281/zenodo.18099757)).
 
 ---
 
