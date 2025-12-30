@@ -24,7 +24,7 @@ This is not pseudoscience—it is **epistemic hygiene**, a method that embraces 
 
 ### Publication
 
-- DOI (Zenodo): [10.5281/zenodo.18090344](https://doi.org/10.5281/zenodo.18090344)
+- DOI (Zenodo): [10.5281/zenodo.18099521](https://doi.org/10.5281/zenodo.18099521)
 
 ### Context
 
