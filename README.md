@@ -11,7 +11,7 @@ This repository implements a protocol-centric architecture for knowledge work: a
 > *“Work within Ontology Lab: [https://github.com/SergeakaAimate/Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab)”*
 
 This repository is an **executable interface**, not a static archive.  
-With that single link, the AI agent:
+With that single link, the AI agent presumably:
 - treats `/core` as axiomatic primitives (MPO-System, ChOR, KSS, PPU),  
 - interprets `/essays` as executed reasoning trajectories,  
 - uses `/archive` as raw potential for retroactive structuring,  
