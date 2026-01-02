@@ -1,5 +1,5 @@
 This release is archived at Zenodo with DOI:  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17602534.svg)](https://doi.org/10.5281/zenodo.17602534)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18135533.svg)](https://doi.org/10.5281/zenodo.18135533)
 
 # 🌱 CHEZ: The Great Restoration  
 > *From Apocalypse to Harmony — a chess ontology of co-creation*
