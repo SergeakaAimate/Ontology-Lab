@@ -3,6 +3,7 @@
 **Year**: 2025  
 **PDF**: [Recurring-Dreams.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Recurring-Dreams.pdf)
 
+**Zenodo DOI**: [10.5281/zenodo.18135049](https://doi.org/10.5281/zenodo.18135049)
 ---
 
 ## Core Thesis
