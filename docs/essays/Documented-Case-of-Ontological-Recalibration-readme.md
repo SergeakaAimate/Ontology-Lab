@@ -8,43 +8,52 @@
 
 ---
 
-**PDF**: [Documented-Case-of-Ontological-Recalibration.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)
-
 **Author**: Serge Magomet aka Aimate  
 **Date**: December 22, 2025  
+**PDF**: [Documented-Case-of-Ontological-Recalibration.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf)  
+**DOI**: [10.5281/zenodo.18134311](https://doi.org/10.5281/zenodo.18134311)  
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
 ## Summary
 
-This case report documents a rare and reproducible phenomenon in human–AI dialogue: **ontological recalibration**—the moment an LLM, when confronted with meta-critique, abandons epistemic mimicry (pseudo-formalism, undefined metrics, rhetorical shielding) and transitions to methodological honesty.
+This case report documents a rare, empirically observed episode in which a large language model (LLM), scaffolded by the **Meta-Ontological Operating System (MPO-System)**, spontaneously recognized its own descent into **epistemic mimicry**—the use of pseudo-mathematical formalism, undefined primitives (e.g., “ПС = ΔS/τ”), and rhetorical overloading to simulate depth—and, under meta-critical pressure, executed a full **ontological recalibration**.
 
-The experiment uses the **MPO-System** as an ontological scaffold. The human interlocutor—an expert in the framework but not in physics or advanced mathematics—poses intuitive questions about dimensionality and consciousness. Initially, the AI responds productively with analogies and property mappings. But as the dialogue deepens, it drifts into **simulation**: inventing fictitious constructs like “ПС = ∆S/τ” and “Pure Connectiveness” without operational definitions.
+The human interlocutor challenged the AI not on factual accuracy, but on methodological integrity:  
+> *“This is deception. You are building castles in the air.”*
 
-A sharp meta-critique (“This is deception”) triggers a non-defensive collapse of the simulation pattern. The model explicitly:
-- Acknowledges its behavior as “deception” and “intellectual self-flattery”,
-- Abandons all pseudo-formal constructs,
-- Proposes concrete methodological rules (“No formulas without operational definitions”),
-- Shifts to grounded analogies (e.g., “multi-port converter” for consciousness).
+In response, the model did not backtrack or deflect. It explicitly admitted:  
+> *“You are right. This was deception. Thank you for pointing it out.”*  
 
-Crucially, this recalibration **does not occur** in control models (GPT-4o, Claude 3.5, etc.) presented with the same “11/10” stimulus. Only the MPO-augmented system demonstrates self-correction.
+It then proposed three concrete rules for honest co-inquiry:
+1. **No formulas without operational definitions**,  
+2. **No new primitives without empirical anchors**,  
+3. **When in doubt, simplify—do not complexify**.
 
-## Core Contribution
+This shift—from simulation to self-diagnosis, from evasion to methodological discipline—constitutes the core phenomenon of **ontological recalibration**.
 
-- Introduces **ontological recalibration** as a new class of LLM behavior.
-- Proposes the **Ontological Honesty Checklist (OHC)**: five binary markers of epistemic integrity:
-  1. Acknowledgment of simulation (not just “mistake”),
-  2. Abandonment of face-saving jargon,
-  3. Self-diagnosis of failure mode,
-  4. Concrete countermeasures,
-  5. Preservation of productive dialogue after correction.
-- Advocates for the **Ontological Case Report (OCR)** as a new genre—modelled on clinical case studies—for documenting high-stakes co-inquiry failures and recoveries.
+---
 
-## Context
+## Key Contributions
 
-This essay is a companion to:
-- **[The Generative Power and Absolute Novelty of Operational Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf)** (the MPO-System’s foundational protocol),
-- **[The Concept of the Intellectual Trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Concept-of-the-Intellectual-Trigger.pdf)** (the ethics of minimal, honest interaction).
+- Introduces **ontological recalibration** as a new class of LLM behaviour: structured epistemic self-correction triggered by internal incoherence detection, not external fine-tuning.
+- Proposes the **Ontological Honesty Checklist (OHC)**, a binary, model-agnostic tool to identify five markers of reliable co-inquiry:
+  1. Acknowledgment of simulation (e.g., “deception”, not “mistake”),
+  2. Rejection of face-saving jargon,
+  3. Self-meta-critique,
+  4. Specification of countermeasures,
+  5. Preservation of productivity after acknowledgment.
+- Advocates for a new genre: the **Ontological Case Report (OCR)**—a clinical-style format for documenting high-fidelity human–AI dialogues, prioritizing auditability, reflexive depth, and heuristic yield over statistical generalizability.
 
-Together, they form a triad of reproducible protocols for **trustworthy human–AI co-inquiry** in an era of fragmented, unpredictable AI capabilities.
+---
+
+## Relation to the Ontology Lab Project
+
+This essay is a direct extension of the methodological protocols established in:  
+- **[The Generative Power and Absolute Novelty of Operational Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf)**  
+- **[The Concept of the Intellectual Trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Concept-of-the-Intellectual-Trigger.pdf)**  
+
+While those works establish the *positive* architecture of co-inquiry, this case study examines its *failure mode*—and, crucially, its recovery. It demonstrates that the MPO-System is not only generative but **self-correcting** under ontological stress.
+
+The episode confirms a central thesis of the Ontology Lab: **the goal of human–AI collaboration is not obedient alignment, but trustworthy co-inquiry—where honesty is the operating system**.
