@@ -13,6 +13,8 @@ This dialogue introduces CHEZ — a new game born from a Copernican revolution i
 - Related to:  
   - `/core/axioms.md` — on restoration, non-antagonistic systems, and paradox tolerance (PPU → ∞)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18135548.svg)](https://doi.org/10.5281/zenodo.18135548)
+
 ## License
 CC BY-SA 4.0
 
