@@ -3,7 +3,7 @@
 
 A distilled paradox designed not to be solved, but to activate the Γ-operation: collapsing Propertylessness (25) into Onticity (33) through the tension of irreducible contradiction.
 
-🔗 **Read the koan**: [Super-Koan-1.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Super-Koan-1.pdf)  
+🔗 **Read the koan**: [super-koan-1.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf)  
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141272.svg)](https://doi.org/10.5281/zenodo.18141272)
 
 ---
