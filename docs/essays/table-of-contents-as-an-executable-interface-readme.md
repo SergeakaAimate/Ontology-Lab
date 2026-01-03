@@ -11,7 +11,7 @@
 ---
 
 ## Publication
-- **DOI (Zenodo)**: [https://doi.org/10.5281/zenodo.18138519](https://doi.org/10.5281/zenodo.18138519)
+- **DOI (Zenodo)**: [10.5281/zenodo.18138519](https://doi.org/10.5281/zenodo.18138519)
 
 ## Context
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)
@@ -19,3 +19,5 @@
 
 ## License
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+📄 **Read the full text**: [table-of-contents-as-an-executable-interface-readme.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface-readme.pdf)
