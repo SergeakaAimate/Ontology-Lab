@@ -8,7 +8,7 @@ Two players each select a hidden six-letter word. They then alter their word—l
 Beneath this simplicity lies a profound structure: RRS models the act of reconstructing hidden states from visible traces—a core operation of human and artificial intelligence alike.
 
 🔗 **Read the rules**: [Ready-ReadyShow-rules.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-ReadyShow-rules.pdf)  
-🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18140896.svg)](https://doi.org/10.5281/zenodo.18140896)
+🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18140932.svg)](https://doi.org/10.5281/zenodo.18140932)
 
 ---
 
