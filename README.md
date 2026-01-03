@@ -32,7 +32,7 @@ No context dumping. No text pasting.
   - **[Superreality and Its Worlds](docs/core/Superreality-and-Its-Worlds.pdf)** — ontological cartography of layered realities through the 36-property lens — the third foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
 
 - **`/essays`** — investigations applying the Property Method  
-  - [table-of-contents-as-an-executable-interface](docs/essays/Ttable-of-contents-as-an-executable-interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
+  - [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
   - [Spacetime Invariants as Ontological Primitives](docs/essays/spacetime-invariants-as-ontological-primitives.pdf) — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives...  
   - [A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) — first in-the-wild case report of ontological self-correction under meta-critique.  
   - [Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf) — full architectural specification and empirical validation.
