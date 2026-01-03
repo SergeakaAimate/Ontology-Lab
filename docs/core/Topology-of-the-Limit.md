@@ -3,7 +3,8 @@
 
 Boundaries are not walls. They are membranes — dynamic zones where ontology is born.
 
-🔗 **Read the essay**: [The-Topology-of-the-Limit.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The-Topology-of-the-Limit.pdf)  
+🔗 **Read the essay**: [The-Topology-of-the-Limit.pdf]([https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The-Topology-of-the-Limit.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf))  
+
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141093.svg)](https://doi.org/10.5281/zenodo.18141093)
 
 ---
