@@ -22,8 +22,7 @@ Beneath this simplicity lies a profound structure: RRS models the act of reconst
 ## Context
 
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
-- Related essay: [rrs-ontology-of-self.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/rrs-ontology-of-self.md)  
-- Narrative context: [intellectual-thriller.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/archive/intellectual-thriller.md)  
+- Full narrative context: [INTELLECTUAL-THRILLER.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf)  
 - **Ontological function**: Embodies the interplay of **Bindability**, **Salience**, and **Uncertainty**—core properties of the MPO-System.
 
 ## License
