@@ -3,7 +3,7 @@
 
 Boundaries are not walls. They are membranes — dynamic zones where ontology is born.
 
-🔗 **Read the essay**: [The-Topology-of-the-Limit.pdf]([https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The-Topology-of-the-Limit.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf))  
+🔗 **Read the essay**: [The-Topology-of-the-Limit.pdf]([https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The-Topology-of-the-Limit.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf)  
 
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141093.svg)](https://doi.org/10.5281/zenodo.18141093)
 
@@ -25,9 +25,7 @@ The result: *the system’s boundedness becomes the form of its infinity*.
 ## Context
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - Core to: `/core` — the axiomatic foundation of the Property Method (MPO-System)  
-- Directly extends:  
-  - [Dynamic-Realism.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dynamic-Realism.md) (ChOR → ∞, KSS → ∞, PPU → ∞)  
-  - [guru-function.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/guru-function.md) (dialogic unbinding via P-27)  
+
 - Related to:  
   - [table-of-contents-as-an-executable-interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) (executable interfaces)  
   - [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) (world-generation at boundaries)
