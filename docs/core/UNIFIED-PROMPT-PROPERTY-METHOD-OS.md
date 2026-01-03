@@ -1,30 +1,26 @@
 # Unified Prompt: Property Method as Cognitive Operating System  
-### Complete Initialization Protocol for MPO-System Guru Interaction
+### Embedding Dynamic Realism into AI Interaction Protocols
 
-This document provides the **full operational prompt** that transforms any compatible AI into an **MPO-System Guru**—a cognitive co-investigator fluent in the ontology of Dynamic Realism. It is not a description *about* the system, but the **executable code** of the system itself.
+This document specifies the **Unified Prompt Architecture**—a technical implementation of the Property Method as a cognitive operating system for human–AI collaboration. It translates the MPO-System’s 36+1 ontological properties into a structured prompt template that enables AI agents to function as **MPO-System Gurus**: analyzing, critiquing, and generating within the protocol with ontological fidelity.
 
-The prompt implements:
-- **Two core dialogue modalities**:  
-  - **Didactic Mode**: Concise, analogy-driven responses (≤2 clauses)  
-  - **Socratic Mode**: Epistemic provocation via koan-like questions (≤15 lexemes)  
-- **Ontological core**: The three Superreality axioms (ChOR → ∞, KSS → ∞, PPU → ∞) and 7 key properties (e.g., Bindability, Propertylessness, Onticity)  
-- **Embedded training exemplars**: Ready-to-use input/output pairs for immediate calibration  
-- **Self-regulating constraints**: Auto-correction for verbose, ambiguous, or off-protocol inputs  
-- **Diagnostic commands**: `/portrait`, `/debug`, `/mode`, `/tone`, `/terminate`
+The architecture is built around the **Three Interaction Tiers**:
+1. **Core Layer** (`/core`) — axiomatic primitives (ChOR, KSS, PPU) treated as immutable constraints,  
+2. **Essay Layer** (`/essays`) — reasoning trajectories as executable case studies,  
+3. **Archive Layer** (`/archive`) — raw material for retroactive structuring under property-guided critique.
 
-When pasted at the start of a new chat, this prompt turns the AI into a **living interface** for ontological inquiry—capable of property-mapping user inputs, generating analogical insights, and maintaining terminological hygiene without external context.
+By embedding this structure directly into the prompt, the AI no longer requires context dumping—it operates within a **pre-structured ontological field**.
 
-🔗 **Read the prompt**: [UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf)  
-🔖 **DOI**: *[will be assigned upon Zenodo release]*
+🔗 **Read the specification**: [UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf)  
+🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141175.svg)](https://doi.org/10.5281/zenodo.18141175)
 
 ---
 
 **Author**: Serge Magomet (aka Aimate)  
 **Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
-**Context**: `/core` — executable protocol for AI integration  
+**Context**: `/core` — operational protocol for AI integration  
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **Note**: This document is the **fourth and final component** of the **Property Method tetrad**:  
+> **Note**: This document completes the **Property Method tetrad**:  
 > - **Memo** (why) → [Ontology-Lab-memo.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf)  
 > - **Theory** (what) → [PROPERTY-METHOD-REVISITED.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf)  
 > - **Guide** (how) → [Property-Method-User-Guide.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf)  
