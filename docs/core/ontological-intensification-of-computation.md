@@ -3,7 +3,7 @@
 
 A foundational essay on the transformation of computation from a syntactic tool into an ontological partner—where algorithms cease to be neutral executors and become participants in the co-constitution of reality.
 
-🔗 **Read the essay**: [Ontological-Intensification-of-Computation.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontological-Intensification-of-Computation.pdf)  
+🔗 **Read the essay**: [Ontological-Intensification-of-Computation.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essay/Ontological-Intensification-of-Computation.pdf)  
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141218.svg)](https://doi.org/10.5281/zenodo.18141218)
 
 ---
