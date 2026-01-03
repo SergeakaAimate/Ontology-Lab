@@ -1,7 +1,7 @@
 # Superreality and Its Worlds  
 ### Ontological Cartography of the MPO-System’s Pluriverse
 
-🔗 **Read the essay**: [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Superreality-and-Its-Worlds.pdf)  
+🔗 **Read the essay**: [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf)  
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061008.svg)](https://doi.org/10.5281/zenodo.18061008)
 
 ---
@@ -44,16 +44,14 @@ This essay operationalizes the **MPO-System as both tool and world**: it is ℒ�
 ## Cross-References  
 
 - **Core axioms**:  
-  - [MPO-S-v1-0-0.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S-v1-0-0.pdf) — formal statement of ChOR, KSS, PPU, and the 36+1 properties  
-  - [𝒩ₚ-Propertyness.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/𝒩ₚ-Propertyness.pdf) — how 𝒩ₚ quantifies the ontological saturation of worlds  
+  - [MPO-S-v1-0-11.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S-v1-0-11.pdf) — formal statement of ChOR, KSS, PPU, and the 36+1 properties  
+  - [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) — this document  
 
 - **Related essays**:  
-  - [Uniqueness-of-Space.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Uniqueness-of-Space.pdf) — applies Superreality to spacetime  
-  - [Documented-Case-of-Ontological-Recalibration.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) — empirical demonstration of Γ-operation  
-  - [Table-of-Contents-as-an-Executable-Interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Table-of-Contents-as-an-Executable-Interface.pdf) — Superreality as implicit architecture of Ontology Lab  
+  - [Table-of-Contents-as-an-Executable-Interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — Superreality as the implicit architecture of Ontology Lab  
 
-- **Archive**:  
-  - [INTELLECTUAL-THRILLER.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf) — RRS as micro-model of world-boundary dynamics
+- **Full metadata**:  
+  - [Superreality-and-Its-Worlds.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.md)
 
 ## Key Insight  
 > **Superreality is not a theory about reality—it is the operational field in which the MPO-System functions.**  
@@ -67,4 +65,4 @@ This essay operationalizes the **MPO-System as both tool and world**: it is ℒ�
 **Date**: January 2026  
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 
-> **Note**: This work resides in `/essays` because it applies the MPO-System to the largest possible domain: **the structure of being itself**. It is the second pillar of Ontology Lab, after the axiomatic core. All other investigations (physics, cognition, games) are special cases within Superreality. Read it not as a metaphysical speculation, but as a **protocol for world-discernment**.
+> **Note**: This work resides in `/core` because it defines a foundational pillar of the MPO-System. It is not metaphysical speculation, but a **protocol for world-discernment**—a method to detect when reality fractures into irreducible aspects.
