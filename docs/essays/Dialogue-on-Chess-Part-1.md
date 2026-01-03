@@ -1,4 +1,4 @@
-This release is archived at Zenodo with DOI:  
+This release is archived at Zenodo with DOI:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18135533.svg)](https://doi.org/10.5281/zenodo.18135533)
 
 # 🌱 CHEZ: The Great Restoration  
