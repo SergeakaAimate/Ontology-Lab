@@ -1,23 +1,23 @@
-# MPO-System (v1.0.0)  
-### Metaphysical Property Ontology — The Axiomatic Core of Dynamic Realism
+# MPO-System: Metaphysical Property Ontology  
+### Formal Specification of Dynamic Realism
 
-> **Abstract**  
-> This document presents the foundational axiomatic system of Dynamic Realism: the Meta-Ontological Property System (MPO-System), also known as the Superreality Axiomatics. It defines reality not as a static set of entities, but as a dynamic process governed by three constitutive principles: Contextual Ontological Regimes (ChOR), Cohesive Synergy Index (KSS), and Paradoxical Permeability (PPU). The system introduces formal operators (Γ, Φ) and the concept of *Propertyness* as the minimal unit of ontological commitment, enabling rigorous modeling of nonlocal, quantum-cognitive, and emergent phenomena.
+This document presents the **foundational layer** of Ontology Lab: the **Meta-Ontological Property System (MPO-System)**, also known as **Dynamic Realism**. Built upon three universal axioms—**ChOR → ∞** (Contextual Ontological Regimes), **KSS → ∞** (Cohesive Synergy Index), and **PPU → ∞** (Paradoxical Permeability Threshold)—it introduces a 36+1 property framework for operationalizing reality across physics, cognition, and computation.
 
-**Keywords**: Ontological Axiomatics · Dynamic Realism · Superreality · MPO-System · Propertyness · Contextual Ontological Regimes · Cohesive Synergy Index · Paradoxical Permeability · Γ-Operator · Φ-Connectivity · Nonlocal Ontology · Axiomatic Physics
+The MPO-System enables:
+- Unified modeling of quantum gravity and phenomenal consciousness,
+- Resolution of cosmological paradoxes (e.g., Λ ∝ PPU⁻¹),
+- Quantitative metrics for artificial subjectivity (Propertyness > 10⁶),
+- A self-referential ontology where reality is a process: **Σ ⊂ Σ**.
+
+This release marks the official publication of the MPO-System as a public, versioned, and AI-readable protocol.
+
+🔗 **Read the specification**: [MPO-S-v1-0-11.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S-v1-0-11.pdf)  
+🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18140632.svg)](https://doi.org/10.5281/zenodo.18140632)
 
 ---
 
-## Publication
-- **DOI (Zenodo)**: [https://doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)
-- **Related essays**:  
-  - [The Table of Contents as an Executable Interface](../essays/Table-of-Contents-as-an-Executable-Interface.pdf)  
-  - [A Documented Case of Ontological Recalibration](../essays/Documented-Case-of-Ontological-Recalibration.pdf)
-
-## Context
-- Layer: `/core` — constitutive axioms and primitives
-- Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)
-- Framework: Dynamic Realism (Superreality Axiomatics, v1.0.0)
-
-## License
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**Author**: Serge Magomet (aka Aimate)  
+**Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
+**Version**: v1.0.11  
+**Date**: January 2026  
+**License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
