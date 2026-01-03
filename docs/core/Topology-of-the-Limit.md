@@ -1,7 +1,12 @@
 # The Topology of the Limit  
-Self-Referential Boundaries in the MPO-System as an Ontological Principle
+### Self-Referential Boundaries in the MPO-System as an Ontological Principle
 
 Boundaries are not walls. They are membranes — dynamic zones where ontology is born.
+
+🔗 **Read the essay**: [The-Topology-of-the-Limit.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The-Topology-of-the-Limit.pdf)  
+🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18141093.svg)](https://doi.org/10.5281/zenodo.18141093)
+
+---
 
 ## Abstract
 This work resolves the paradox of self-reference not by exclusion, but by ontologization: turning the limit itself into a world (`W₄`). Any universal theory—be it a Theory of Everything, formal ontology, or AI world-model—inevitably includes *itself* in its domain, generating a self-reference loop. Traditional logic responds with barriers (e.g., Tarski’s hierarchy). The MPO-System responds with **topology**: boundaries become internal, generative processes that produce new ontological regimes.
@@ -17,22 +22,27 @@ The result: *the system’s boundedness becomes the form of its infinity*.
 > **Crucially, the MPO-System reveals that every boundary is not a wall, but a world in its own right** (`W₄`). Thus, even the repository’s division into `/core`, `/essays`, `/archive` is not rigid taxonomy, but a dynamic interface—where each “folder” is a threshold into deeper layers of inquiry, and the lines between them pulse with generative tension. The structure is real, yet permeable: a living membrane, not a cage.
 
 ## Context
-- Part of: [Onology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
+- Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - Core to: `/core` — the axiomatic foundation of the Property Method (MPO-System)  
 - Directly extends:  
-  - [`/core/Dynamic-Realism.md`](Dynamic-Realism.md) (ChOR → ∞, KSS → ∞, PPU → ∞)  
-  - [`/core/guru-function.md`](guru-function.md) (dialogic unbinding via P-27)  
+  - [Dynamic-Realism.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dynamic-Realism.md) (ChOR → ∞, KSS → ∞, PPU → ∞)  
+  - [guru-function.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/guru-function.md) (dialogic unbinding via P-27)  
 - Related to:  
-  - [`/essays/table-of-contents-as-an-executable-interface-readme.md`](../essays/table-of-contents-as-an-executable-interface-readme.md) (executable interfaces)  
-  - [`/essays/Superreality-and-Its-Worlds.md`](../essays/Superreality-and-Its-Worlds.md) (world-generation at boundaries)
+  - [table-of-contents-as-an-executable-interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) (executable interfaces)  
+  - [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) (world-generation at boundaries)
 
 ## Applications
 - **Physics**: Derivation of space uniqueness from ontological invariants (`KSS → ∞` + `P-33`)  
 - **Consciousness theory**: Resolving the “explanatory gap” through operational bindability (`Γ` + observer)  
 - **AI metacognition**: Formal model for self-limit awareness in language models
 
-## License
-Ontological framework, proofs, and protocols: **CC BY-SA 4.0**  
-Code & tooling (if any): MIT
+---
+
+**Author**: Serge Magomet (aka Aimate)  
+**Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
+**Date**: January 2026  
+**License**:  
+- Ontological framework, proofs, and protocols: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
+- Code & tooling (if any): MIT
 
 > “The limit is not where becoming ends — it is where it begins.”
