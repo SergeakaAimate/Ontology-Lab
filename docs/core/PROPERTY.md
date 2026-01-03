@@ -10,7 +10,7 @@ Central to the **Meta-Ontological Property System (MPO-S)**, this definition int
 
 This text positions Property as a **primitive on par with space, time, and relation**—irreducible, but enactable through the 36+1 property framework.
 
-🔗 **Read the specification**: [MPO-S-PROPERTY.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S-PROPERTY.pdf)  
+🔗 **Read the specification**: [PROPERTY.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf)  
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18140632.svg)](https://doi.org/10.5281/zenodo.18140632)
 
 ---
