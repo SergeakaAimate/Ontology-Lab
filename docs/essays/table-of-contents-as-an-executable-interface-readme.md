@@ -11,8 +11,7 @@
 ---
 
 ## Publication
-- **SSRN**: [https://ssrn.com/author=XXXXXXX]  
-- **DOI (Zenodo)**: [https://doi.org/10.XXXX/XXXXXX]
+- **DOI (Zenodo)**: [https://doi.org/10.5281/zenodo.18138519](https://doi.org/10.5281/zenodo.18138519)
 
 ## Context
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)
