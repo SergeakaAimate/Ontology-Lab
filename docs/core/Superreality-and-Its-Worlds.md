@@ -38,7 +38,7 @@ This essay operationalizes the **MPO-System as both tool and world**: it is ℒ�
 ## Cross-References  
 
 - **Core axioms**:  
-  - [`/docs/core/MPO-S-v1-0-0.pdf`](MPO-S-v1-0-0.pdf) — formal statement of ChOR, KSS, PPU, and the 36+1 properties  
+  - [`/docs/core/MPO-S.pdf`](MPO-S-v1-0-0.pdf) — formal statement of ChOR, KSS, PPU, and the 36+1 properties  
   - [`/docs/core/𝒩ₚ-Propertyness.pdf`](𝒩ₚ-Propertyness.pdf) — how 𝒩ₚ quantifies the ontological saturation of worlds (e.g., ℒ₃ has vastly higher 𝒩ₚ than ℒ₁)
 
 - **Related essays**:  
