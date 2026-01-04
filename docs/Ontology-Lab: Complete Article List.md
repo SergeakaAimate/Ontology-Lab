@@ -8,23 +8,23 @@
 
 1.  [A-living-thought-interface-for-human-AI-cognitive-collaboration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/A-living-thought-interface-for-human-AI-cognitive-collaboration.pdf) – The repository as a living interface and cognitive scaffold for human-AI collaboration.
 2.  [README (Ontology Lab as an Interface)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/README.md) – The root description of the repository's mission, architecture, and usage protocol.
-3.  [MPO-System]([https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S-v1-0-11.pdf) – The formal specification of "Dynamic Realism," defining core concepts (ChOR, KSS, PPU) and 36+1 properties.
-4.  [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf) – An operational protocol for AI-human dialogue based on 36 ontological invariants.
-5.  [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) – An ontological map of layered realities (Superreality) through the lens of 36 properties.
-6.  [Dialectics-of-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf) – An investigation of bindability as a fundamental ontological principle.
-7.  [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf) – Analysis of generative power and absolute novelty in operational phenomenology.
-8.  [Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf) – A description of the ontology lab as a multiverse for cognition and creative masterpiece-making.
-9.  [Meet-the-37](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-37.pdf) – An introduction to the 37th (or additional) property within the MPO-System framework.
-10. [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf) – A foundational discussion of the "property" category as the central element of the system.
-11. [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf) – A revision and deeper exploration of the Property Method.
-12. [Ready-Ready-Show-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-Ready-Show-rules.pdf) – The rules of the "Ready-Ready-Show" protocol for structured interaction.
-13. [Topology-of-the-Limit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf) – An investigation into the topology of the limit within an ontological context.
-14. [Tuning AI Through the Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning-AI-Through-the-Koan.md) – A method for tuning AI agents using koans (paradoxical tasks).
-15. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-property method as an operating system for thought.
-16. [ontological-intensification-of-computation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/ontological-intensification-of-computation.pdf) – The concept of ontological intensification of computation.
-17. [super-koan-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf) – An example of a super-koan for deep ontological inquiry.
-18. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%E2%82%9A-Propertyness-(%F0%9D%92%83%E2%82%9A).pdf) – Introduction of the "Propertyness" metric for measuring ontological complexity.
-19. [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) – An explanatory essay introducing the Ontology-Lab project.
+3.  [MPO-System](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System.pdf) – The formal specification of "Dynamic Realism," defining core concepts (ChOR, KSS, PPU) and 36+1 properties.
+5.  [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf) – An operational protocol for AI-human dialogue based on 36 ontological invariants.
+6.  [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) – An ontological map of layered realities (Superreality) through the lens of 36 properties.
+7.  [Dialectics-of-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf) – An investigation of bindability as a fundamental ontological principle.
+8.  [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf) – Analysis of generative power and absolute novelty in operational phenomenology.
+9.  [Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf) – A description of the ontology lab as a multiverse for cognition and creative masterpiece-making.
+10.  [Meet-the-37](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-37.pdf) – An introduction to the 37th (or additional) property within the MPO-System framework.
+11. [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf) – A foundational discussion of the "property" category as the central element of the system.
+12. [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf) – A revision and deeper exploration of the Property Method.
+13. [Ready-Ready-Show-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-Ready-Show-rules.pdf) – The rules of the "Ready-Ready-Show" protocol for structured interaction.
+14. [Topology-of-the-Limit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf) – An investigation into the topology of the limit within an ontological context.
+15. [Tuning AI Through the Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning-AI-Through-the-Koan.md) – A method for tuning AI agents using koans (paradoxical tasks).
+16. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-property method as an operating system for thought.
+17. [ontological-intensification-of-computation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/ontological-intensification-of-computation.pdf) – The concept of ontological intensification of computation.
+18. [super-koan-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf) – An example of a super-koan for deep ontological inquiry.
+19. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%E2%82%9A-Propertyness-(%F0%9D%92%83%E2%82%9A).pdf) – Introduction of the "Propertyness" metric for measuring ontological complexity.
+20. [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) – An explanatory essay introducing the Ontology-Lab project.
 
 ---
 
