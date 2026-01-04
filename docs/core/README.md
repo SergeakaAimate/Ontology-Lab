@@ -3,8 +3,7 @@ A living thought interface for human–AI cognitive collaboration.
 
 This repository implements a protocol-centric architecture for knowledge work: a structured interface that replaces context dumping with executable organization. It is designed as an anti-fragile cognitive scaffold — a heat engine of thought.
 
-- **[Complete Article List](ARTICLE-LIST.md)**
-
+- [Complete Article List](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/ARTICLE-LIST.md)
 ---
 
 ## `/interface` — Quick Start: How to Collaborate with AI
