@@ -30,12 +30,31 @@ No context dumping. No text pasting.
 
 ## Architecture
 - **`/core`** — constitutive axioms and primitives  
-  - [MPO-System](docs/core/MPO-S-v1-0-0.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.
+  - [MPO-System](docs/core/MPO-S.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.
   - **[Property Method: User Guide](docs/core/Property-Method-User-Guide.pdf)** — operational protocol for AI-human dialogue via 36 ontological invariants
   - **[Superreality and Its Worlds](docs/core/Superreality-and-Its-Worlds.pdf)** — ontological cartography of layered realities through the 36-property lens — the third foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
 
 - **`/essays`** — investigations applying the Property Method  
   - [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
-  - [Spacetime Invariants as Ontological Primitives](docs/essays/spacetime-invariants-as-ontological-primitives.pdf) — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives...  
+  - [Spacetime Invariants as Ontological Primitives](docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md) — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives...  
   - [A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) — first in-the-wild case report of ontological self-correction under meta-critique.  
-  - [Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol-v1.0.0.pdf) — full architectural specification and empirical validation.
+  - [Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol.pdf) — full architectural specification and empirical validation.
+
+- **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
+
+## Publication
+- **GitHub** — living protocol, versioned releases, DOI via Zenodo  
+- **SSRN** — fixed preprint versions with metrics (downloads, abstract views)  
+
+All essays are published as SSRN preprints and archived on Zenodo with DOI:
+- **Table of Contents…** → [doi.org/10.5281/zenodo.18025066](https://doi.org/10.5281/zenodo.18025066)  
+- **Ontological Recalibration…** → [doi.org/10.5281/zenodo.18027030](https://doi.org/10.5281/zenodo.18027030)  
+- **MPO-System (v1.0.0)** → [doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)  
+- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)  
+- **Superreality and Its Worlds** → [doi.org/10.5281/zenodo.18061008](https://doi.org/10.5281/zenodo.18061008)
+
+## Related Publications
+- [SSRN Author Page (Serge Magomet)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=XXXXXX)
+
+## License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
