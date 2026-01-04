@@ -8,7 +8,7 @@
 
 1.  [A-living-thought-interface-for-human-AI-cognitive-collaboration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/A-living-thought-interface-for-human-AI-cognitive-collaboration.pdf) – The repository as a living interface and cognitive scaffold for human-AI collaboration.
 2.  [README (Ontology Lab as an Interface)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/README.md) – The root description of the repository's mission, architecture, and usage protocol.
-3.  [MPO-System (v1.0.0)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System-(v1.0.0).pdf) – The formal specification of "Dynamic Realism," defining core concepts (ChOR, KSS, PPU) and 36+1 properties.
+3.  [MPO-System](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System.pdf) – The formal specification of "Dynamic Realism," defining core concepts (ChOR, KSS, PPU) and 36+1 properties.
 4.  [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf) – An operational protocol for AI-human dialogue based on 36 ontological invariants.
 5.  [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) – An ontological map of layered realities (Superreality) through the lens of 36 properties.
 6.  [Dialectics-of-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf) – An investigation of bindability as a fundamental ontological principle.
