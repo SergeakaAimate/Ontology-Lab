@@ -3,6 +3,8 @@
 **Year**: 2025  
 **PDF**: [Unexpected-RRS-and-Three-Body-Problem.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Unexpected-RRS-and-Three-Body-Problem.pdf)
 
+**Zenodo DOI**: [10.5281/zenodo.18145106](https://doi.org/10.5281/zenodo.18145106)
+
 ---
 
 ## Core Thesis
