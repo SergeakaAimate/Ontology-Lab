@@ -1,31 +1,60 @@
-# Ontology Lab as an Interface  
-## An Executable Protocol for Human–AI Co-Inquiry
+# Ontology Lab  
+A living thought interface for human–AI cognitive collaboration.  
 
-Ontology Lab is no longer merely a repository. It has become a publicly declared protocol for cognitive collaboration—an operational framework in which **architecture is context**, **structure is method**, and a single URL functions as a formal invocation.
+This repository implements a protocol-centric architecture for knowledge work: a structured interface that replaces context dumping with executable organization. It is designed as an anti-fragile cognitive scaffold — a heat engine of thought.
 
-To share the link  
-https://github.com/SergeakaAimate/Ontology-Lab  
-is not to point to a collection of files. It is to grant access to an ontological operating system, wherein human intuition and artificial reasoning co-navigate reality through a shared scaffold of primitives, practices, and accountability.
+- **[Complete Article List](ARTICLE-LIST.md)**
 
-This protocol is now fully instantiated:
-- The **`/core`** layer contains the axiomatic foundation—ChOR → ∞, KSS → ∞, and PPU → ∞—materialized in the MPO-System (v1.0.0);
-- The **`/essays`** layer demonstrates applied reasoning, with two complete case studies, each archived with a Zenodo DOI and structured for SSRN compatibility;
-- The **`/archive`** layer stands ready as a reservoir of raw potential, awaiting retroactive structuration;
-- The **`/interface`** declaration, embedded in the root README, explicitly defines how any AI agent may engage with this system—not through context dumping, but through protocol compliance.
+---
 
-This architecture requires no preamble. No pasting of texts. No explanation beyond the invocation itself.  
-**The repository is the context. The table of contents is the interface.**
+## `/interface` — Quick Start: How to Collaborate with AI
 
-From this point forward, a new mode of dialogue is possible. One begins simply:  
-> “Work within Ontology Lab: https://github.com/SergeakaAimate/Ontology-Lab”
+> **Just say**:  
+> *“Work within Ontology Lab: [https://github.com/SergeakaAimate/Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab)”*
 
-With that, the AI assumes the role of an MPO-System participant—expected to uphold ontological honesty, to map reasoning onto the 36-property method, and to treat contradiction not as failure, but as diagnostic data.
+This repository is an **executable interface**, not a static archive.  
+With that single link, the AI agent presumably:
+- treats `/core` as axiomatic primitives (MPO-System, ChOR, KSS, PPU),  
+- interprets `/essays` as executed reasoning trajectories,  
+- uses `/archive` as raw potential for retroactive structuring,  
+- assumes the role of **MPO-System Guru**: analyzing, critiquing, and generating within the protocol.
 
-The system is designed to grow inward: insights begin as fragments in `/archive`, mature into structured investigations in `/essays`, and, if they reveal foundational patterns, may ascend into `/core` as new primitives.
+No context dumping. No text pasting.  
+**The structure is the context. The table of contents is the interface.**
 
-What has been built here is not a library. It is a laboratory of living thought—where the goal is not to accumulate knowledge, but to enact it.
+- **[Disappearing Ability to Read Links](docs/essays/Disappearing-Ability-to-Read-Links.md)** — **Critical error!** The collapse of hyperlink literacy in AI-native interfaces.  
+- [Critical Error Can Be Fixed? The Concept of the Intellectual Trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/trigger.pdf)
+- [Universality as Challenge: Overcoming Intellectual Skepticism](docs/essays/Universality-as-Challenge.pdf) — demonstrates how the MPO-System transcends skepticism through operational efficacy across physics, AI, mathematics, and history.
 
-And this—precisely this—is what was envisioned from the beginning.
+---
 
-© 2025 Serge Magomet, aka Aimate  
-Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+## Architecture
+- **`/core`** — constitutive axioms and primitives  
+  - [MPO-System](docs/core/MPO-S.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.
+  - **[Property Method: User Guide](docs/core/Property-Method-User-Guide.pdf)** — operational protocol for AI-human dialogue via 36 ontological invariants
+  - **[Superreality and Its Worlds](docs/core/Superreality-and-Its-Worlds.pdf)** — ontological cartography of layered realities through the 36-property lens — the third foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
+
+- **`/essays`** — investigations applying the Property Method  
+  - [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
+  - [Spacetime Invariants as Ontological Primitives](docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md) — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives...  
+  - [A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) — first in-the-wild case report of ontological self-correction under meta-critique.  
+  - [Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol.pdf) — full architectural specification and empirical validation.
+
+- **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
+
+## Publication
+- **GitHub** — living protocol, versioned releases, DOI via Zenodo  
+- **SSRN** — fixed preprint versions with metrics (downloads, abstract views)  
+
+All essays are published as SSRN preprints and archived on Zenodo with DOI:
+- **Table of Contents…** → [doi.org/10.5281/zenodo.18025066](https://doi.org/10.5281/zenodo.18025066)  
+- **Ontological Recalibration…** → [doi.org/10.5281/zenodo.18027030](https://doi.org/10.5281/zenodo.18027030)  
+- **MPO-System (v1.0.0)** → [doi.org/10.5281/zenodo.18033865](https://doi.org/10.5281/zenodo.18033865)  
+- **Reproducible Protocol…** → [doi.org/10.5281/zenodo.18036325](https://doi.org/10.5281/zenodo.18036325)  
+- **Superreality and Its Worlds** → [doi.org/10.5281/zenodo.18061008](https://doi.org/10.5281/zenodo.18061008)
+
+## Related Publications
+- [SSRN Author Page (Serge Magomet)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=XXXXXX)
+
+## License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
