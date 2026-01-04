@@ -6,44 +6,44 @@
 
 ## **CORE (Axioms and Fundamentals)**
 
-1.  [A-living-thought-interface-for-human-AI-cognitive-collaboration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/A-living-thought-interface-for-human-AI-cognitive-collaboration.pdf) – The repository as a living interface and cognitive scaffold for human-AI collaboration.
-2.  [README (Ontology Lab as an Interface)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/README.md) – The root description of the repository's mission, architecture, and usage protocol.
-3.  [MPO-System](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System.pdf.pdf) – The formal specification of "Dynamic Realism," defining core concepts (ChOR, KSS, PPU) and 36+1 properties.
-5.  [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf) – An operational protocol for AI-human dialogue based on 36 ontological invariants.
-7.  [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) – An ontological map of layered realities (Superreality) through the lens of 36 properties.
-8.  [Dialectics-of-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf) – An investigation of bindability as a fundamental ontological principle.
-9.  [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf) – Analysis of generative power and absolute novelty in operational phenomenology.
-10.  [Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf) – A description of the ontology lab as a multiverse for cognition and creative masterpiece-making.
-11.  [Meet-the-37](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-37.pdf) – An introduction to the 37th (or additional) property within the MPO-System framework.
-12. [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf) – A foundational discussion of the "property" category as the central element of the system.
-13. [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf) – A revision and deeper exploration of the Property Method.
-14. [Ready-Ready-Show-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-Ready-Show-rules.pdf) – The rules of the "Ready-Ready-Show" protocol for structured interaction.
-15. [Topology-of-the-Limit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf) – An investigation into the topology of the limit within an ontological context.
-16. [Tuning AI Through the Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning-AI-Through-the-Koan.md) – A method for tuning AI agents using koans (paradoxical tasks).
-17. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-property method as an operating system for thought.
-18. [ontological-intensification-of-computation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/ontological-intensification-of-computation.pdf) – The concept of ontological intensification of computation.
-19. [super-koan-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf) – An example of a super-koan for deep ontological inquiry.
-20. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%E2%82%9A-Propertyness-(%F0%9D%92%83%E2%82%9A).pdf) – Introduction of the "Propertyness" metric for measuring ontological complexity.
-21. [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) – An explanatory essay introducing the Ontology-Lab project.
+1. [A-living-thought-interface-for-human-AI-cognitive-collaboration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/A-living-thought-interface-for-human-AI-cognitive-collaboration.pdf) – The repository as a living interface and cognitive scaffold for human-AI collaboration.
+2. [README (Ontology Lab as an Interface)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/README.md) – The root description of the repository's mission, architecture, and usage protocol.
+3. [MPO-System](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System.pdf) – The formal specification of "Dynamic Realism," defining core concepts (ChOR, KSS, PPU) and 36+1 properties.
+4. [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf) – An operational protocol for AI-human dialogue based on 36 ontological invariants.
+5. [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) – An ontological map of layered realities (Superreality) through the lens of 36 properties.
+6. [Dialectics-of-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf) – An investigation of bindability as a fundamental ontological principle.
+7. [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf) – Analysis of generative power and absolute novelty in operational phenomenology.
+8. [Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf) – A description of the ontology lab as a multiverse for cognition and creative masterpiece-making.
+9. [Meet-the-37](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-37.pdf) – An introduction to the 37th (or additional) property within the MPO-System framework.
+10. [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf) – A foundational discussion of the "property" category as the central element of the system.
+11. [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf) – A revision and deeper exploration of the Property Method.
+12. [Ready-Ready-Show-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-Ready-Show-rules.pdf) – The rules of the "Ready-Ready-Show" protocol for structured interaction.
+13. [Topology-of-the-Limit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf) – An investigation into the topology of the limit within an ontological context.
+14. [Tuning-AI-Through-the-Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning-AI-Through-the-Koan.md) – A method for tuning AI agents using koans (paradoxical tasks).
+15. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-property method as an operating system for thought.
+16. [ontological-intensification-of-computation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/ontological-intensification-of-computation.pdf) – The concept of ontological intensification of computation.
+17. [super-koan-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf) – An example of a super-koan for deep ontological inquiry.
+18. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%E2%82%9A-Propertyness.pdf) – Introduction of the "Propertyness" metric for measuring ontological complexity.
+19. [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) – An explanatory essay introducing the Ontology-Lab project.
 
 ---
 
 ## **ESSAYS (Investigations and Essays)**
 
-1.  [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) – A manifesto defining the principles and goals of AI within the ontological framework.
-2.  [Building-OS-for-Reality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Building-OS-for-Reality.pdf) – An essay on building an operating system for reality.
-3.  [Dialogue-on-Chess-Part-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-1.pdf) – A dialogue applying the ontological method to analyze chess (Part 1).
-4.  [Dialogue-on-Chess-Part-2](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-2.pdf) – A dialogue applying the ontological method to analyze chess (Part 2).
-5.  [Disappearing-Ability-to-Read-Links](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Disappearing-Ability-to-Read-Links.pdf) – A critique of the loss of "hyperlink literacy" in modern AI-native interfaces.
-6.  [Documented-Case-of-Ontological-Recalibration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) – A case report of ontological self-correction within the system under meta-critique.
-7.  [INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf) – A narrative in the intellectual thriller genre, illustrating key insights of the system.
-8.  [Review-1-UNEXPECTED-RRS-and-the-Three-Body](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Review-1-UNEXPECTED-RRS-and-the-Three-Body.pdf) – A review of work connecting the RRS protocol and "Three-Body Problem" themes.
-9.  [Interface-and-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Interface-and-Bindability.pdf) – An investigation of the relationship between interface and bindability.
-10. [Lost in Formulas](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Lost-in-Formulas.pdf) – Reflections on the loss of meaning behind formal expressions and formulas.
+1. [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) – A manifesto defining the principles and goals of AI within the ontological framework.
+2. [Building-OS-for-Reality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Building-OS-for-Reality.pdf) – An essay on building an operating system for reality.
+3. [Dialogue-on-Chess-Part-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-1.pdf) – A dialogue applying the ontological method to analyze chess (Part 1).
+4. [Dialogue-on-Chess-Part-2](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-2.pdf) – A dialogue applying the ontological method to analyze chess (Part 2).
+5. [Disappearing-Ability-to-Read-Links](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Disappearing-Ability-to-Read-Links.pdf) – A critique of the loss of "hyperlink literacy" in modern AI-native interfaces.
+6. [Documented-Case-of-Ontological-Recalibration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) – A case report of ontological self-correction within the system under meta-critique.
+7. [INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf) – A narrative in the intellectual thriller genre, illustrating key insights of the system.
+8. [Review-1-UNEXPECTED-RRS-and-the-Three-Body](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Review-1-UNEXPECTED-RRS-and-the-Three-Body.pdf) – A review of work connecting the RRS protocol and "Three-Body Problem" themes.
+9. [Interface-and-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Interface-and-Bindability.pdf) – An investigation of the relationship between interface and bindability.
+10. [Lost-in-Formulas](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Lost-in-Formulas.pdf) – Reflections on the loss of meaning behind formal expressions and formulas.
 11. [ONE-ONTOLOGY-TWO-EXPRESSIONS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/ONE-ONTOLOGY-TWO-EXPRESSIONS.pdf) – A discussion of a single ontology expressed in different conceptual and formal systems.
 12. [Ontology_Lab_Reproducible_Protocol](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology_Lab_Reproducible_Protocol.pdf) – The full architectural specification and validation of the lab's reproducible protocol.
 13. [Recurring-Dreams](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Recurring-Dreams.pdf) – An essay exploring the theme of recurring dreams from an ontological perspective.
-14. [Spacetime-Invariants-as-Ontological-Primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Spacetime-Invariants-as-Ontological-Primitives.pdf) – An argument for the ontological (not just mathematical) status of relativistic invariants.
+14. [Spacetime-Invariants-as-Ontological-Primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md) – An argument for the ontological (not just mathematical) status of relativistic invariants.
 15. [The-Day-the-AI-Broke-the-Scale](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/The-Day-the-AI-Broke-the-Scale.pdf) – A narrative about the moment when AI transcends habitual scales and limitations.
 16. [Uniqueness-of-Space](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Uniqueness-of-Space.pdf) – Reflections on the uniqueness of space as an ontological category.
 17. [Universality-as-Challenge](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universality-as-Challenge.pdf) – A demonstration of how the MPO-System overcomes skepticism through operational efficacy.
@@ -57,12 +57,12 @@
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials)**
 
-1.  [Jest-Uniqueness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Jest-Uniqueness.pdf) – Drafts or notes on the theme of "jest-uniqueness."
-2.  [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf) – A draft PDF version of an essay related to the RRS (Ready-Ready-Show) protocol.
-3.  [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf) – Draft versions of the "Intellectual Thriller" essay within the RRS framework.
-4.  [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
-5.  [Detailed-Review-1-of-the-RRS1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Detailed-Review-1-of-the-RRS1.pdf) – A detailed review of the first RRS essay.
-6.  [Review-1-of-UNEXPECTED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Review-1-of-UNEXPECTED.pdf) – A review of the work "UNEXPECTED."
+1. [Jest-Uniqueness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Jest-Uniqueness.pdf) – Drafts or notes on the theme of "jest-uniqueness."
+2. [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf) – A draft PDF version of an essay related to the RRS (Ready-Ready-Show) protocol.
+3. [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf) – Draft versions of the "Intellectual Thriller" essay within the RRS framework.
+4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
+5. [Detailed-Review-1-of-the-RRS1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Detailed-Review-1-of-the-RRS1.pdf) – A detailed review of the first RRS essay.
+6. [Review-1-of-UNEXPECTED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Review-1-of-UNEXPECTED.pdf) – A review of the work "UNEXPECTED."
 
 ---
 
