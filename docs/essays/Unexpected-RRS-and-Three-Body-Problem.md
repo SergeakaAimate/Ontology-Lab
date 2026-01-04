@@ -37,9 +37,8 @@ The dialogue format traces the live emergence of this insight—from a simple as
 ## Context & Related Documents
 
 This essay is a cornerstone of the **Ontology Lab’s applied investigations** into human–AI co-inquiry. It directly expands on the methodological protocol established in:  
--  [**The Concept of the Intellectual Trigger**](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Concept-of-the-Intellectual-Trigger.pdf)
 
-It is also the narrative and conceptual core of the **Intellectual Thriller** genre developed within the project:  
+a core of the **Intellectual Thriller** genre developed within the project:  
 - [**INTELLECTUAL-THRILLER.md**](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.md)
 
 For a formal peer-style evaluation of its arguments, see:  
