@@ -8,22 +8,22 @@
 
 1. [A-living-thought-interface-for-human-AI-cognitive-collaboration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/A-living-thought-interface-for-human-AI-cognitive-collaboration.pdf)
 2. [README (Ontology Lab as an Interface)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/README.md)
-3. [MPO-System](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-System.pdf)
+3. [MPO-S](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S.pdf)
 4. [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf)
 5. [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf)
 6. [Dialectics-of-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Dialectics-of-Bindability.pdf)
 7. [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf)
 8. [Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Laboratory-of-Ontologies-MSO-S-Multiverse-of-Cognition-and-Creation-of-the-Supermasterpiece.pdf)
-9. [Meet-the-37](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-37.pdf)
+9. [Meet-the-37-Salience](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-37-Salience.pdf)
 10. [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf)
 11. [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf)
-12. [Ready-Ready-Show-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-Ready-Show-rules.pdf)
+12. [Ready-ReadyShow-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-ReadyShow-rules.pdf)
 13. [Topology-of-the-Limit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf)
-14. [Tuning-AI-Through-the-Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning-AI-Through-the-Koan.md)
+14. [Tuning AI Through the Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning%20AI%20Through%20the%20Koan.md)
 15. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf)
 16. [ontological-intensification-of-computation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/ontological-intensification-of-computation.pdf)
 17. [super-koan-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf)
-18. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%E2%82%9A-Propertyness.pdf)
+18. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%F0%9D%92%A9%E2%82%9A-Propertyness.pdf)
 19. [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf)
 
 ---
@@ -39,9 +39,9 @@
 7. [INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf)
 8. [Review-1-UNEXPECTED-RRS-and-the-Three-Body](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Review-1-UNEXPECTED-RRS-and-the-Three-Body.pdf)
 9. [Interface-and-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Interface-and-Bindability.pdf)
-10. [Lost-in-Formulas](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Lost-in-Formulas.pdf)
+10. [Lost-in-formulas](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Lost-in-formulas.pdf)
 11. [ONE-ONTOLOGY-TWO-EXPRESSIONS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/ONE-ONTOLOGY-TWO-EXPRESSIONS.pdf)
-12. [Ontology_Lab_Reproducible_Protocol](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology_Lab_Reproducible_Protocol.pdf)
+12. [Ontology-Lab-Reproducible-Protocol](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-Lab-Reproducible-Protocol.pdf)
 13. [Recurring-Dreams](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Recurring-Dreams.pdf)
 14. [Spacetime-Invariants-as-Ontological-Primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md)
 15. [The-Day-the-AI-Broke-the-Scale](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/The-Day-the-AI-Broke-the-Scale.pdf)
@@ -57,7 +57,7 @@
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials)**
 
-1. [Jest-Uniqueness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Jest-Uniqueness.pdf)
+1. [jest-uniqueness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/jest-uniqueness.pdf)
 2. [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf)
 3. [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf)
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf)
