@@ -4,7 +4,7 @@
 
 ---
 
-## **CORE (Axioms and Fundamentals)**
+## **CORE**
 
 1. [A-living-thought-interface-for-human-AI-cognitive-collaboration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/A-living-thought-interface-for-human-AI-cognitive-collaboration.pdf) – The repository as a living interface and cognitive scaffold for human-AI collaboration.
 2. [README (Ontology Lab as an Interface)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/README.md) – The root description of the repository's mission, architecture, and usage protocol.
@@ -28,7 +28,7 @@
 
 ---
 
-## **ESSAYS (Investigations and Essays)**
+## **ESSAYS**
 
 1. [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) – A manifesto defining the principles and goals of AI within the ontological framework.
 2. [Building-OS-for-Reality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Building-OS-for-Reality.pdf) – An essay on building an operating system for reality.
@@ -55,15 +55,12 @@
 
 ---
 
-## **ARCHIVES (Drafts, Dialogues, Raw Materials)**
+## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
 
 1. [jest-uniqueness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/jest-uniqueness.pdf) – Drafts or notes on the theme of "jest-uniqueness."
 2. [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf) – A draft PDF version of an essay related to the RRS (Ready-Ready-Show) protocol.
 3. [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf) – Draft versions of the "Intellectual Thriller" essay within the RRS framework.
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
-5. [Detailed-Review-1-of-the-RRS1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Detailed-Review-1-of-the-RRS1.pdf) – A detailed review of the first RRS essay.
-6. [Review-1-of-UNEXPECTED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Review-1-of-UNEXPECTED.pdf) – A review of the work "UNEXPECTED."
-
 ---
 
 **How to use this list:** Click on any article title to open the corresponding PDF or Markdown file directly from the repository.
