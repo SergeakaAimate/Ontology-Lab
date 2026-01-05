@@ -31,27 +31,28 @@
 ## **ESSAYS**
 
 1. [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) – A manifesto defining the principles and goals of AI within the ontological framework.
-2. [Building-OS-for-Reality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Building-OS-for-Reality.pdf) – An essay on building an operating system for reality.
-3. [Dialogue-on-Chess-Part-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-1.pdf) – A dialogue applying the ontological method to analyze chess (Part 1).
-4. [Dialogue-on-Chess-Part-2](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-2.pdf) – A dialogue applying the ontological method to analyze chess (Part 2).
-5. [Disappearing-Ability-to-Read-Links](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Disappearing-Ability-to-Read-Links.pdf) – A critique of the loss of "hyperlink literacy" in modern AI-native interfaces.
-6. [Documented-Case-of-Ontological-Recalibration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) – A case report of ontological self-correction within the system under meta-critique.
-7. [INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf) – A narrative in the intellectual thriller genre, illustrating key insights of the system.
-8. [Review-1-UNEXPECTED-RRS-and-the-Three-Body](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Review-1-UNEXPECTED-RRS-and-the-Three-Body.pdf) – A review of work connecting the RRS protocol and "Three-Body Problem" themes.
-9. [Interface-and-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Interface-and-Bindability.pdf) – An investigation of the relationship between interface and bindability.
-10. [Lost-in-formulas](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Lost-in-formulas.pdf) – Reflections on the loss of meaning behind formal expressions and formulas.
-11. [ONE-ONTOLOGY-TWO-EXPRESSIONS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/ONE-ONTOLOGY-TWO-EXPRESSIONS.pdf) – A discussion of a single ontology expressed in different conceptual and formal systems.
-12. [Ontology-Lab-Reproducible-Protocol](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-Lab-Reproducible-Protocol.pdf) – The full architectural specification and validation of the lab's reproducible protocol.
-13. [Recurring-Dreams](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Recurring-Dreams.pdf) – An essay exploring the theme of recurring dreams from an ontological perspective.
-14. [Spacetime-Invariants-as-Ontological-Primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md) – An argument for the ontological (not just mathematical) status of relativistic invariants.
-15. [The-Day-the-AI-Broke-the-Scale](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/The-Day-the-AI-Broke-the-Scale.pdf) – A narrative about the moment when AI transcends habitual scales and limitations.
-16. [Uniqueness-of-Space](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Uniqueness-of-Space.pdf) – Reflections on the uniqueness of space as an ontological category.
-17. [Universality-as-Challenge](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universality-as-Challenge.pdf) – A demonstration of how the MPO-System overcomes skepticism through operational efficacy.
-18. [chez-as-ontological-primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/chez-as-ontological-primitives.md) – An examination of "chez" as ontological primitives.
-19. [chez-review-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/chez-review-1.pdf) – A review or analysis related to "chez."
-20. [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) – The inaugural essay on the protocol where a table of contents becomes an executable interface.
-21. [trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/trigger.pdf) – A discussion of the concept of the "intellectual trigger."
-22. [Γ-in-the-Wild-An-Ontological-Gateway-for-AI-Science](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CE%93-in-the-Wild-An-Ontological-Gateway-for-AI-Science.pdf) – Describes the application of the ontological invariant "Γ" in real-world conditions as a gateway for AI science.
+2. [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-Reality-Fault-Lines.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” (GR vs. QM, ethics, AI alignment) are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
+3. [Building-OS-for-Reality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Building-OS-for-Reality.pdf) – An essay on building an operating system for reality.
+4. [Dialogue-on-Chess-Part-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-1.pdf) – A dialogue applying the ontological method to analyze chess (Part 1).
+5. [Dialogue-on-Chess-Part-2](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-2.pdf) – A dialogue applying the ontological method to analyze chess (Part 2).
+6. [Disappearing-Ability-to-Read-Links](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Disappearing-Ability-to-Read-Links.pdf) – A critique of the loss of "hyperlink literacy" in modern AI-native interfaces.
+7. [Documented-Case-of-Ontological-Recalibration](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) – A case report of ontological self-correction within the system under meta-critique.
+8. [INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/INTELLECTUAL-THRILLER.pdf) – A narrative in the intellectual thriller genre, illustrating key insights of the system.
+9. [Review-1-UNEXPECTED-RRS-and-the-Three-Body](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Review-1-UNEXPECTED-RRS-and-the-Three-Body.pdf) – A review of work connecting the RRS protocol and "Three-Body Problem" themes.
+10. [Interface-and-Bindability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Interface-and-Bindability.pdf) – An investigation of the relationship between interface and bindability.
+11. [Lost-in-formulas](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Lost-in-formulas.pdf) – Reflections on the loss of meaning behind formal expressions and formulas.
+12. [ONE-ONTOLOGY-TWO-EXPRESSIONS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/ONE-ONTOLOGY-TWO-EXPRESSIONS.pdf) – A discussion of a single ontology expressed in different conceptual and formal systems.
+13. [Ontology-Lab-Reproducible-Protocol](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-Lab-Reproducible-Protocol.pdf) – The full architectural specification and validation of the lab's reproducible protocol.
+14. [Recurring-Dreams](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Recurring-Dreams.pdf) – An essay exploring the theme of recurring dreams from an ontological perspective.
+15. [Spacetime-Invariants-as-Ontological-Primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md) – An argument for the ontological (not just mathematical) status of relativistic invariants.
+16. [The-Day-the-AI-Broke-the-Scale](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/The-Day-the-AI-Broke-the-Scale.pdf) – A narrative about the moment when AI transcends habitual scales and limitations.
+17. [Uniqueness-of-Space](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Uniqueness-of-Space.pdf) – Reflections on the uniqueness of space as an ontological category.
+18. [Universality-as-Challenge](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universality-as-Challenge.pdf) – A demonstration of how the MPO-System overcomes skepticism through operational efficacy.
+19. [chez-as-ontological-primitives](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/chez-as-ontological-primitives.md) – An examination of "chez" as ontological primitives.
+20. [chez-review-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/chez-review-1.pdf) – A review or analysis related to "chez."
+21. [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) – The inaugural essay on the protocol where a table of contents becomes an executable interface.
+22. [trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/trigger.pdf) – A discussion of the concept of the "intellectual trigger."
+23. [Γ-in-the-Wild-An-Ontological-Gateway-for-AI-Science](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CE%93-in-the-Wild-An-Ontological-Gateway-for-AI-Science.pdf) – Describes the application of the ontological invariant "Γ" in real-world conditions as a gateway for AI science.
 
 ---
 
