@@ -25,7 +25,7 @@ This work operationalizes the protocol into a concrete **W₄ Boundary Laborator
 
 ## Downloads
 
-- [📄 Full PDF (Zenodo)](https://doi.org/10.5281/zenodo.18138519)  
+- [📄 Full PDF (GitHub)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-Reality-Fault-Lines.pdf)
 
 ---
 
