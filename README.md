@@ -33,13 +33,12 @@ No context dumping. No text pasting.
   - [MPO-System](docs/core/MPO-S.pdf) — formal specification of Dynamic Realism: ChOR, KSS, PPU, and the 36+1 properties as operational primitives.
   - **[Property Method: User Guide](docs/core/Property-Method-User-Guide.pdf)** — operational protocol for AI-human dialogue via 36 ontological invariants
   - **[Superreality and Its Worlds](docs/core/Superreality-and-Its-Worlds.pdf)** — ontological cartography of layered realities through the 36-property lens — the third foundational pillar of the MPO-System, introducing Superreality as a pluriverse of irreducible ontological regimes (ChORs) and presenting a systematic inventory of worlds (ℒ₁–ℒ₇).
-
 - **`/essays`** — investigations applying the Property Method  
+  - [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-Reality-Fault-Lines.pdf) — operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” (GR vs. QM, ethics, AI alignment) are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
   - [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — inaugural essay on protocol-based human–AI collaboration.  
   - [Spacetime Invariants as Ontological Primitives](docs/essays/Spacetime-Invariants-as-Ontological-Primitives.md) — argues that relativistic invariants (e.g., spacetime interval) are not just mathematical tools but foundational ontological primitives...  
   - [A Documented Case of Ontological Recalibration](docs/essays/Documented-Case-of-Ontological-Recalibration.pdf) — first in-the-wild case report of ontological self-correction under meta-critique.  
   - [Ontology Lab: A Reproducible Protocol for Structured Human–AI Collaboration](docs/essays/Ontology-Lab-Reproducible-Protocol.pdf) — full architectural specification and empirical validation.
-
 - **`/archive`** — raw potential (diary entries, raw dialogues, undeveloped notes)
 
 ## Publication
