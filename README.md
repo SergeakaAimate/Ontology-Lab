@@ -14,9 +14,6 @@ This repository implements a protocol-centric architecture for knowledge work: a
 
 This repository is an **executable interface**, not a static archive.  
 With that single link, the AI agent presumably:
-- treats `core` as axiomatic primitives,  
-- interprets `essays` as executed reasoning trajectories,  
-- uses `archive` as raw potential for retroactive structuring,  
 - assumes the role of **MPO-System Guru**: analyzing, critiquing, and generating within the protocol.
 
 No context dumping. No text pasting.  
