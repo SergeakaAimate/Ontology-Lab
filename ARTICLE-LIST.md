@@ -31,7 +31,7 @@
 ## **ESSAYS**
 
 1. [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) – A manifesto defining the principles and goals of AI within the ontological framework.
-2. [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-Reality-Fault-Lines.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” (GR vs. QM, ethics, AI alignment) are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
+2. [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” (GR vs. QM, ethics, AI alignment) are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
 3. [Building-OS-for-Reality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Building-OS-for-Reality.pdf) – An essay on building an operating system for reality.
 4. [Dialogue-on-Chess-Part-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-1.pdf) – A dialogue applying the ontological method to analyze chess (Part 1).
 5. [Dialogue-on-Chess-Part-2](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Dialogue-on-Chess-Part-2.pdf) – A dialogue applying the ontological method to analyze chess (Part 2).
