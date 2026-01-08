@@ -21,12 +21,7 @@ Furthermore, we reveal the protocol’s deepest insight: **ontological relativit
 
 This work operationalizes the protocol into a concrete **W₄ Boundary Laboratory Sheet**, transforming philosophical insight into a repeatable engine for discovery across physics, ethics, and AI. The goal is no longer a single “Theory of Everything,” but a growing **Codex of Translation**—a user manual for navigating the pluriverse.
 
----
 
-## Downloads
-
-- [📄 Full PDF (GitHub)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-Reality-Fault-Lines.pdf)  
-- [🔖 Persistent Archive (Zenodo DOI)](https://doi.org/10.5281/zenodo.18158190)
 
 ---
 
