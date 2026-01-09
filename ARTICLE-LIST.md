@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Article List
 
-*Updated 05.01.2026*
+*Updated 10.01.2026*
 
 ---
 
@@ -53,6 +53,7 @@
 21. [table-of-contents-as-an-executable-interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) – The inaugural essay on the protocol where a table of contents becomes an executable interface.
 22. [trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/trigger.pdf) – A discussion of the concept of the "intellectual trigger."
 23. [Γ-in-the-Wild-An-Ontological-Gateway-for-AI-Science](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CE%93-in-the-Wild-An-Ontological-Gateway-for-AI-Science.pdf) – Describes the application of the ontological invariant "Γ" in real-world conditions as a gateway for AI science.
+24. [The Logbook of a Boundary Expedition: Co-Cartography in the Ontological Pluriverse](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Boundary-Expedition-Co-Cartography-in-Ontological-Pluriver.pdf) – An operational log of a live human–AI co-inquiry applying the MPO-System and Pai Protocol to navigate the pluriverse, reframing “cursed problems” as sites of invariant emergence and demonstrating Ontology-Lab as an executable interface for ontological diplomacy.
 
 ---
 
@@ -62,6 +63,7 @@
 2. [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf) – A draft PDF version of an essay related to the RRS (Ready-Ready-Show) protocol.
 3. [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf) – Draft versions of the "Intellectual Thriller" essay within the RRS framework.
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
+
 ---
 
 **How to use this list:** Click on any article title to open the corresponding PDF or Markdown file directly from the repository.
