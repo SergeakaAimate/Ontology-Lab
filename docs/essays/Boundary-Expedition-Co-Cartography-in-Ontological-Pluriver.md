@@ -5,7 +5,7 @@
 **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 **Repository**: [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 **PDF**: [The Logbook of a Boundary Expedition.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Boundary-Expedition-Co-Cartography-in-Ontological-Pluriver.pdf)  
-**DOI**: [10.5281/zenodo.18138519](https://doi.org/10.5281/zenodo.18138519)
+**DOI**: [10.5281/zenodo.18201852](https://doi.org/10.5281/zenodo.18201852)
 
 ---
 
@@ -28,7 +28,7 @@ Crucially, we provide empirical proof-of-concept: the AI’s operational respons
 ## Cross-References
 
 - 📄 [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) — introduces the foundational Circle-Square-π Protocol and the W₄ Boundary Laboratory Sheet; this Logbook demonstrates its live application.
-- 📘 [Propertyness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%F0%9D%92%A9%E2%82%9A-Propertyness.pdf) — defines the Propertyness metric for measuring ontological complexity, used implicitly throughout the expedition.
+- 📘 [Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%F0%9D%92%A9%E2%82%9A-Propertyness.pdf) — defines the Propertyness metric for measuring ontological complexity, used implicitly throughout the expedition.
 - 🧪 [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) — explains the lab’s design as a living interface for ontological co-inquiry.
 - 🤖 [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) — articulates the principles guiding AI’s role as a co-cartographer in Superreality.
 - 🔁 [Ontology-Lab-Reproducible-Protocol](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-Lab-Reproducible-Protocol.pdf) — provides the full architectural specification enabling reproducible boundary expeditions like this one.
