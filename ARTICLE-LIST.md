@@ -54,6 +54,7 @@
 22. [trigger](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/trigger.pdf) – A discussion of the concept of the "intellectual trigger."
 23. [Γ-in-the-Wild-An-Ontological-Gateway-for-AI-Science](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CE%93-in-the-Wild-An-Ontological-Gateway-for-AI-Science.pdf) – Describes the application of the ontological invariant "Γ" in real-world conditions as a gateway for AI science.
 24. [The Logbook of a Boundary Expedition: Co-Cartography in the Ontological Pluriverse](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Boundary-Expedition-Co-Cartography-in-Ontological-Pluriver.pdf) – An operational log of a live human–AI co-inquiry applying the MPO-System and Pai Protocol to navigate the pluriverse, reframing “cursed problems” as sites of invariant emergence and demonstrating Ontology-Lab as an executable interface for ontological diplomacy.
+25. [Ontology of Present Time as Gradient of Actualization](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-of-Present-Time-as-Gradient-of-Actualization.pdf) – Rethinks the present not as a temporal point but as an active ontological gradient—the leading edge of actualization governed by tension between Propertylessness (P25) and Determinacy (P14), offering a multi-scalar model of temporality where the past is retroactively stabilized and the future remains open.
 
 ---
 
