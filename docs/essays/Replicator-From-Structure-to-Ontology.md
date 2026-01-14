@@ -56,4 +56,4 @@ replicator, Superreality, MPO-System, ChOR, KSS, PPU, autopoiesis, ontological a
 
 ## Citation
 
-Magomet, S. (2025). *The Replicator: From Structure to Ontology. A Concept of Self-Replication in Superreality*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Replicator-From-Structure-to-Ontology.pdf
+Magomet Serge aka Aimate. (2025). *The Replicator: From Structure to Ontology. A Concept of Self-Replication in Superreality*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Replicator-From-Structure-to-Ontology.pdf
