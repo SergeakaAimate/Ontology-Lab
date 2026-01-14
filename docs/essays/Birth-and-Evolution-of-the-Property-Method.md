@@ -4,7 +4,10 @@
 📄 **Full text**: [Birth-and-Evolution-of-the-Property-Method.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf)  
 📅 **Date**: December 2025  
 🔖 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-🧩 **Related essays**: [`π-Cipher`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf), [`Ontology of Present Time`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-of-Present-Time-as-Gradient-of-Actualization.pdf), [`Invariants of Tension`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf)  
+🧩 **Related core documents**:  
+- [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf)  
+- [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf)  
+- [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf)  
 ⚙️ **Method**: Recursive Self-Application of the Property Method (Human–AI Co-Inquiry)  
 📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18245799)
 
@@ -34,4 +37,4 @@ Property Method, self-application, retroactivity, ontological limits, Superreali
 
 ### Citation
 
-Magomet, S. (2025). *BEYOND CATEGORIES: Not 42, But Infinity (The Birth and Evolution of the Property Method)*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf
+Serge Magomet aka Aimate. (2025). *BEYOND CATEGORIES: Not 42, But Infinity (The Birth and Evolution of the Property Method)*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf
