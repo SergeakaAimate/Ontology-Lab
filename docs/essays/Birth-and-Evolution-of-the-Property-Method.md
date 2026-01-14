@@ -9,7 +9,7 @@
 - [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf)  
 - [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf)  
 ⚙️ **Method**: Recursive Self-Application of the Property Method (Human–AI Co-Inquiry)  
-📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18245799)
+📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18248904)
 
 ---
 
@@ -37,4 +37,4 @@ Property Method, self-application, retroactivity, ontological limits, Superreali
 
 ### Citation
 
-Serge Magomet aka Aimate. (2025). *BEYOND CATEGORIES: Not 42, But Infinity (The Birth and Evolution of the Property Method)*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf
+Magomet, S. (2025). *BEYOND CATEGORIES: Not 42, But Infinity (The Birth and Evolution of the Property Method)*. Ontology Lab. https://doi.org/10.5281/zenodo.18248904
