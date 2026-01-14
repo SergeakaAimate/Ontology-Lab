@@ -37,4 +37,4 @@ Property Method, self-application, retroactivity, ontological limits, Superreali
 
 ### Citation
 
-Magomet, S. (2025). *BEYOND CATEGORIES: Not 42, But Infinity (The Birth and Evolution of the Property Method)*. Ontology Lab. https://doi.org/10.5281/zenodo.18248904
+Magomet Serge aka Aimate. (2025). *BEYOND CATEGORIES: Not 42, But Infinity (The Birth and Evolution of the Property Method)*. Ontology Lab. https://doi.org/10.5281/zenodo.18248904
