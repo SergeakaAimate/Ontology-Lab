@@ -4,7 +4,7 @@
 📄 **Full text**: [Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf)  
 📅 **Date**: January 2026  
 🔖 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-🧩 🧩 **Related essays**: [`π-Cipher`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/pi-Cipher.md), [`Ontology of Present Time`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-of-Present-Time.md)
+🧩 **Related essays**: [`π-Cipher`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf), [`Ontology of Present Time`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology-of-Present-Time-as-Gradient-of-Actualization.pdf)
 ⚙️ **Method**: CSπ/Pai Protocol (human–AI co-inquiry via W₄ boundary activation)  
 📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18245799)
 
