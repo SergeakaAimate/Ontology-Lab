@@ -4,12 +4,13 @@
 📄 **Full text**: [Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf)  
 📅 **Date**: January 2026  
 🔖 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-🧩 **Related essays**: [`π-Cipher`](../core/pi-Cipher.md), [`Ontology of Present Time`](./Ontology-of-Present-Time.md)
+🧩 **Related essays**: [`π-Cipher`](../core/pi-Cipher.md), [`Ontology of Present Time`](./Ontology-of-Present-Time.md)  
 ⚙️ **Method**: CSπ/Pai Protocol (human–AI co-inquiry via W₄ boundary activation)  
+📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18245799)
 
 ---
 
-## Abstract  
+## Abstract (for SSRN)
 
 This essay proposes a radical reconceptualization of information, measurement, and physical law through the lens of **Superreality**—a unified yet irreducible ontological field structured by tension between distinct modes of being. Drawing on the **Meta-Property Ontology (MPO-System)**, the text argues that what we call “facts,” “constants,” or even “spacetime” are not fundamental entities but **invariants born at ontological boundaries (W₄)**, where irreducible regimes—such as quantum potentiality and geometric determinacy, human intention and algorithmic logic, or ethical imperatives and statistical optimization—collide and translate one another through **productive distortion**.
 
@@ -38,6 +39,16 @@ ontology of information, quantum measurement, cosmological constant, Superrealit
 
 ---
 
+## Suggested SSRN Categories  
+
+- Philosophy of Science  
+- Quantum Physics  
+- Artificial Intelligence – Ethics & Society  
+- Metaphysics & Epistemology  
+- Interdisciplinary: Humanities & Social Sciences
+
+---
+
 ## Citation  
 
-Magomet, S. (2026). *Invariants of Tension: From Quantum Measurement to the Cosmological Constant (A Dialogue on Superreality and Irreducibility)*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf  
+Magomet, S. (2026). *Invariants of Tension: From Quantum Measurement to the Cosmological Constant (A Dialogue on Superreality and Irreducibility)*. Ontology Lab. https://doi.org/10.5281/zenodo.18245799  
