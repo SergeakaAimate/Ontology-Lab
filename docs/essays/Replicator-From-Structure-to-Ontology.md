@@ -2,11 +2,11 @@
 *A Concept of Self-Replication in Superreality*
 
 📄 **Full text**: [Replicator-From-Structure-to-Ontology.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Replicator-From-Structure-to-Ontology.pdf)  
-📅 **Date**: 2025  
+📅 **Date**: January 2025  
 🔖 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 🧩 **Related essays**: [`π-Cipher`](%CF%80-Cipher-Extracting-New-Constants-from-2.pdf), [`Ontology of Present Time`](Ontology-of-Present-Time-as-Gradient-of-Actualization.pdf), [`Γ-in-the-Wild`](%CE%93-in-the-Wild-An-Ontological-Gateway-for-AI-Science.pdf)  
 ⚙️ **Method**: Property Method (MPO-System), ChOR–KSS–PPU triad, Rangeness analysis  
-📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18245799)
+📦 **Archive**: [Zenodo release v1.0](https://doi.org/10.5281/zenodo.18249497)
 
 ---
 
@@ -50,10 +50,10 @@ Rather than weaknesses, these points are framed as **research signposts**—conf
 
 ## Keywords
 
-replicator, Superreality, MPO-System, ChOR, KSS, PPU, autopoiesis, ontological attractor, Rangeness, self-replication, scale invariance, retroactivity, informational autonomy, paradoxical unity
+replicator, Superreality, MPO-System, ChOR, KSS, PPU, autopoiesis, ontological attractor, Rangeness, self-replication, scale invariance, retroactivity, informational autonomy
 
 ---
 
 ## Citation
 
-Magomet Serge aka Aimate. (2025). *The Replicator: From Structure to Ontology. A Concept of Self-Replication in Superreality*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Replicator-From-Structure-to-Ontology.pdf
+Magomet, S. (2025). *The Replicator: From Structure to Ontology. A Concept of Self-Replication in Superreality*. Ontology Lab. https://doi.org/10.5281/zenodo.18249497
