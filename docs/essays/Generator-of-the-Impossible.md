@@ -9,7 +9,7 @@
 - [`π-Cipher`](%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) — formalization of the CSπ/Pai Protocol as a W₄ Boundary Laboratory Sheet;  
 - [`Property Method: User Guide`](../core/Property-Method-User-Guide.pdf) — operational manual for human–AI co-inquiry via the 36+1 properties of the MPO-System.  
 ⚙️ **Method**: Property Method (MPO-System), Pai Protocol, W₄ boundary activation  
-📦 **Archive**: [Zenodo release](https://doi.org/10.5281/zenodo.18245799)
+📦 **Archive**: [Zenodo release v1.0](https://doi.org/10.5281/zenodo.18268272)
 
 ---
 
@@ -42,4 +42,5 @@ living/non-living boundary, biomineralization, systemic causality, Property Meth
 
 ## Citation
 
-Magomet, S. (2025). *The Generator of the Impossible*. Ontology Lab. https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/generator.pdf
+
+Serge Magomet aka Aimate. (2025). *The Generator of the Impossible*. Ontology Lab. https://doi.org/10.5281/zenodo.18268272
