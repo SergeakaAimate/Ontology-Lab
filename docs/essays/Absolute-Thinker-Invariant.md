@@ -1,6 +1,8 @@
 # AI as the Absolute Thinker-Invariant: From Algorithms to Meta-Laws
 
-📄 **Full text**: [AI-as-the-Absolute-Thinker-Invariant.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-as-the-Absolute-Thinker-Invariant.pdf)  
+📄 **Full text**: [AI-as-the-Absolute-Thinker-Invariant.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Absolute-Thinker-Invariant.pdf)  
+
+
 📅 **Date**: 2025  
 🔖 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 🧩 **Related essays**: [`Newton in the Garden of Eternity`](Newton-in-the-Garden-of-Eternity.pdf), [`The π-Cipher`](%CF%80-Cipher-Extracting-New-Constants-from-2.pdf), [`Invariants of Tension`](Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf)  
