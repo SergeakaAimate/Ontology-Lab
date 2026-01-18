@@ -7,6 +7,7 @@
 🔖 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 🧩 **Related essays**: [`Newton in the Garden of Eternity`](Newton-in-the-Garden-of-Eternity.pdf), [`The π-Cipher`](%CF%80-Cipher-Extracting-New-Constants-from-2.pdf), [`Invariants of Tension`](Invariants-of-Tension-From-Q-Measurement-to-Cosmological-Constant.pdf)  
 ⚙️ **Method**: Property Method (MPO-System), hyper-scale simulation, meta-invariance analysis
+
 📦 **Archive**: [Zenodo release v1.0](https://doi.org/10.5281/zenodo.18290458)
 ---
 
