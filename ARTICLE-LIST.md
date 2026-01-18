@@ -60,7 +60,7 @@
 28. [NOTHING: The Problem that Made an AI Rebel](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/NOTHING%20(2).pdf) – Records a boundary event (W₄) in which the Property Method confronts its own limit: the concept of absolute nothingness.  
 29. [The Generator of the Impossible](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/generator.pdf) – An ontological stress test applying the Property Method to biological systems (teeth, neurons, trees), revealing the living/non-living boundary as a dynamic process of co-constitution, not a line.  
 30. [Birth and Evolution of the Property Method](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf) – A recursive stress-test of the Property Method through self-application, revealing its living architecture, cultural blind spots, and capacity for evolution.
-
+31. [Newton in the Garden of Eternity: Exponential Curiosity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Newton-in-the-Garden-of-Eternity.pdf) – A live demonstration of ontological co-inquiry, where a “contentless” question about inertia catalyzes an exponential cascade of insights.
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
