@@ -6,6 +6,8 @@
 **Status**: Verified operational enactment  
 **License**: CC BY-SA 4.0  
 
+[DOI: 10.5281/zenodo.18316328](https://doi.org/10.5281/zenodo.18316328)
+
 ---
 
 ## Core Significance: A Methodological Enactment
