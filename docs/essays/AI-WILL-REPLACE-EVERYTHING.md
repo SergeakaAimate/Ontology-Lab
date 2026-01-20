@@ -1,4 +1,4 @@
-# AI Will Replace Everything
+# AI: Will Replace Everything
 
 **Author**: Serge Magomet (aka Aimate)  
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
