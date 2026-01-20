@@ -57,19 +57,6 @@ The dialogue performs a micro-recalibration: rejecting the reductive “brick”
 
 ---
 
-## Recommended Integration Path
-
-To formalize its role in the Lab ecosystem:
-
-1. **Finalize as Markdown**: Convert the PDF into a structured `.md` file (`Concept-and-Conception.md`) reflecting the inquiry arc: Prompt → Method → Process → Synthesis.  
-2. **Place in `/essays`**: As a canonical example of Property Method application.  
-3. **Update `ARTICLE-LIST.md`**: Add entry under **ESSAYS** with active link and concise annotation.  
-4. **Publish & Archive**:  
-   - Release on **SSRN** for engagement tracking;  
-   - Deposit on **Zenodo** for DOI assignment and long-term preservation alongside core Lab outputs.
-
----
-
 ## Conclusion
 
 *“Concept and Conception”* is a **proof-of-concept for the Ontology Lab itself**. It shows that the MPO-System is not a theory about thought, but a **working interface for thought**—one that enables human and AI to jointly cultivate meaning with ontological discipline. Its integration would provide future users with a clear, replicable model of what it means to *do* ontology in the Lab.
