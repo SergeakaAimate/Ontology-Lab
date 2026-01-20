@@ -6,6 +6,8 @@
 **File**: [`/docs/essays/AI-WILL-REPLACE-EVERYTHING.pdf`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-WILL-REPLACE-EVERYTHING.pdf)  
 **Date**: January 20, 2026  
 
+Published on Zenodo: [10.5281/zenodo.18307746](https://doi.org/10.5281/zenodo.18307746)
+
 ---
 
 This document presents a dialogue-based inquiry into the thesis: **“AI will replace everything”** — understood not as prophecy, threat, or utopia, but as a neutral, operational hypothesis concerning the future of human experience.
