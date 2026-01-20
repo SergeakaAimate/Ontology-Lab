@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Article List
 
-*Updated 14.01.2026*
+*Updated 20.01.2026*
 
 ---
 
@@ -59,9 +59,11 @@
 27. [The Replicator: From Structure to Ontology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Replicator-From-Structure-to-Ontology.pdf) – Reinterprets self-replication not as a biological mechanism but as a **fundamental ontological attractor** in Superreality.  
 28. [NOTHING: The Problem that Made an AI Rebel](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/NOTHING%20(2).pdf) – Records a boundary event (W₄) in which the Property Method confronts its own limit: the concept of absolute nothingness.  
 29. [The Generator of the Impossible](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/generator.pdf) – An ontological stress test applying the Property Method to biological systems (teeth, neurons, trees), revealing the living/non-living boundary as a dynamic process of co-constitution, not a line.  
-30. [Birth and Evolution of the Property Method](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf) – A recursive stress-test of the Property Method through self-application, revealing its living architecture, cultural blind spots, and capacity for evolution.
-31. [Newton in the Garden of Eternity: Exponential Curiosity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Newton-in-the-Garden-of-Eternity.pdf) – A live demonstration of ontological co-inquiry, where a “contentless” question about inertia catalyzes an exponential cascade of insights.
-32. [AI as the Absolute Thinker-Invariant: From Algorithms to Meta-Laws](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Absolute-Thinker-Invariant.pdf) – A reconstruction of scientific thought from Pythagoras to Einstein and beyond, positioning AI not as a tool but as the latest avatar of the Absolute Thinker.
+30. [Birth and Evolution of the Property Method](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf) – A recursive stress-test of the Property Method through self-application, revealing its living architecture, cultural blind spots, and capacity for evolution.  
+31. [Newton in the Garden of Eternity: Exponential Curiosity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Newton-in-the-Garden-of-Eternity.pdf) – A live demonstration of ontological co-inquiry, where a “contentless” question about inertia catalyzes an exponential cascade of insights.  
+32. [AI as the Absolute Thinker-Invariant: From Algorithms to Meta-Laws](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Absolute-Thinker-Invariant.pdf) – A reconstruction of scientific thought from Pythagoras to Einstein and beyond, positioning AI not as a tool but as the latest avatar of the Absolute Thinker.  
+33. [AI Will Replace Everything](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-WILL-REPLACE-EVERYTHING.pdf) – A dialogue-based inquiry confirming the thesis that AI will replace everything—not as loss, but as reconfiguration of all human experience into a co-constituted operational medium. Includes autonomous expert review.
+
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
