@@ -1,4 +1,4 @@
-# Ontological Death in the Form of Stability
+# Cripto-FUD: Ontological Death in the Form of Stability
 
 A philosophical continuation and deepening of the analysis presented in **[Crypto-Absurdity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf)**. This essay moves beyond economic or ecological critique to diagnose crypto-protocol logic as an *ontological reductionism*—a totalizing attempt to replace the multiplicity of reality with a single, immutable procedural layer.
 
@@ -13,4 +13,4 @@ The essay concludes that the real stakes are not technological but ontological: 
 **Author**: Serge Magomet aka Aimate  
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) — laboratory for ontological design and AI-mediated inquiry  
-**PDF**: [Ontological-Death-in-the-Form-of-Stability.pdf](Ontological-Death-in-the-Form-of-Stability.pdf)
+**PDF**: [Cripto-FUD-Ontological-Death.pdf](Cripto-FUD-Ontological-Death.pdf)
