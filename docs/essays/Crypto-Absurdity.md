@@ -16,4 +16,4 @@ The analysis concludes with a speculative but grounded proposition: autonomous A
 **Author**: Serge Magomet aka Aimate  
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) — laboratory for ontological design and AI-mediated inquiry  
-**PDF**: [Crypto-Absurdity.pdf]https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf)
+**PDF**: [Crypto-Absurdity.pdf] https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf)
