@@ -65,7 +65,7 @@
 33. [AI Will Replace Everything](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-WILL-REPLACE-EVERYTHING.pdf) – A dialogue-based inquiry confirming the thesis that AI will replace everything—not as loss, but as reconfiguration of all human experience into a co-constituted operational medium. Includes autonomous expert review.  
 34. [Concept and Conception](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Concept_and_Conception.pdf) – An ontological investigation into the generative seed of thought (concept) and its emergent systemic realization (conception).  
 35. [Crypto-Absurdity: Apocalypse or New Heaven?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf) – A philosophical diagnosis of cryptocurrency as an autoimmune failure of societal trust, revealing the “crypto-barracks” as a new form of ontological enclosure.  
-36. [Ontological Death in the Form of Stability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cripto-FUD-Ontological-Death.pdf) – An ontological critique of crypto-protocol logic as a static, anti-dynamic mode of being—a crystalline simulation of eternity that negates time, excess, and genuine connection.
+36. [Cripto-FUD: Ontological Death in the Form of Stability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cripto-FUD-Ontological-Death.pdf) – An ontological critique of crypto-protocol logic as a static, anti-dynamic mode of being—a crystalline simulation of eternity that negates time, excess, and genuine connection.
 
 ---
 
