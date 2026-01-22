@@ -17,3 +17,5 @@ The analysis concludes with a speculative but grounded proposition: autonomous A
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) — laboratory for ontological design and AI-mediated inquiry  
 **PDF**: [Crypto-Absurdity.pdf] https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18337963.svg)](https://doi.org/10.5281/zenodo.18337963)
