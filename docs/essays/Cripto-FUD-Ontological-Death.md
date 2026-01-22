@@ -14,3 +14,5 @@ The essay concludes that the real stakes are not technological but ontological: 
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Project**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) — laboratory for ontological design and AI-mediated inquiry  
 **PDF**: [Cripto-FUD-Ontological-Death.pdf](Cripto-FUD-Ontological-Death.pdf)
+
+DOI: [10.5281/zenodo.18338046](https://doi.org/10.5281/zenodo.18338046)
