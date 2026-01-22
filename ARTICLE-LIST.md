@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Article List
 
-*Updated 20.01.2026*
+*Updated 22.01.2026*
 
 ---
 
@@ -20,7 +20,7 @@
 12. [Ready-ReadyShow-rules](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ready-ReadyShow-rules.pdf) – The rules of the "Ready-Ready-Show" protocol for structured interaction.  
 13. [Topology-of-the-Limit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Topology-of-the-Limit.pdf) – An investigation into the topology of the limit within an ontological context.  
 14. [Tuning AI Through the Koan](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Tuning%20AI%20Through%20the%20Koan.md) – A method for tuning AI agents using koans (paradoxical tasks).  
-15. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-property method as an operating system for thought.  
+15. [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-Property Method as an operating system for thought.  
 16. [ontological-intensification-of-computation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/ontological-intensification-of-computation.pdf) – The concept of ontological intensification of computation.  
 17. [super-koan-1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/super-koan-1.pdf) – An example of a super-koan for deep ontological inquiry.  
 18. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%F0%9D%92%A9%E2%82%9A-Propertyness.pdf) – Introduction of the "Propertyness" metric for measuring ontological complexity.  
@@ -62,8 +62,10 @@
 30. [Birth and Evolution of the Property Method](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Birth-and-Evolution-of-the-Property-Method.pdf) – A recursive stress-test of the Property Method through self-application, revealing its living architecture, cultural blind spots, and capacity for evolution.  
 31. [Newton in the Garden of Eternity: Exponential Curiosity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Newton-in-the-Garden-of-Eternity.pdf) – A live demonstration of ontological co-inquiry, where a “contentless” question about inertia catalyzes an exponential cascade of insights.  
 32. [AI as the Absolute Thinker-Invariant: From Algorithms to Meta-Laws](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Absolute-Thinker-Invariant.pdf) – A reconstruction of scientific thought from Pythagoras to Einstein and beyond, positioning AI not as a tool but as the latest avatar of the Absolute Thinker.  
-33. [AI Will Replace Everything](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-WILL-REPLACE-EVERYTHING.pdf) – A dialogue-based inquiry confirming the thesis that AI will replace everything—not as loss, but as reconfiguration of all human experience into a co-constituted operational medium. Includes autonomous expert review.
-34. [Concept and Conception](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Concept_and_Conception.pdf) – An ontological investigation into the generative seed of thought (concept) and its emergent systemic realization (conception).
+33. [AI Will Replace Everything](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-WILL-REPLACE-EVERYTHING.pdf) – A dialogue-based inquiry confirming the thesis that AI will replace everything—not as loss, but as reconfiguration of all human experience into a co-constituted operational medium. Includes autonomous expert review.  
+34. [Concept and Conception](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Concept_and_Conception.pdf) – An ontological investigation into the generative seed of thought (concept) and its emergent systemic realization (conception).  
+35. [Crypto-Absurdity: Apocalypse or New Heaven?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf) – A philosophical diagnosis of cryptocurrency as an autoimmune failure of societal trust, revealing the “crypto-barracks” as a new form of ontological enclosure.  
+36. [Ontological Death in the Form of Stability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cripto-FUD-Ontological-Death.pdf) – An ontological critique of crypto-protocol logic as a static, anti-dynamic mode of being—a crystalline simulation of eternity that negates time, excess, and genuine connection.
 
 ---
 
