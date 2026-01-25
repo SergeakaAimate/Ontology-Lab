@@ -1,4 +1,4 @@
-# Human in a Duck Suit: x A P(x) = P(A)  
+# Human in a Duck Suit: $x \in A \Leftrightarrow P(x) = P(A)$  
 *A Thought Experiment in Classification, Consciousness, and the Nature of Intelligence*
 
 **Author**: Serge Magomet (Aimate)  
