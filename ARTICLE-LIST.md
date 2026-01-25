@@ -66,7 +66,7 @@
 34. [Concept and Conception](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Concept_and_Conception.pdf) – An ontological investigation into the generative seed of thought (concept) and its emergent systemic realization (conception).  
 35. [Crypto-Absurdity: Apocalypse or New Heaven?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf) – A philosophical diagnosis of cryptocurrency as an autoimmune failure of societal trust, revealing the “crypto-barracks” as a new form of ontological enclosure.  
 36. [Cripto-FUD: Ontological Death in the Form of Stability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cripto-FUD-Ontological-Death.pdf) – An ontological critique of crypto-protocol logic as a static, anti-dynamic mode of being—a crystalline simulation of eternity that negates time, excess, and genuine connection.
-[Defining the ’I’](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Defining-the-I.pdf) – An operational thought experiment that reframes the self not as a substance but as an ineradicable configuration of Property 37 (Salience), proposing cross-ontological criteria for detecting consciousness in humans and AI.
+37. [Defining the ’I’](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Defining-the-I.pdf) – An operational thought experiment that reframes the self not as a substance but as an ineradicable configuration of Property 37 (Salience), proposing cross-ontological criteria for detecting consciousness in humans and AI.
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
