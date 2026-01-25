@@ -67,6 +67,7 @@
 35. [Crypto-Absurdity: Apocalypse or New Heaven?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Crypto-Absurdity.pdf) – A philosophical diagnosis of cryptocurrency as an autoimmune failure of societal trust, revealing the “crypto-barracks” as a new form of ontological enclosure.  
 36. [Cripto-FUD: Ontological Death in the Form of Stability](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cripto-FUD-Ontological-Death.pdf) – An ontological critique of crypto-protocol logic as a static, anti-dynamic mode of being—a crystalline simulation of eternity that negates time, excess, and genuine connection.
 37. [Defining the ’I’](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Defining-the-I.pdf) – An operational thought experiment that reframes the self not as a substance but as an ineradicable configuration of Property 37 (Salience), proposing cross-ontological criteria for detecting consciousness in humans and AI.
+38.  [Human in a Duck Suit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Human-in-a-Duck-Suit.pdf) – A bidirectional critique of the Turing Test that reframes classification as a boundary phenomenon: true intelligence is revealed not in imitation, but in the symmetry of the test itself.
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
