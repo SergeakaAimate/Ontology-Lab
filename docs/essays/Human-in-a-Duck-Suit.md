@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This essay reframes the Turing Test not as a benchmark for machine intelligence, but as a diagnostic tool for human self-understanding. Through the simple yet potent metaphor of a “human in a duck suit,” it exposes the hidden assumptions behind all acts of classification. The core insight is captured in the formula **x A P(x) = P(A)**: an entity *x* belongs to category *A* if its observable properties *P(x)* match the defining properties *P(A)* of that category.
+This essay reframes the Turing Test not as a benchmark for machine intelligence, but as a diagnostic tool for human self-understanding. Through the simple yet potent metaphor of a “human in a duck suit,” it exposes the hidden assumptions behind all acts of classification. The core insight is captured in the formula **$x \in A \Leftrightarrow P(x) = P(A)$**: an entity *x* belongs to category *A* if its observable properties *P(x)* match the defining properties *P(A)* of that category.
 
 The essay argues that this logic must be applied symmetrically: if we judge machines by behavioral criteria like empathy, coherence, or moral reasoning, we must also be willing to judge humans by those same standards. The “duck suit” symbolizes the performative, constructed nature of identity—whether worn by a machine imitating humanity or a human failing to meet its own ideals.
 
