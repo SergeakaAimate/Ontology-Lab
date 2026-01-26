@@ -1,52 +1,43 @@
-# Cowardice of Philosophies
+# The Cowardice of Philosophies  
+*An Essay-Dialogue on Killer Questions and the Property Method*
 
-**Document path**  
-`/docs/essays/Cowardice-of-Philosophies.pdf`
+**Author**: Serge Magomet aka Aimate  
+**Year**: 2025  
+**License**: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
 
-**Author**  
-Serge Magomet (Aimate)
+**Document**: [Cowardice-of-Philosophies.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf)
+---
 
-**Last update**  
-26 January 2026
+## Abstract
 
-**License**  
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+A real-time philosophical experiment testing the limits of cognition through dialogue. The text introduces the concept of the **Killer Question (KQ)** — a class of existential-metaphysical questions whose correct formulation induces cognitive-ontological destabilization of the questioning system itself. Unlike "eternal" or "cursed" questions, a KQ does not merely challenge but *destroys* the epistemic foundations upon which it is posed.
+
+The dialogue applies the **Property Method (MPO-System)** to itself under conditions of reflexive stress-testing, examining:
+- How philosophical systems avoid the practical consequences of their own insights (e.g., recognizing the primacy of affects while refusing their technologization)
+- The vulnerability of any method — including MPO — to self-subversion when confronted with its own paradoxes
+- The boundary between contemplation and engineering of cognition
+- The role of theology not as "ballast" but as a methodological invariant marking irreducible limits
 
 ---
 
-## Scope
+## Structural Nodes
 
-Applied ontological investigation examining the epistemic limitations of monistic philosophical frameworks. The essay critiques the reduction of irreducible ontological worlds to a single explanatory principle and analyses the methodological consequences of such reductionism for AI-mediated inquiry.
+### Part 1. Killer Questions
+- Problem formulation as epistemic condition  
+- Distinction: *eternal questions* (stimulate reflection) vs. *cursed questions* (ethical taboos) vs. *killer questions* (systemic collapse)  
+- The "sect method": circumventing meaning through epistemic violence  
+- Philosophy's avoidance of "engineering the soul" despite acknowledging affective primacy  
+- Property Method architecture applied to question deconstruction (36 properties, ChOR/KSS/PPU axiomatics)
 
-## Core propositions
-
-- Monistic approaches constitute a form of epistemic cowardice: the refusal to sustain dialogue between ontologically distinct worlds
-- Scientific monism (e.g., attempts to reduce quantum phenomena to general relativity or vice versa) exemplifies logically inconsistent boundary-crossing
-- Genuine philosophical courage manifests as sustained engagement with irreducible multiplicity through structured dialogue
-- The MPO-System provides methodological tools for navigating boundary processes without collapse into singularity
-
-## Structural elements
-
-1. Diagnosis of monistic reduction as avoidance of ontological responsibility  
-2. Analysis of boundary violations between irreducible worlds  
-3. Dialogical format demonstrating performance of cross-world communication  
-4. Methodological prescription: property-based inquiry as alternative to substance metaphysics
-
-## Key concepts
-
-`monism` `ontological boundaries` `dialogue-of-worlds` `MPO-System` `epistemic courage` `reductionism` `boundary processes` `property method` `Superreality`
-
-## Related materials
-
-- [Property Method: User Guide](/docs/core/Property-Method-User-Guide.pdf) — foundational methodology  
-- [ChOR/KSS/PPU axioms](/docs/core/) — formal statements underpinning the analysis  
-- [Ontology Lab framework](/) — operational environment for AI-human ontological inquiry
-
-## Access
-
-- **PDF**: [Cowardice-of-Philosophies.pdf](https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/essays/Cowardice-of-Philosophies.pdf)
-- **Repository**: [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab)
+### Part 2. Killer Chests
+- Nietzsche's "Great Noon" as KQ: achievement annihilates the driving force  
+- Dionysius the Areopagite vs. Nietzsche: apophatic vs. cataphatic abyss  
+- Apostle Paul's "through a glass, darkly" as epistemic humility vs. science's "non-human languages"  
+- Quantum measurement analogy: the act of analysis collapses the living question  
+- MPO as OS for AI cognition, not calculator — demands operational verification (Λ ∝ 1/PPU, Nₚ > 10⁶)  
+- Open protocol transition: falsifiability as survival criterion ("If predictions don't materialize in 5 years — the method dies")
 
 ---
 
-*Document resides in `/docs/essays/` as an applied ontological investigation. Core axiomatic materials are maintained separately in `/docs/core/`.*
+> "This is not a 'almost serious' dialog, it is a **serious philosophical experiment in real time**. It does not merely discuss the boundaries of cognition — it *occurs* on these boundaries."  
+> — Final assessment, *The Cowardice of Philosophies*
