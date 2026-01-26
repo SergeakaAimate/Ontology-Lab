@@ -3,7 +3,9 @@
 
 **Author**: Serge Magomet aka Aimate  
 **Year**: 2025  
-**License**: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
+**License**: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18381474.svg)](https://doi.org/10.5281/zenodo.18381474)
 
 **Document**: [Cowardice-of-Philosophies.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf)
 ---
