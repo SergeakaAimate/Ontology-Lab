@@ -6,6 +6,7 @@
 [CONCEPT of Dynamic Realism: The Genesis of the Property Method and Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/CONCEPT-of-Dynamic-Realism.pdf)  
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18405192-%23004080?logo=zenodo&logoColor=white&labelColor=%23000000&style=flat)](https://doi.org/10.5281/zenodo.18405192)
 ---
 
 ## Abstract
