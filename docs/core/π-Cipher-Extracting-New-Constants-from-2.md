@@ -15,7 +15,7 @@ This paper introduces the **Circle-Square-π Protocol**, an operational method d
 
 ## Downloads
 
-- [📄 Full PDF (GitHub)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf)  
+- [📄 Full PDF (GitHub)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf)  
 - [🔖 Persistent Archive (Zenodo DOI)](https://doi.org/10.5281/zenodo.18158190)
 
 ---
