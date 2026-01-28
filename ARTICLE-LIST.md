@@ -26,7 +26,8 @@
 18. [ₚ-Propertyness (𝒩ₚ)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%F0%9D%92%A9%E2%82%9A-Propertyness.pdf) – Introduction of the "Propertyness" metric for measuring ontological complexity.  
 19. [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) – An explanatory essay introducing the Ontology-Lab project.
 20. [MPO-System: Thought Experiment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/TE.pdf) – A formal protocol for generating ontological invariants through the analysis of cognitive and formal friction at the boundaries of irreducible worlds.
-21. [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.  
+21. [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
+22. [CONCEPT of Dynamic Realism: The Genesis of the Property Method and Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/CONCEPT-of-Dynamic-Realism.pdf) — verified ontological case study of property genesis through human-AI dialogue
 ---
 
 ## **ESSAYS**
