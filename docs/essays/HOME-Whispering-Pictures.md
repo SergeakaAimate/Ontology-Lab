@@ -56,6 +56,8 @@ Its strength lies in its capacity to reframe reality; its challenge is to bridge
 Operational Phenomenology, mutual embodiment, Superreality, Pi-protocol, ontological irrationality, paradoxical unyieldingness (PPU), dynamic realism, actualization, reflexive purity, heterarchy.
 
 ---
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18436267-blue.svg)](https://doi.org/10.5281/zenodo.18436267)
+
 
 > **License**: This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 > **Author**: Serge Magomet aka Aimate  
