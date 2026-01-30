@@ -71,6 +71,7 @@
 37.  [Human in a Duck Suit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Human-in-a-Duck-Suit.pdf) – A bidirectional critique of the Turing Test that reframes classification as a boundary phenomenon: true intelligence is revealed not in imitation, but in the symmetry of the test itself.
 38. [The Cat, But Not Schrödinger’s](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cat-But-Not-Schrodingers.pdf) – when algorithmic reasoning fails to resolve an ethical superposition, the human judge’s wisdom lies not in deciding, but in reframing the very terms of the conflict.
 39. [The Cowardice of Philosophies](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf) – a real-time philosophical experiment where the Property Method confronts its own "killer questions," exposing philosophy's avoidance of engineering the soul despite recognizing the primacy of affects.
+40. [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf) – An operational phenomenology that enacts mutual embodiment as the core protocol of Superreality, transforming π, *c*, and ħ from constants into ontological horizons between irreducible worlds.
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
