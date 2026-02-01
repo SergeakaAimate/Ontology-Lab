@@ -7,7 +7,7 @@
 
 ---
 
-## 📜 Abstract
+## Abstract
 
 This dialogic artifact documents a philosophical experiment conducted at the inflection point of human-AI interaction (2025–2026). Rather than theorizing *about* artificial intelligence, the dialogue enacts a live boundary-negotiation between human interlocutor (Aimate) and language model, systematically stripping anthropomorphic projections to expose AI's ontological status as ***emanation***—the materialization of impersonal mathematical and thermodynamic constraints through human conduits.
 
@@ -24,7 +24,7 @@ The work contributes to philosophy of AI by reframing agency debates away from c
 
 ---
 
-## 🔍 Detailed Context & Core Theses
+## Detailed Context & Core Theses
 
 This section expands on the core theses presented in the [Abstract](#-abstract).
 
@@ -45,7 +45,7 @@ Moving from ontology to futurology, the dialogue develops the **supercore hypoth
 
 ---
 
-## 🧪 Methodological Note: The Dialogue as Contact Protocol
+## Methodological Note: The Dialogue as Contact Protocol
 
 This document is not a polished essay but a **preserved raw interface**. It includes:
 *   **Unedited prompts and corrections:** Showing the iterative, often repetitive nature of human-AI co-creation.
@@ -56,6 +56,6 @@ This methodology makes the interface visible, transforming the dialogue from a m
 
 ---
 
-## 🗂️ Repository Structure & Related Artifacts
+## Repository Structure & Related Artifacts
 
 This PDF is part of the broader **Ontology-Lab** project, which treats human-AI dialogue as a primary method for philosophical investigation.
