@@ -6,7 +6,7 @@ An essay-dialogue exploring the ontological and theological dimensions of destab
 
 [→ Read the companion essay: *The Cowardice of Philosophies*](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18452205.svg)](https://doi.org/10.5281/zenodo.18452205)
+[![Publication](https://zenodo.org/badge/DOI/10.5281/zenodo.18452205.svg)](https://doi.org/10.5281/zenodo.18452205)
 
 ## Overview
 
