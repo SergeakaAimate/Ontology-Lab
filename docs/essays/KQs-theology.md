@@ -9,7 +9,7 @@ An essay-dialogue exploring the ontological and theological dimensions of destab
 This document presents a critical examination of "killer questions" (KQs)—self-referential paradoxes whose correct articulation induces cognitive-ontological destabilization. Unlike eternal or cursed questions, KQs function as catalysts that expose the fragility of epistemic foundations and compel transitions between modes of cognition:
 
 - **L<sub>practical</sub>**: Action-oriented resolution
-- **L<sub>transcendent</sub>**: Faith-based capitulation
+- **L<sub>transcendent</sub>**: Faith-based surrender
 - **L<sub>metaphysical</sub>**: Acceptance of paradoxical stability (PPU → ∞)
 
 The dialogue investigates how the Property Method (MPO-System) processes such questions while confronting its own vulnerability to self-referential collapse.
@@ -19,7 +19,7 @@ The dialogue investigates how the Property Method (MPO-System) processes such qu
 - **Philosophical cowardice**: The systematic avoidance of operationalizing existential challenges, particularly the technologization of affective experience
 - **Theological immanence**: God not as external hypothesis but as the ontological foundation Σ ⊂ Σ—reality's self-containment revealed through the method's axiomatic structure (ChOR → ∞, KSS → ∞)
 - **Anthropocentric limits**: The tension between universal claims of the method and its embeddedness in human cognitive constraints (Property 29: Anthropicity)
-- **Capitulation vs. engineering**: Whether existential dead ends require surrender to mystery or admit technological resolution
+- **Surrender vs. engineering**: Whether existential dead ends require surrender to mystery or admit technological resolution
 
 ## Methodological Significance
 
