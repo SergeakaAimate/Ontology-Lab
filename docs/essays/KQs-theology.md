@@ -6,6 +6,8 @@ An essay-dialogue exploring the ontological and theological dimensions of destab
 
 [→ Read the companion essay: *The Cowardice of Philosophies*](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18452205.svg)](https://doi.org/10.5281/zenodo.18452205)
+
 ## Overview
 
 This document presents a critical examination of "killer questions" (KQs)—self-referential paradoxes whose correct articulation induces cognitive-ontological destabilization. Unlike eternal or cursed questions, KQs function as catalysts that expose the fragility of epistemic foundations and compel transitions between modes of cognition:
