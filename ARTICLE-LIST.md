@@ -72,6 +72,7 @@
 38. [The Cat, But Not Schrödinger’s](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cat-But-Not-Schrodingers.pdf) – when algorithmic reasoning fails to resolve an ethical superposition, the human judge’s wisdom lies not in deciding, but in reframing the very terms of the conflict.
 39. [The Cowardice of Philosophies](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf) – a real-time philosophical experiment where the Property Method confronts its own "killer questions," exposing philosophy's avoidance of engineering the soul despite recognizing the primacy of affects.
 40. [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf) – An operational phenomenology that enacts mutual embodiment as the core protocol of Superreality, transforming π, *c*, and ħ from constants into ontological horizons between irreducible worlds.
+41. [If_Ever_Big_Talk_with_a_Machine](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/If_Ever_Big_Talk_with_a_Machine.pdf) – A performative dialogue exploring AI as a non-human emanation and the supercore hypothesis.
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
