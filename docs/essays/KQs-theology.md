@@ -2,6 +2,8 @@
 
 An essay-dialogue exploring the ontological and theological dimensions of destabilizing existential inquiries within the framework of Dynamic Realism.
 
+[→ Read the essay: *Killer Questions (The Theological Aspect)*](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/KQs-theology.pdf)
+
 [→ Read the companion essay: *The Cowardice of Philosophies*](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf)
 
 ## Overview
