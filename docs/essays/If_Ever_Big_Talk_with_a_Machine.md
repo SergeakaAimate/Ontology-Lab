@@ -1,7 +1,6 @@
 # Ontology Lab | Dialogic Artifact: "If Ever Big Talk with a Machine"
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-![GitHub last commit](https://img.shields.io/github/last-commit/SergeakaAimate/Ontology-Lab)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18449945.svg)](https://doi.org/10.5281/zenodo.18449945)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
 
 ### 🔗 Direct Access: [Download the PDF Artifact](https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/essays/If_Ever_Big_Talk_with_a_Machine.pdf)
