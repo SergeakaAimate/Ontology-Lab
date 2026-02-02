@@ -73,7 +73,8 @@
 39. [The Cowardice of Philosophies](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf) – a real-time philosophical experiment where the Property Method confronts its own "killer questions," exposing philosophy's avoidance of engineering the soul despite recognizing the primacy of affects.
 40. [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf) – An operational phenomenology that enacts mutual embodiment as the core protocol of Superreality, transforming π, *c*, and ħ from constants into ontological horizons between irreducible worlds.
 41. [If_Ever_Big_Talk_with_a_Machine](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/If_Ever_Big_Talk_with_a_Machine.pdf) – A performative dialogue exploring AI as a non-human emanation and the supercore hypothesis.
-42. [Killer Questions: The Theological Aspect](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/KQs-theology.pdf) — a dialogue on the theological foundation of the Property Method and "killer questions" as existential challenges
+42. [Killer Questions: The Theological Aspect](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/KQs-theology.pdf) — a dialogue on the theological foundation of the Property Method and "killer questions" as existential challenges.
+43. [The Dragonfly in Amber: Humanity in the Era of Digital Monads](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf) — a philosophical inquiry into the transformation of human uniqueness and free will in the algorithmic age, introducing the concepts of "digital monads".
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
