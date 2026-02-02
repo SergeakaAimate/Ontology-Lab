@@ -2,7 +2,7 @@
 
 This repository contains the essay **"The Dragonfly in Amber: Humanity in the Era of Digital Monads"**, a philosophical inquiry into the nature of uniqueness, consciousness, and free will in a world increasingly shaped by algorithms and digital existence.
 
-**📄 [Read the Full Essay (PDF)](docs/essays/dragonfly.pdf)**
+**📄 [Read the Full Essay (PDF)]([docs/essays/dragonfly.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf))**
 
 ---
 
