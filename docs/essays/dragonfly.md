@@ -8,6 +8,7 @@ The essay argues that in the digital age, human uniqueness is transforming from 
 
 **[Read the Full Essay (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf)**
 
+[![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.18458116-168da9?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18458116)
 ---
 
 ## Key Explored Themes
@@ -24,7 +25,7 @@ The essay argues that in the digital age, human uniqueness is transforming from 
 
 **Keywords**: digital monads, uniqueness, algorithmic systems, technological determinism, digital identity, free will, open models, non-locality, AI ethics.
 
-## 📂 Repository Context
+## Repository Context
 
 This essay is part of the **Ontology-Lab**—a project dedicated to exploring fundamental questions of being, existence, and reality in the context of contemporary technology and thought. It resides in the `/docs/essays/` directory as a core textual artifact of the lab's inquiry.
 
