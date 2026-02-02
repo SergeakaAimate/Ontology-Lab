@@ -2,13 +2,13 @@
 
 This repository contains the essay **"The Dragonfly in Amber: Humanity in the Era of Digital Monads"**, a philosophical inquiry into the nature of uniqueness, consciousness, and free will in a world increasingly shaped by algorithms and digital existence.
 
-**📄 [Read the Full Essay (PDF)]([docs/essays/dragonfly.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf))**
-
----
-
 ## Core Thesis
 
 The essay argues that in the digital age, human uniqueness is transforming from a static property into a dynamic *process*. It introduces the concept of **"digital monads"**—dynamic data systems reflecting an individual's unique trajectory of interactions. Unlike Leibniz's windowless monads, these digital entities are constitutively open yet risk becoming enclosed by the deterministic "grammar" of algorithms. The central metaphor of the **dragonfly in amber** warns of the human mind becoming trapped in a rigidly regulated, algorithmic existence.
+
+**[Read the Full Essay (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf)**
+
+---
 
 ## Key Explored Themes
 
