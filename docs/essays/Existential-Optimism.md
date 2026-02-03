@@ -5,6 +5,7 @@
 
 [Direct PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Existential-Optimism.pdf) | [Full Repository](https://github.com/SergeakaAimate/Ontology-Lab)
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18473016-000000?logo=doi&logoColor=0047AB&labelColor=000000&color=000000)](https://doi.org/10.5281/zenodo.18473016)
 ---
 
 ## Conceptual Core
