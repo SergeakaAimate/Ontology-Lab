@@ -6,7 +6,7 @@
 [📄 Full Text (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Bonfire-That-Beckons.pdf)  
 *Version 1.0 • February 2026 • CC BY 4.0*
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18500080-000000?style=flat&colorB=003366&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI4IDQzLjVjMzQuNiAwIDY2LjcgMTMuNCA5MS4yIDM3LjhsLTIzLjYgMjMuN2MtMjEuNS0yMS4yLTUxLjctMzMuMi04My4zLTMzLjJzLTYxLjggMTItODMuMyAz
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18500080-003366?style=flat-square&labelColor=000000)](https://doi.org/10.5281/zenodo.18500080)
 ---
 
 ## Abstract
