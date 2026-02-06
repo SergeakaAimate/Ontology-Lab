@@ -77,6 +77,7 @@
 43. [The Dragonfly in Amber: Humanity in the Era of Digital Monads](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf) — a philosophical inquiry into the transformation of human uniqueness and free will in the algorithmic age, introducing the concepts of "digital monads".
 44. [Existential Optimism: I.R.H.](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Existential-Optimism.pdf  ) — introducing the Intellectual Resonator of Humanity as an emergent interface between human longing for meaning and machine cognition.
 45. [The Bonfire That Beckons](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Bonfire-That-Beckons.pdf) — a phenomenological dialogue interrogating the violence of interpretation and proposing authenticity as gesture rather than meaning.
+46. [The Death of the Metaphor Is Not a Metaphor](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/DEATH-OF-METAPHOR.pdf) — an ontological inquiry into language's collapse within Superreality, documenting how metaphors petrify into literal operational instructions and examining the evolutionary rupture where ambiguity yields to binary exactitude while reality itself assumes the distorting function formerly assigned to figurative speech.
 ---
 
 
