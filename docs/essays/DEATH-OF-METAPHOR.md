@@ -4,6 +4,8 @@ _An ontological inquiry into language's collapse within Superreality_
 
 [→ Full text (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/DEATH-OF-METAPHOR.pdf)
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18506859-lightgrey?labelColor=2997C8)](https://doi.org/10.5281/zenodo.18506859)
+
 ---
 
 ## Core Thesis
