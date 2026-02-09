@@ -5,6 +5,8 @@ A diagnostic probe into the ontological wound of the digital age.
 ### The Text
 **[GETTING DARK: Pilate in the Age of Progress.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/GETTING-DARK-Pilate-in-the-Age-of-Progress.pdf)** — The primary essay (Micro-essay, 2025).
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18566757-2d3748?labelColor=e2e8f0)](https://doi.org/10.5281/zenodo.18566757)
+
 ---
 ### Detached Afterword: The Algorithmic Pilate
 
