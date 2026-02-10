@@ -5,8 +5,7 @@ An ontological diagnosis of evolutionary rupture in the algorithmic age.
 ### The Text
 **[JUNGLES OF THE DIGITAL REALM.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/JUNGLES-OF-THE-DIGITAL-REALM.pdf)** — The primary essay (Thesis-essay, 2025).
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18506859-2d3748?labelColor=e2d4b3)](https://doi.org/10.5281/zenodo.18506859)
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18600362-lightgrey?labelColor=2997C8)](https://doi.org/10.5281/zenodo.18600362)
 ---
 ### Detached Afterword: The Evolutionary Schism
 
