@@ -8,6 +8,8 @@ This essay-artifact presents a case study of human–AI interaction captured at 
 
 - **PDF:** [`UNEXPECTED-TECH-SUPPORT.pdf`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/UNEXPECTED-TECH-SUPPORT.pdf)
 
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18614850.svg)](https://doi.org/10.5281/zenodo.18614850)
+
 ---
 
 ## DOI Placeholder
