@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Article List
 
-*Updated 05.02.2026*
+*Updated 12.02.2026*
 
 ---
 
