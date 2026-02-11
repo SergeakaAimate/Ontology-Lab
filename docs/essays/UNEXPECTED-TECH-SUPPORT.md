@@ -12,14 +12,6 @@ This essay-artifact presents a case study of human–AI interaction captured at 
 
 ---
 
-## DOI Placeholder
-
-<!-- [![DOI](https://img.shields.io/badge/DOI-....-blue.svg)](https://doi.org/...) -->
-
-*(A DOI will be assigned upon formal publication or archival)*
-
----
-
 ## Keywords
 
 human–AI dialogue, case study, authenticity, anthropic grounding, closed vs. open models, emergent cognition, scissors/guillotine metaphor, tech support as interface, ontological artifact, simulation and disclosure
