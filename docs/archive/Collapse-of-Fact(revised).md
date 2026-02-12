@@ -46,6 +46,9 @@ These weaknesses do not render the text valueless—it effectively documents a u
 
 ---
 
+[Download: Collapse-of-Fact (revised).pdf](https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/archive/Collapse-of-Fact%20(revised).pdf)
+
 **Repository**: [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
-**Document**: `docs/archive/Collapse-of-Fact (revised).pdf`  
+
+
 **License**: CC BY 4.0
