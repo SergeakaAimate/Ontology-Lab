@@ -94,7 +94,6 @@
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
 5. [ Collapse_of_Fact1.pdf ](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse_of_Fact1.pdf)
 6. [Collapse-of-Fact (revised).pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse-of-Fact%20(revised).pdf)
-
-   ---
+---
 
 **How to use this list:** Click on any article title to open the corresponding PDF or Markdown file directly from the repository.
