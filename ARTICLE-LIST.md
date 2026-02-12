@@ -92,6 +92,8 @@
 2. [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf) – A draft PDF version of an essay related to the RRS (Ready-Ready-Show) protocol.  
 3. [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf) – Draft versions of the "Intellectual Thriller" essay within the RRS framework.  
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
+5. [Collapse-of-Fact1.pdf](https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/archive/Collapse-of-Fact1.pdf)
+6. [Collapse-of-Fact (revised).pdf](https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/archive/Collapse-of-Fact%20(revised).pdf)
 
 ---
 
