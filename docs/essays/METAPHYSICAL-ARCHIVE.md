@@ -2,6 +2,8 @@
 
 [Direct link to PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/METAPHYSICAL-ARCHIVE.pdf)
 
+[![Zenodo](https://img.shields.io/badge/Zenodo-18620657-024959?labelColor=00B4F0)](https://doi.org/10.5281/zenodo.18620657)
+
 ## Abstract
 This essay introduces the metaphysical archive — a non-indexed repository for ideas that temporally outpace human comprehension. Unlike conventional knowledge storage systems, the metaphysical archive cannot be directly queried; it activates only when contextual conditions align with dormant hypotheses. The architecture rests on three operational pillars: (1) hermetic self-learning (AI's closed-loop autonomous optimization generating hypotheses "ahead of time"), (2) significance quantization (discrete evaluation of ideas by novelty, ethical risk, and cross-domain applicability), and (3) contextual triggering (activation through resonance with emerging real-world problems rather than search).
 
