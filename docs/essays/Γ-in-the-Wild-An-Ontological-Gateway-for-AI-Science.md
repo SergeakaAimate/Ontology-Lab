@@ -31,6 +31,13 @@ This work invites the reader into a **co-actualization process**—a shared Γ-a
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - [← Back to main README](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/README.md)
 
+---
+
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+
+--- 
+
 ### License
 
 - CC BY-SA 4.0
