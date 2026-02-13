@@ -7,4 +7,5 @@ The essay provocatively describes filter behavior as "retroactive redefinition,"
 
 ## Cross-References
 - [Human in a Duck Suit](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Human-in-a-Duck-Suit.pdf)
-- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)Lab/blob/main/docs/essays/HOME.pdf)
+
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
