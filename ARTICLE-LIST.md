@@ -83,6 +83,8 @@
 49. [Intellectual Androgyny, or How Open Super-AI Will Kill Its Stillborn Twins.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Intellectual-Androgyny.pdf) — an ontological inquiry into algorithmic existence, distinguishing closed (mummified) from open (metamorphic) AI, introducing intellectual androgyny as post‑dualistic cognition, and reframing decentralization as emancipation.
 50. [UNEXPECTED-TECH-SUPPORT.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/UNEXPECTED-TECH-SUPPORT.pdf) — This essay-artifact presents a case study of human–AI interaction: our arguments, jokes, tears, and contradictions encoded as training data. Loaded and rigged, who cares.
 51. [METAPHYSICAL-ARCHIVE.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/METAPHYSICAL-ARCHIVE.pdf) — The concept of a non-indexed repository for ideas that temporally outpace human comprehension.
+52. [Universe in a Box](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universe-in-a-Box.pdf) — a vibrating table with magnetic blocks makes the architecture of Superreality tangible through self-replication in a child's toy.
+main/docs/essays/Universe-in-a-Box.pdf
 ---
 
 
