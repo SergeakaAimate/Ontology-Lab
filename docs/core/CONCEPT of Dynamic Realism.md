@@ -36,10 +36,10 @@ This dialogue is not a historical record but a performative act of birthing an o
 Dynamic Realism, Property Method (MPO-System), Superreality, ontological properties, dialogue as methodology, emergent ontology, quantum indeterminacy, śūnyatā (Buddhist emptiness), propertylessness, superpropertyness, retroactivity, anthropicity, rangedness, entanglement, onticity, non-locality, interpretability, conceptness, attributivity, cognitive operating system, Γ-operator, ChOR axiom, KSS axiom, PPU axiom, phenomenology of discovery, anti-reductionism, relational ontology, quantum-classical boundary, cultural code as catalyst, Musil's *The Man Without Qualities*
 
 ---
-## Related Resources
 
-- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-
+## Related docs
 
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 ---
 
 ## Repository Navigation
