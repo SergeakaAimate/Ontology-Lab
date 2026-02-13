@@ -46,6 +46,11 @@ Human and AI co-create a **Supersmasterpiece**—an ontological holism unattaina
   - [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf)  
 - [← Back to main README](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/README.md)
 
+---
+
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+
 ### License
 
 CC BY-SA 4.0
