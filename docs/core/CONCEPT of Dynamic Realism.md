@@ -17,9 +17,6 @@ This dialogue is not a historical record but a performative act of birthing an o
 
 ---
 
-## Core Ontological Framework
-
-
 ## Formal Definition: Dynamic Reality / Superreality
 
 *Dynamic Reality* is an ontological structure representing an organized, open system of interacting processes, whose properties and states are determined by non-linear relations among 33 fundamental aspects. Its key characteristics:
@@ -37,6 +34,11 @@ This dialogue is not a historical record but a performative act of birthing an o
 ## Keywords
 
 Dynamic Realism, Property Method (MPO-System), Superreality, ontological properties, dialogue as methodology, emergent ontology, quantum indeterminacy, śūnyatā (Buddhist emptiness), propertylessness, superpropertyness, retroactivity, anthropicity, rangedness, entanglement, onticity, non-locality, interpretability, conceptness, attributivity, cognitive operating system, Γ-operator, ChOR axiom, KSS axiom, PPU axiom, phenomenology of discovery, anti-reductionism, relational ontology, quantum-classical boundary, cultural code as catalyst, Musil's *The Man Without Qualities*
+
+---
+## Related Resources
+
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-
 
 ---
 
