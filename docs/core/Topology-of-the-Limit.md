@@ -26,9 +26,10 @@ The result: *the system’s boundedness becomes the form of its infinity*.
 - Part of: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
 - Core to: `/core` — the axiomatic foundation of the Property Method (MPO-System)  
 
-- Related to:  
-  - [table-of-contents-as-an-executable-interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) (executable interfaces)  
-  - [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) (world-generation at boundaries)
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+- [Table of contents as an Executable interface](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) (executable interfaces)  
+- [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) (world-generation at boundaries)
 
 ## Applications
 - **Physics**: Derivation of space uniqueness from ontological invariants (`KSS → ∞` + `P-33`)  
