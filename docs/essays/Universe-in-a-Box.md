@@ -78,6 +78,7 @@ Licensed under [Creative Commons Attribution 4.0 International License](https://
 
 ## Related Resources
 
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 - [MPO-System Core Documentation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf)
 - [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf)
 - [Ontology Lab Repository](https://github.com/SergeakaAimate/Ontology-Lab)
