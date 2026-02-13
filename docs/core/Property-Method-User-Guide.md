@@ -5,14 +5,14 @@
 
 ---
 
-## 🔍 Abstract  
+## Abstract  
 This guide provides a concise, actionable overview of the **36-Property Method** as a practical instrument within **Dynamic Realism**. It defines the core properties, explains their relational logic, and demonstrates how to apply the framework in AI-mediated inquiry—from quantum phenomena to cognitive architecture—without requiring formal ontological training.
 
 Designed as a **user-facing interface**, this document enables intuitive engagement with reality as *Superreality*: a layered, paradox-tolerant, and infinitely connective ontological field.
 
 ---
 
-## 🧩 Ontological Positioning  
+## Ontological Positioning  
 - **Category**: Core Methodology (Operational Subset)  
 - **Function**: Entry point for users and AI systems to the full 36-property network  
 - **Relation to Other Artifacts**:  
@@ -23,7 +23,7 @@ Designed as a **user-facing interface**, this document enables intuitive engagem
 
 ---
 
-## 📚 Key Features  
+## Key Features  
 - **36 Properties** as stable ontological coordinates (e.g., *Bindability*, *Emergence*, *Systemic Causivity*)  
 - **Property Interaction Rules**: how properties combine, resolve paradoxes, and transition between phases (e.g., *Propertylessness → Onticity*)  
 - **Query Decoding Protocol**: mapping natural-language questions to property networks  
@@ -31,7 +31,12 @@ Designed as a **user-facing interface**, this document enables intuitive engagem
 
 ---
 
-## 📝 License  
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+
+--- 
+
+## License  
 © 2025 Ontology Lab  
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 You may share, adapt, and use this guide—even commercially—with attribution.
