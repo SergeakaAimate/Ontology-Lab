@@ -37,8 +37,7 @@ Dynamic Realism, Property Method (MPO-System), Superreality, ontological propert
 
 ---
 
-## Related docs
-
+## Cross-References
 - [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 ---
 
