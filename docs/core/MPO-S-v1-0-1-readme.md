@@ -11,6 +11,9 @@ The MPO-System enables:
 
 This release marks the official publication of the MPO-System as a public, versioned, and AI-readable protocol.
 
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+
 🔗 **Read the specification**: [MPO-S-v1-0-11.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S-v1-0-11.pdf)  
 🔖 **DOI (Zenodo)**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18140632.svg)](https://doi.org/10.5281/zenodo.18140632)
 
