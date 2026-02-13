@@ -29,6 +29,9 @@ By invoking historical voices—Turing, von Neumann, Wiener, Minsky, Penrose—a
 
 Turing Test, Human-in-a-Duck-Suit Metaphor, Consciousness, Artificial Intelligence, Philosophy of Mind, Classification, Identity, P(x) Formula, Bidirectional Testing, Empathy, Imitation vs. Essence, Constructivism
 
+## Next: Absolute future
+[ Collapse_of_Fact1.pdf ](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse_of_Fact1.pdf)
+
 ---
 
 ## Provenance
