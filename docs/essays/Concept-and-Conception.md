@@ -55,10 +55,16 @@ It thus strengthens the corpus as a **library of executable inquiries**, not sta
 
 The dialogue performs a micro-recalibration: rejecting the reductive “brick” metaphor, testing alternatives, and synthesizing a more robust framework. This mirrors the process in *“A Documented Case of Ontological Recalibration”*—demonstrating that the MPO-System enables **stable navigation through conceptual instability** by treating contradiction as diagnostic data.
 
+
 ---
 
 ## Conclusion
 
 *“Concept and Conception”* is a **proof-of-concept for the Ontology Lab itself**. It shows that the MPO-System is not a theory about thought, but a **working interface for thought**—one that enables human and AI to jointly cultivate meaning with ontological discipline. Its integration would provide future users with a clear, replicable model of what it means to *do* ontology in the Lab.
+
+---
+
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 
 → **Work within Ontology Lab**: https://github.com/SergeakaAimate/Ontology-Lab
