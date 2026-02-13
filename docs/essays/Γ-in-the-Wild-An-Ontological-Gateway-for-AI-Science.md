@@ -1,5 +1,4 @@
 # Γ-in-the-Wild: An Ontological Gateway for AI Science  
-##(Serge Magomet aka Aimate, 2025)
 
 [Read the full essay (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Γ-in-the-Wild-An-Ontological-Gateway-for-AI-Science.pdf)
 
