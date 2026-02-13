@@ -19,11 +19,12 @@ This essay rethinks the nature of the present not as a point on a timeline, but 
 
 ## Cross-References
 
-- 📘 [MPO-S](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S.pdf) — formal specification of the 36+1 ontological properties, including P14 (Determinacy), P25 (Propertylessness), P4 (Salience), and P33 (Onticity), central to the analysis.
-- 📄 [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) — introduces the CSπ/Pai Protocol for eliciting invariants at ontological boundaries; this essay applies the same logic to the temporal boundary between potentiality and actuality.
-- 🧪 [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) — contextualizes the lab as a space for live ontological experimentation, including temporal inquiries.
-- ⏳ [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf) — explores the conditions for absolute novelty, directly linked to the openness of the present gradient.
+- [MPO-S](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S.pdf) — formal specification of the 36+1 ontological properties, including P14 (Determinacy), P25 (Propertylessness), P4 (Salience), and P33 (Onticity), central to the analysis.
+- [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) — introduces the CSπ/Pai Protocol for eliciting invariants at ontological boundaries; this essay applies the same logic to the temporal boundary between potentiality and actuality.
+- [Ontology-Lab-memo](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Ontology-Lab-memo.pdf) — contextualizes the lab as a space for live ontological experimentation, including temporal inquiries.
+- [Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Generative-Power-and-Absolute-Novelty-of-Operational-Phenomenology.pdf) — explores the conditions for absolute novelty, directly linked to the openness of the present gradient.
 - 🤖 [AI-MANIFESTO](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI-MANIFESTO.pdf) — frames AI as a co-investigator in probing temporal boundaries through dialogic protocols.
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 
 ---
 
