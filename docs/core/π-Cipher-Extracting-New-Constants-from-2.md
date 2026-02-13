@@ -25,6 +25,10 @@ This paper introduces the **Circle-Square-π Protocol**, an operational method d
 Ontological Boundary, Superreality, Invariant, Translation Operator, Geometricity, Quantum Gravity, Epistemic Protocol, Human–AI Co-inquiry, MPO-System
 
 ---
+## Cross-References
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+
+---
 
 ## Provenance
 
