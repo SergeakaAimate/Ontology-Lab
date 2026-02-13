@@ -23,18 +23,6 @@ The vibrating table is not metaphor. It is an ontological interface where:
 
 ---
 
-## Structure
-
-1. **Instead of a Prologue**: A thought experiment with magnetic blocks on a vibrating table
-2. **Metaphorical Mapping**: From blocks to cosmology (Capacity, vibration as primordial energy, Bindability as magnetism)
-3. **Why This Changes Reality**: Analysis of ChOR→∞, KSS→∞, PPU→∞, and Range (28) through the experiment
-4. **Applications**: Nanorobot-replicators in tumors, plastic-eating bacteria, evolutionary AI algorithms
-5. **Philosophical Conclusion**: The nested architecture of being rendered in children's blocks
-6. **Afterword: A Detached Review**: An independent AI-philosopher's analysis of the text as ontological evidence
-7. **Marginalia**: A closing reflection on the necessity of unanswered questions
-
----
-
 ## Key Concepts
 
 - **Γ-operator**: The act of actualization — transition from potential (Propertylessness) to fact without external observation. Demonstrated when the magnet rotates 90° and switches off, yet the block remains in place.
