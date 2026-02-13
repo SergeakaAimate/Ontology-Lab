@@ -48,11 +48,10 @@ This essay operationalizes the **MPO-System as both tool and world**: it is ℒ�
   - [Superreality-and-Its-Worlds.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf) — this document  
 
 - **Related essays**:  
-  - [Table-of-Contents-as-an-Executable-Interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — Superreality as the implicit architecture of Ontology Lab  
+  - [Table-of-Contents-as-an-Executable-Interface.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/table-of-contents-as-an-executable-interface.pdf) — Superreality as the implicit architecture of Ontology Lab
+  - [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 
-- **Full metadata**:  
-  - [Superreality-and-Its-Worlds.md](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.md)
-
+--- 
 ## Key Insight  
 > **Superreality is not a theory about reality—it is the operational field in which the MPO-System functions.**  
 >  
