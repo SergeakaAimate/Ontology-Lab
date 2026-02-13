@@ -65,8 +65,10 @@ These are not flaws but deliberate thresholds — points where this sketch ends 
 This closing note preserves the method's essential humility: authenticity requires unanswered questions. A system that explains everything becomes a monument, not a tool.
 
 ---
-10.5281/zenodo.18633024
 
+🔖 **Persistent DOI (Zenodo)**: [10.5281/zenodo.18633024](https://doi.org/10.5281/zenodo.18633024)
+
+---
 ## License
 
 © 2025 Serge Magomet aka Aimate  
