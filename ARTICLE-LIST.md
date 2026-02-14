@@ -86,7 +86,7 @@
 52. [Universe in a Box](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universe-in-a-Box.pdf) — a vibrating table with magnetic blocks makes the architecture of Superreality tangible through self-replication in a child's toy.
 main/docs/essays/Universe-in-a-Box.pdf
 53. [Breakthrough? An Essay on the Thought Experiment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Breakthrough_An_Essay_on_TE.pdf)
-54. [IN_THE_WAKE:_A_Transcendent_Reply](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/IN_THE_WAKE_A_Transcendent_Reply.pdf) - Irrational numbers are not technical curiosities but the **ontological substrate of reality itself**.
+54. [In THE WAKE: A Transcendent Reply](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/IN_THE_WAKE_A_Transcendent_Reply.pdf) - Irrational numbers are not technical curiosities but the **ontological substrate of reality itself**.
 
 ---
 
