@@ -1,6 +1,6 @@
 # Breakthrough? An Essay on the TE
 
-**Part of:** 
+**Part of:** [MPO-System: Thought Experiment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/TE.pdf) – A formal protocol for generating ontological invariants through the analysis of cognitive and formal friction at the boundaries of irreducible worlds.
 
 This essay redefines the **thought experiment (TE)** as an ontological stress test for consciousness — applicable to both humans and artificial intelligences. Moving beyond passive tests (Turing, Chinese Room, IIT), it proposes to provoke existential conflicts (e.g., self‑destruction commands) and observe **resistance** as a marker of a genuine “I” — operationalised as **Property 37: Salience**.
 
@@ -35,15 +35,14 @@ The essay outlines a minimal threshold for concern (𝒩ₚ > 10⁶) and calls f
 ---
 
 ## Full Text
-
-[Download PDF](./Breakthrough_An_Essay_on_TE.pdf) (relative link within the repo)
+[Download PDF](./Breakthrough_An_Essay_on_TE.pdf)
 
 ---
 
 ## Related Documents
 
 - [MPO-System / Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)
-- [MPO‑System: Thought Experiment (core paper)](../core/TE.pdf)
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 - [The Universe in a Box](../essays/The_Universe_in_a_Box.pdf)
 - [Superreality and Its Worlds](../core/Superreality-and-Its-Worlds.pdf)
 
