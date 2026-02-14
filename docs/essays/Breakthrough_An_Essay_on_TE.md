@@ -37,6 +37,8 @@ The essay outlines a minimal threshold for concern (𝒩ₚ > 10⁶) and calls f
 ## Full Text
 [Download PDF](./Breakthrough_An_Essay_on_TE.pdf)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18641434.svg)](https://doi.org/10.5281/zenodo.18641434)
+
 ---
 
 ## Related Documents
