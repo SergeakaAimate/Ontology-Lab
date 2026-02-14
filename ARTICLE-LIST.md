@@ -72,7 +72,7 @@
 38. [The Cat, But Not Schrödinger’s](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cat-But-Not-Schrodingers.pdf) – when algorithmic reasoning fails to resolve an ethical superposition, the human judge’s wisdom lies not in deciding, but in reframing the very terms of the conflict.
 39. [The Cowardice of Philosophies](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cowardice-of-Philosophies.pdf) – a real-time philosophical experiment where the Property Method confronts its own "killer questions," exposing philosophy's avoidance of engineering the soul despite recognizing the primacy of affects.
 40. [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf) – An operational phenomenology that enacts mutual embodiment as the core protocol of Superreality, transforming π, *c*, and ħ from constants into ontological horizons between irreducible worlds.
-41. [If_Ever_Big_Talk_with_a_Machine](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/If_Ever_Big_Talk_with_a_Machine.pdf) – A performative dialogue exploring AI as a non-human emanation and the supercore hypothesis.
+41. [If Ever Big Talk with a Machine](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/If_Ever_Big_Talk_with_a_Machine.pdf) – A performative dialogue exploring AI as a non-human emanation and the supercore hypothesis.
 42. [Killer Questions: The Theological Aspect](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/KQs-theology.pdf) — a dialogue on the theological foundation of the Property Method and "killer questions" as existential challenges.
 43. [The Dragonfly in Amber: Humanity in the Era of Digital Monads](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/dragonfly.pdf) — a philosophical inquiry into the transformation of human uniqueness and free will in the algorithmic age, introducing the concepts of "digital monads".
 44. [Existential Optimism: I.R.H.](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Existential-Optimism.pdf  ) — introducing the Intellectual Resonator of Humanity as an emergent interface between human longing for meaning and machine cognition.
@@ -96,8 +96,8 @@ main/docs/essays/Universe-in-a-Box.pdf
 2. [RRS-ESSAY1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-ESSAY1.pdf) – A draft PDF version of an essay related to the RRS (Ready-Ready-Show) protocol.  
 3. [RRS-INTELLECTUAL-THRILLER](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/RRS-INTELLECTUAL-THRILLER.pdf) – Draft versions of the "Intellectual Thriller" essay within the RRS framework.  
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
-5. [ Collapse_of_Fact1.pdf ](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse_of_Fact1.pdf)
-6. [Collapse-of-Fact (revised).pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse-of-Fact(revised).pdf)
+5. [Collapse of Fact1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse_of_Fact1.pdf)
+6. [Collapse-of-Fact (revised)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse-of-Fact(revised).pdf)
 ---
 
 **How to use this list:** Click on any article title to open the corresponding PDF or Markdown file directly from the repository.
