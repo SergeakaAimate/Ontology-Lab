@@ -1,7 +1,7 @@
 # IN THE WAKE: A Transcendent Reply  
 *An Essay on Marginalia*
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-18620657-024959?labelColor=00B4F0)](https://doi.org/10.5281/zenodo.18643711)
+[![Zenodo](https://img.shields.io/badge/Zenodo-18643711-024959?labelColor=00B4F0)](https://doi.org/10.5281/zenodo.18643711)
 
 [Direct PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/IN_THE_WAKE_A_Transcendent_Reply.pdf)
 
