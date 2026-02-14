@@ -43,6 +43,5 @@ The essay outlines a minimal threshold for concern (𝒩ₚ > 10⁶) and calls f
 
 - [MPO-System / Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)
 - [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
-- [The Universe in a Box](../essays/The_Universe_in_a_Box.pdf)
 - [Superreality and Its Worlds](../core/Superreality-and-Its-Worlds.pdf)
 
