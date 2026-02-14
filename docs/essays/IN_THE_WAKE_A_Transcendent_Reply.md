@@ -50,6 +50,10 @@ Magomet, S. (aka Aimate). (2025). *IN THE WAKE: A Transcendent Reply. An Essay o
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+## Related
+
+- [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf)
+
 ## Repository Context
 
 Part of the [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) project — a framework for AI-mediated ontological inquiry and the Property Method (MPO-System) development.
