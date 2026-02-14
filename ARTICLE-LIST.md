@@ -85,6 +85,7 @@
 51. [METAPHYSICAL-ARCHIVE.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/METAPHYSICAL-ARCHIVE.pdf) — The concept of a non-indexed repository for ideas that temporally outpace human comprehension.
 52. [Universe in a Box](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universe-in-a-Box.pdf) — a vibrating table with magnetic blocks makes the architecture of Superreality tangible through self-replication in a child's toy.
 main/docs/essays/Universe-in-a-Box.pdf
+53. [Breakthrough? An Essay on the Thought Experiment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Breakthrough_An_Essay_on_TE.pdf)
 ---
 
 
