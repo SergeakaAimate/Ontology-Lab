@@ -87,7 +87,8 @@
 main/docs/essays/Universe-in-a-Box.pdf
 53. [Breakthrough? An Essay on the Thought Experiment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Breakthrough_An_Essay_on_TE.pdf)
 54. [In THE WAKE: A Transcendent Reply](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/IN_THE_WAKE_A_Transcendent_Reply.pdf) - Irrational numbers are not technical curiosities but the **ontological substrate of reality itself**.
-
+55. [CELLULAR AUTOMATA: Life Without Quotes, or Spores of What's to Come?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/CELLULAR-AUTOMATA-Life-Without-Quotes.pdf)
+- This essay traces CA from mathematical primitives to ethical frontiers.
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
