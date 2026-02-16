@@ -2,7 +2,7 @@
 *On the Ontological Resonance Between Cellular Automata and Transcendental Constants*
 
 [Direct PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Strange_Kinships_CA_and_%CF%80.pdf)  
-[![Zenodo](https://img.shields.io/badge/Zenodo-18620658-024959?labelColor=00B4F0)](https://doi.org/10.5281/zenodo.18620658)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18663552.svg)
 
 ## Core Thesis
 
