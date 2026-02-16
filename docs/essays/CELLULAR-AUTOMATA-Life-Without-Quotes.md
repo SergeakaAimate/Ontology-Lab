@@ -5,7 +5,10 @@
 **Type**: Essay / Reference  
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18661769.svg)](https://doi.org/10.5281/zenodo.18661769)
 ---
+[CELLULAR AUTOMATA: Life Without Quotes, or Spores of What's to Come?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/CELLULAR-AUTOMATA-Life-Without-Quotes.pdf)
+
 
 ## Annotation
 
