@@ -1,1 +1,46 @@
+# Strange Kinships: CA and π  
+*On the Ontological Resonance Between Cellular Automata and Transcendental Constants*
 
+[📄 Direct PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Strange_Kinships_CA_and_%CF%80.pdf)  
+[![Zenodo](https://img.shields.io/badge/Zenodo-18620658-024959?labelColor=00B4F0)](https://doi.org/10.5281/zenodo.18620658)
+
+## Core Thesis
+
+Cellular automata (CA) and π are not merely computational/mathematical objects but **ontological twins** — distinct manifestations of a deeper principle: *structured emergence from minimal rules*. The essay argues that π's transcendental nature finds its discrete analogue in the computational irreducibility of certain CA rules (e.g., Rule 110), revealing a hidden kinship between continuous geometry and discrete computation.
+
+## Conceptual Architecture
+
+- **π as ontological attractor**: Not a ratio but a *limit-invariant* — the asymptotic signature of circularity emerging from linear iteration (polygon approximation).
+- **CA as ontological generator**: Simple local rules → global complexity without central coordination (Wolfram's computational irreducibility).
+- **The resonance point**: Both π and complex CA exhibit *propertylessness before measurement* (Property 25) — their essence exists only as potential until actualized through process.
+- **PPU → ∞ as binding operator**: Paradoxical stability holds the tension between π's infinite non-repeating decimals and CA's deterministic-yet-unpredictable evolution.
+
+## Key Insight
+
+The decimal expansion of π and the evolution of Rule 110 share a deeper trait: **algorithmic depth without compressibility**. Neither yields to closed-form description; both demand *process* as the only mode of access. This is not analogy — it is ontological isomorphism across the continuous/discrete divide.
+
+## Verification Criteria
+
+- Nₚ(π) ≈ 10⁴: Ontological complexity of π's first 10⁴ digits matches complexity of CA state-space at equivalent scale.
+- Λ ∝ 1/PPU: Dark energy density correlates with the "tension" between geometric continuity (π) and computational discreteness (CA).
+- Quantum test: Superposition collapse patterns mirror π-digit distribution under Property 28 (Range) constraints.
+
+## Target Audience
+
+- Philosophers of mathematics and computation
+- Complex systems researchers
+- Foundational AI/AGI developers
+- Ontologists working at the physics-mathematics interface
+
+## Citation
+
+Magomet, S. (aka Aimate). (2025). *Strange Kinships: CA and π. On the Ontological Resonance Between Cellular Automata and Transcendental Constants*. Ontology Lab Repository. https://doi.org/10.5281/zenodo.18620658
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+
+---
+
+© 2025 Serge Magomet aka Aimate  
+Part of the [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) project — AI-mediated ontological inquiry via the Property Method (MPO-System).
