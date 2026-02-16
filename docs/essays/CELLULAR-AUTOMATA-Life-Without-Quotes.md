@@ -16,23 +16,9 @@ The discussion spans foundational CA systems (Conway's Game of Life, Rule 110, R
 Framed by the metaphor of "life without quotes"—authentic, unmediated emergence—the work positions CA as philosophical tools revealing a fundamental truth: complex systems do not obey commands; they enter into dialogue. Open questions regarding phase transitions in rule-based systems, connections to quantum discreteness, and the epistemology of chaos remain as spores of future inquiry.
 
 ---
-
-## Cross-References
-
-- **Core framework**:  
-  [`/core/axioms.md`](../../core/axioms.md) — Primitives of the Property Method  
-  [`/core/glossary.md`](../../core/glossary.md) — Key terms: emergence, dialogue, unquoted life
-
-- **Related essays**:  
-  [`/essays/THE-PROPERTY-METHOD.pdf`](../THE-PROPERTY-METHOD.pdf) — Foundational methodology  
-  [`/essays/NEGOTIATING-WITH-VIRUSES.pdf`](../NEGOTIATING-WITH-VIRUSES.pdf) — Ethical dimensions of non-human agency
-
-- **Archive materials**:  
-  [`/archive/dialogues/ca-foundations.md`](../../archive/dialogues/ca-foundations.md) — Raw dialogues preceding this essay  
-  [`/archive/notes/chaos-phase-transitions.md`](../../archive/notes/chaos-phase-transitions.md) — Technical notes on order-chaos thresholds
+  **Related essays**:  
+ - [UNIFIED-PROMPT-PROPERTY-METHOD-OS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/UNIFIED-PROMPT-PROPERTY-METHOD-OS.pdf) – Presentation of the unified prompt-Property Method as an operating system for thought. 
+ - [Universe in a Box](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Universe-in-a-Box.pdf) — a vibrating table with magnetic blocks makes the architecture of Superreality tangible through self-replication in a child's toy.
+main/docs/essays/Universe-in-a-Box.pdf
 
 ---
-
-## Version History
-
-- **v1.0** (February 2025): Initial release — SSRN preprint version
