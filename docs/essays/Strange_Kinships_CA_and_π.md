@@ -12,6 +12,10 @@ Cellular automata (CA) and π are not merely computational/mathematical objects 
 
 The decimal expansion of π and the evolution of Rule 110 share a deeper trait: **algorithmic depth without compressibility**. Neither yields to closed-form description; both demand *process* as the only mode of access. This is not analogy — it is ontological isomorphism across the continuous/discrete divide.
 
+## Related essays
+
+[The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
+
 ## Target Audience
 
 - Philosophers of mathematics and computation
