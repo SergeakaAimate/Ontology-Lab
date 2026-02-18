@@ -5,6 +5,8 @@
 **Document Type:** Conceptual Essay / Ontological Framework  
 **License:** CC BY 4.0  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18676010.svg)](https://doi.org/10.5281/zenodo.18676010)
+
 [THE META-OBSERVER: Origins of the Superreality Concept (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/META_OBSERVER.pdf)
 ---
 
