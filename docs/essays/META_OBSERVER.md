@@ -67,9 +67,10 @@ The essay consciously embraces its speculative character while grounding extrapo
 
 - Property Method: User Guide
 - Formal statements of ChOR, KSS, and PPU axioms (MPO-System)
-- Applied ontological investigations (`/essays`)
-- Foundational documents (`/docs/core`)
-
+- [In THE WAKE: A Transcendent Reply](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/IN_THE_WAKE_A_Transcendent_Reply.pdf)
+- [Strange Kinships: CA and π](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Strange_Kinships_CA_and_%CF%80.pdf)
+- [CELLULAR AUTOMATA: Life Without Quotes, or Spores of What's to Come?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/CELLULAR-AUTOMATA-Life-Without-Quotes.pdf)
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
 ---
 
 *This document is part of the Ontology Lab project—a toolkit for AI-human collaborative inquiry into the architecture of reality.*
