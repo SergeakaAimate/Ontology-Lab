@@ -89,7 +89,7 @@ main/docs/essays/Universe-in-a-Box.pdf
 54. [In THE WAKE: A Transcendent Reply](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/IN_THE_WAKE_A_Transcendent_Reply.pdf) - Irrational numbers are not technical curiosities but the **ontological substrate of reality itself**.
 55. [Strange Kinships: CA and π](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Strange_Kinships_CA_and_%CF%80.pdf) - Cellular automata (CA) and π are not merely computational/mathematical objects but **ontological twins.**
 56. [CELLULAR AUTOMATA: Life Without Quotes, or Spores of What's to Come?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/CELLULAR-AUTOMATA-Life-Without-Quotes.pdf) - tracing CA from mathematical primitives to ethical frontiers.
-57. [THE META-OBSERVER: Origins of the Superreality Concept (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/META_OBSERVER.pdf)
+57. [THE META-OBSERVER: Origins of the Superreality Concept](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/META_OBSERVER.pdf)
    
 ---
 
