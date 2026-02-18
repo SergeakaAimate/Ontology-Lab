@@ -1,4 +1,3 @@
-
 # THE META-OBSERVER: Origins of the Superreality Concept
 
 **Author:** Serge Magomet aka Aimate  
@@ -6,6 +5,7 @@
 **Document Type:** Conceptual Essay / Ontological Framework  
 **License:** CC BY 4.0  
 
+[THE META-OBSERVER: Origins of the Superreality Concept (PDF)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/META_OBSERVER.pdf)
 ---
 
 ## Abstract
