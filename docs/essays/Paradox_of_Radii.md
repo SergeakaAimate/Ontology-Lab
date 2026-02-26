@@ -13,3 +13,11 @@ This essay examines the heuristic potential of scientific analogies through the 
 analogy • General Relativity • ontological entanglement • conservation of meaning • Superreality • black hole information paradox • philosophy of science • scientific modeling • consciousness • rubber sheet analogy
 
 ### Related Resources
+
+- [Property Method: User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf)  
+- [PROPERTY-METHOD-REVISITED](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY-METHOD-REVISITED.pdf)  
+- [PROPERTY](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PROPERTY.pdf)
+- [HOME: Whispering Pictures of (Phenomenology of Embodiment)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+
+→ **Work within Ontology Lab**: https://github.com/SergeakaAimate/Ontology-Lab
+
