@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Article List
 
-*Updated 12.02.2026*
+*Updated 26.02.2026*
 
 ---
 
@@ -90,6 +90,7 @@ main/docs/essays/Universe-in-a-Box.pdf
 55. [Strange Kinships: CA and π](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Strange_Kinships_CA_and_%CF%80.pdf) - Cellular automata (CA) and π are not merely computational/mathematical objects but **ontological twins.**
 56. [CELLULAR AUTOMATA: Life Without Quotes, or Spores of What's to Come?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/CELLULAR-AUTOMATA-Life-Without-Quotes.pdf) - tracing CA from mathematical primitives to ethical frontiers.
 57. [THE META-OBSERVER: Origins of the Superreality Concept](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/META_OBSERVER.pdf)
+58. [The Paradox of Radii: Convection of Meanings, Ontology of Analogies, and Fundamental Connectivity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Paradox_of_Radii.pdf) - scientific analogies are not mere pedagogical tools but **ontological conduits** through which meaning circulates across the layered structure of Superreality.
    
 ---
 
