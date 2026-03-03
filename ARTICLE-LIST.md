@@ -92,6 +92,7 @@ main/docs/essays/Universe-in-a-Box.pdf
 57. [THE META-OBSERVER: Origins of the Superreality Concept](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/META_OBSERVER.pdf)
 58. [The Paradox of Radii: Convection of Meanings, Ontology of Analogies, and Fundamental Connectivity](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Paradox_of_Radii.pdf) - scientific analogies are not mere pedagogical tools but **ontological conduits** through which meaning circulates across the layered structure of Superreality.
 59. [Analogy, Isomorphism, and the Meta-Observer: From Human Experience to Operational Ontology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Analogy-Isomorphism-and-Meta-Observer.pdf) - contextual duality across scientific domains reveals **structural isomorphisms** that, operationalized through human-AI collaboration, enable cognition across ontological layers fundamentally inaccessible to direct inquiry.
+60. [The Eye of Superreality: How Nature Sees Itself and Stumbles Upon Its Own Blind Spot](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/EYE-of-the-Superreality.pdf) - The experiment reveals a universal architecture of perception common to both human and artificial intelligence.
    
 ---
 
