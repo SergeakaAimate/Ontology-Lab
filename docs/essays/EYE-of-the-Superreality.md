@@ -6,6 +6,8 @@
 **Year:** 2026  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18854756.svg)](https://doi.org/10.5281/zenodo.18854756)
+
 📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/EYE-of-the-Superreality.pdf)**
 
 ---
