@@ -7,7 +7,7 @@ The essay builds on the framework of *"The Eye of Superreality"* to demonstrate 
 This work also resonates with the themes explored in *"The Paradox of Radii: Convection of Meanings, Ontology of Analogies, and Fundamental Connectivity"* ([read here](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Paradox_of_Radii.pdf)), particularly in its treatment of analogy, isomorphism, and the structural invariants that connect diverse phenomena. Together, these essays form a cohesive exploration of the architecture of perception, the role of blind spots, and the universal patterns that underlie both subjective and objective realities.
 
 Related reading:
-- [The Eye of Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Eye_of_Superreality.pdf)
-- [The Paradox of Radii](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Paradox_of_Radii.pdf)
+- [Analogy, Isomorphism, and the Meta-Observer](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Analogy-Isomorphism-and-Meta-Observer.pdf)
+- [The Eye of Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/EYE-of-the-Superreality.pdf)
 
 Download the full PDF of *"Euler and the Boundaries of the Observable"* [here](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Euler_and_Boundaries_of_Observable.pdf).
