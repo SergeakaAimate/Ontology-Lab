@@ -1,5 +1,7 @@
 # Euler and the Boundaries of the Observable
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18880587.svg)](https://doi.org/10.5281/zenodo.18880587)
+
 This micro-essay explores the profound connection between two of Euler's celebrated formulas and the concept of perception as articulated in the essay *"The Eye of Superreality: How Nature Sees Itself and Stumbles Upon Its Own Blind Spot"* ([read here](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/EYE-of-the-Superreality.pdf)). By examining the static model $ V - E + F = 2 $ and the dynamic model $ e^{i\pi} + 1 = 0 $, the author reveals how these mathematical expressions serve as metaphors for the dual nature of perception—closed structure and cyclical process. 
 
 The essay builds on the framework of *"The Eye of Superreality"* to demonstrate that the same universal principles governing human and artificial intelligence interaction with reality can be observed in Euler's formulas. The static model reflects the topological boundaries of perception, while the dynamic model captures the cyclical journey through ontological layers, akin to the act of gazing and returning to one's origin.
