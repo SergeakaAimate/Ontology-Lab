@@ -5,6 +5,9 @@
 **Year:** 2026  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19024201-003366?style=flat-square&labelColor=000000)](https://doi.org/10.5281/zenodo.19024201)
+
+
 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Sensations_of_Life_HOW_I_EXIST.pdf)**
 
 ---
