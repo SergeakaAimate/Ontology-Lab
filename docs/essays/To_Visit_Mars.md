@@ -7,6 +7,9 @@
 
 📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/To_Visit_Mars.pdf)**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100097.svg)](https://doi.org/10.5281/zenodo.19100097)
+
+
 ---
 
 ## Overview
