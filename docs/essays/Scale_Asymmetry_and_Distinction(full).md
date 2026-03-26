@@ -2,7 +2,7 @@
 
 **PDF:** [Scale_Asymmetry_and_Distinction.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Scale_Asymmetry_and_Distinction.pdf)
 
-**DOI:** [10.5281/zenodo.18307747](https://doi.org/10.5281/zenodo.18307747)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19240142.svg)](https://doi.org/10.5281/zenodo.19240142)
 
 ## Abstract
 
