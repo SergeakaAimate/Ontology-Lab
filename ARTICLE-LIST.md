@@ -1,4 +1,4 @@
-# Ontology-Lab: Complete Article List
+# Ontology-Lab: Complete Paper List
 
 *Updated 25.03.2026*
 
