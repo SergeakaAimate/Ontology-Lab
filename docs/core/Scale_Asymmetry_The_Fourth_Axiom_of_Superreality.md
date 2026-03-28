@@ -5,8 +5,11 @@
 ---
 
 **Author** Serge Magomet (aka Aimate)
+
 **Year** 2026
+
 **License** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
+
 **Project** | [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab) |
 
 ---
