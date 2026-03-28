@@ -4,10 +4,6 @@
 
 ---
 
-##Document Overview
-
-| Field | Value |
-|-------|-------|
 | **Title** | Scale Asymmetry: The Fourth Axiom of Superreality |
 | **Subtitle** | An Essay on a Universal Ontological Principle |
 | **Author** | Serge Magomet (aka Aimate) |
