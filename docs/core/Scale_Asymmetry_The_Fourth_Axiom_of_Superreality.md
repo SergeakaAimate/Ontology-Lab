@@ -4,13 +4,10 @@
 
 ---
 
-| **Title** | Scale Asymmetry: The Fourth Axiom of Superreality |
-| **Subtitle** | An Essay on a Universal Ontological Principle |
-| **Author** | Serge Magomet (aka Aimate) |
-| **Year** | 2026 |
-| **Language** | English |
-| **License** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
-| **Project** | [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab) |
+**Author** Serge Magomet (aka Aimate)
+**Year** 2026
+**License** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
+**Project** | [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab) |
 
 ---
 
