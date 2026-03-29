@@ -12,6 +12,8 @@
 
 **Project** | [Ontology-Lab](https://github.com/SergeakaAimate/Ontology-Lab) |
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19309050.svg)](https://doi.org/10.5281/zenodo.19309050)
+
 ---
 
 ##Direct Links
