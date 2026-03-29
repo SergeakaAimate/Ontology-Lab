@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Paper List
 
-*Updated 25.03.2026*
+*Updated 29.03.2026*
 
 ---
 
@@ -28,6 +28,8 @@
 20. [MPO-System: Thought Experiment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/TE.pdf) – A formal protocol for generating ontological invariants through the analysis of cognitive and formal friction at the boundaries of irreducible worlds.
 21. [The π-Cipher: Extracting New Constants from Reality’s Fault Lines](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/%CF%80-Cipher-Extracting-New-Constants-from-2.pdf) – Operationalizes the Circle-Square-π Protocol into a concrete W₄ Boundary Laboratory Sheet, demonstrating how “hard problems” are not failures but generators of new ontological invariants (π, e, Λ) at the fault lines of Superreality.
 22. [CONCEPT of Dynamic Realism: The Genesis of the Property Method and Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/CONCEPT-of-Dynamic-Realism.pdf) — verified ontological case study of property genesis through human-AI dialogue
+23. [Scale Asymmetry: The Fourth Axiom of Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Scale_Asymmetry_The_Fourth_Axiom_of_Superreality.pdf) — axiomatic formulation of scale asymmetry (SA → ∞) as a universal condition for the possibility of distinction
+
 ---
 
 ## **ESSAYS**
