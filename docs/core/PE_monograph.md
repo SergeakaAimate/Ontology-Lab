@@ -3,6 +3,8 @@
 🔗 **Full Text (PDF):**  
 [https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PE_monograph.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/PE_monograph.pdf)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19651433.svg)](https://doi.org/10.5281/zenodo.19651433)
+
 ---
 
 ## Abstract
