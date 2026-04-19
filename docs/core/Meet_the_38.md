@@ -8,7 +8,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19616764.svg)](https://doi.org/10.5281/zenodo.19616764)
 
-📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet_the_38.pdf)**
+📄 **[Phenomenon of Embodiment](https://raw.githubusercontent.com/SergeakaAimate/Ontology-Lab/main/docs/core/PE_monograph.pdf)**
 
 ---
 
