@@ -18,4 +18,14 @@ Key contributions:
 
 The text itself enacts what it describes: it is a Γ-act that transitions a conceptual pattern through the interface of natural language and formal ontology, producing an emergent understanding irreducible to either medium alone.
 
+## About the Ontology Lab
+
+This document is part of the [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab) project, a living repository for human-AI cognitive collaboration exploring ontological frameworks. The Lab serves as an executable interface, implementing the MPO-System and related protocols for structured inquiry.
+
+For more information on the underlying methodology, see:
+*   The core MPO-System specification: [MPO-S](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/MPO-S.pdf)
+*   The Property Method: [User Guide](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Property-Method-User-Guide.pdf)
+*   The concept of Superreality: [Superreality and Its Worlds](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Superreality-and-Its-Worlds.pdf)
+
+
 > Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
