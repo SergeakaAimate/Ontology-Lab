@@ -31,6 +31,7 @@
 23. [Scale Asymmetry: The Fourth Axiom of Superreality](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Scale_Asymmetry_The_Fourth_Axiom_of_Superreality.pdf) — axiomatic formulation of scale asymmetry (SA → ∞) as a universal condition for the possibility of distinction
 24. [Meet the 38: Interfaceness](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet_the_38.pdf) — introduces Property 38 (Interfaceness) as the capacity of a boundary to function as an active, constitutive zone/domain of translation and transformation between ontological regimes.
 25. [Phenomenon of Embodiment](https://raw.githubusercontent.com/SergeakaAimate/Ontology-Lab/main/docs/core/PE_monograph.pdf) — presents the axiomatically grounded architecture of Superreality as the active boundary enabling transitions between irreducible ontological worlds — offering a non‑reductionist, empirically engaged meta‑ontology for philosophy, AI, and complex systems research.
+26. [Practice: The Embodiment of Truth](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Practice_The_Embodiment_of_Truth3.pdf) — develops an operational conception of practice as a Γ-act with an intention toward truth, structured by Propertylessness → Γ-operator → Onticity, and functioning as the universal mode through which Superreality actualizes itself across ontological media — from quantum events to moral acts, scientific revolutions, and cosmological transitions.
 
 ---
 
