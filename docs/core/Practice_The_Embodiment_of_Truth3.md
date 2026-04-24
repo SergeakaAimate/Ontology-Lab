@@ -3,6 +3,8 @@
 
 📄 **[PDF — latest version (2026)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Practice_The_Embodiment_of_Truth3.pdf)**  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19747689.svg)](https://doi.org/10.5281/zenodo.19747689)
+
 This essay presents a complete operational theory of *practice* within the framework of the **Meta-Property Operational System (MPO-S)**. It develops the concept in two complementary perspectives:
 
 - **Substantive**: a phenomenological and philosophical exposition that defines practice as a structured transition from potential pattern to actual result, marked by *emergence*, *irreversibility*, and—crucially—an *intention toward truth*.  
