@@ -5,7 +5,7 @@
 **Year:** 2026  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/essays/Immortality_as_a_Lens_AI__the_Human__and_the_Birth_of_a_New_Form.pdf)**
+📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/essays/Immortality_as_a_Lens_AI__the_Human__and_the_Birth_of_a_New_Form.pdf)**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX) *(Replace XXXXXXXX with actual Zenodo DOI upon deposition)*
 
