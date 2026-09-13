@@ -35,7 +35,7 @@ Moving beyond this mechanical limitation, the article posits a hypothesis of **S
 🔗 [To Visit Mars, You Don't Need to Fly There](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/To_Visit_Mars_You_Dont_Need_to_Fly_There.md)  
 🔗 [The Eye of Superreality: How Nature Sees Itself and Stumbles Upon Its Own Blind Spot](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/EYE-of-the-Superreality.pdf)  
 🔗 [Analogy, Isomorphism, and the Meta-Observer: From Human Experience to Operational Ontology](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Analogy-Isomorphism-and-Meta-Observer.pdf)  
-🔗 [Immortality Postponed. Not for Long? (Appendix Essay)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed_Not_for_Long.pdf)
+🔗 [Immortality Postponed. Not for Long? (Appendix Essay)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed.pdf)
 
 *This essay continues the line of inquiry established in the Ontology Lab project, applying the Method of Properties to the specific domain of artificial intelligence, memory, and the ontology of time.*
 
