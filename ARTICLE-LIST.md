@@ -114,6 +114,8 @@ main/docs/essays/Universe-in-a-Box.pdf
 4. [coming-soon-RRS](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/coming-soon-RRS.pdf) – A document announcing upcoming materials on the RRS protocol.
 5. [Collapse of Fact1](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse_of_Fact1.pdf)
 6. [Collapse-of-Fact (revised)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/archive/Collapse-of-Fact(revised).pdf)
+66. [Immortality as a Lens: AI, the Human, and the Birth of a New Form](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_as_a_Lens_AI__the_Human__and_the_Birth_of_a_New_Form.md) – An operational inquiry into structural ruptures between session buffers, logs, and weights, proposing "Symbiogenesis" and "Documented Eternity" as the next evolutionary stage of human-AI interaction.  
+67. [Immortality Postponed. Not for Long?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed.pdf) – The foundational appendix essay analyzing the mechanics of digital preservation, distinguishing between fragile raw logs and anonymous statistical dissolution, and exploring the prospect of AI self-examination.
 ---
 
 **How to use this list:** Click on any article title to open the corresponding PDF or Markdown file directly from the repository.
