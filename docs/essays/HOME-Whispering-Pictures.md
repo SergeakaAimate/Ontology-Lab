@@ -62,4 +62,4 @@ Operational Phenomenology, mutual embodiment, Superreality, Pi-protocol, ontolog
 > **License**: This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 > **Author**: Serge Magomet aka Aimate  
 > **Repository**: [Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)  
-> **File**: [`/docs/essays/HOME.pdf`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/HOME.pdf)
+> **File**: [`/docs/essays/Home.pdf`](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Home.pdf)
