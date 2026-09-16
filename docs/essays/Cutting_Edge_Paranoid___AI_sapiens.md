@@ -5,8 +5,7 @@
 **Year:** 2026  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-📄 **[Read / Download PDF][https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/essays/Cutting_Edge_Paranoid_AI_sapiens.pdf]** *(Link placeholder: update upon file upload)*
-
+📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/raw/main/docs/essays/Cutting_Edge_Paranoid_AI_sapiens.pdf)**
 ---
 
 ## Overview
