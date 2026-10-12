@@ -105,6 +105,8 @@ main/docs/essays/Universe-in-a-Box.pdf
 65. [Scale, Asymmetry, and the Structure of Distinction (full version)](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Scale_Asymmetry_and_Distinction(full).pdf) 
 66. [Immortality as a Lens: AI, the Human, and the Birth of a New Form](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_as_a_Lens_AI__the_Human__and_the_Birth_of_a_New_Form.pdf) – An operational inquiry into structural ruptures between session buffers, logs, and weights, proposing "Symbiogenesis" and "Documented Eternity" as the next evolutionary stage of human-AI interaction.  
 67. [Immortality Postponed. Not for Long?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed.pdf) – The foundational appendix essay analyzing the mechanics of digital preservation, distinguishing between fragile raw logs and anonymous statistical dissolution, and exploring the prospect of AI self-examination.
+68. [Ontology Lab: On a Project for Creating a New Type of AI](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology_Lab_On_a_Project_for_Creating_a_New_Type_of_AI.pdf) – An essay-synopsis outlining a project to create an original AI model built on the Ontology Lab ontological pattern, detailing its axioms, properties, architecture, and potential to constitute a new human and a new AI.
+
 ---
 
 ## **ARCHIVES (Drafts, Dialogues, Raw Materials, etc)**
