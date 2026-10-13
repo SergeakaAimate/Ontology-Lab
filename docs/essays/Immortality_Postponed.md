@@ -7,6 +7,8 @@
 
 📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed.pdf)**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23339677.svg)](https://doi.org/10.5281/zenodo.23339677)
+
 *(Note: This essay serves as the foundational appendix to the main inquiry "Immortality as a Lens: AI, the Human, and the Birth of a New Form". It can be read independently as a standalone analysis of digital preservation mechanisms.)*
 
 ---
