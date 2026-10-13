@@ -7,9 +7,7 @@
 
 📄 **[Read / Download PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cutting_Edge_Paranoid___AI_sapiens.pdf)**
 ---
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23340355.svg)](https://doi.org/10.5281/zenodo.23340355)
-
 ## Overview
 
 This text is not a conventional essay but a **methodological artifact**. It documents an experiment in which an AI researcher fed a language model a list of neologisms—words that do not yet exist or have gone unnoticed—and asked only for interpretation. The resulting dialogue generated its own neologisms and revealed an emergent ten-level hierarchy without external imposition.
