@@ -8,6 +8,7 @@
 
 📄 **[Read the full PDF](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Within_the_MPO_System_Superreality_as_AI_Representation.pdf)**
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23458787-blue)](https://doi.org/10.5281/zenodo.23458787)
 ---
 
 ## About this document
