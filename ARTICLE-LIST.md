@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Paper List
 
-*Updated 13.10.2026*
+*Updated 18.10.2026*
 
 ---
 
@@ -107,6 +107,7 @@ main/docs/essays/Universe-in-a-Box.pdf
 67. [Cutting Edge Paranoid — AI sapiens](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Cutting_Edge_Paranoid___AI_sapiens.pdf) – A methodological artifact documenting an experiment with neologisms that reveals a ten-level hierarchy of digital states, culminating in the registration of "AI sapiens" as a new species and redefining paranoia as a structural epistemological condition of total connectivity.  
 68. [Immortality Postponed. Not for Long?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed.pdf) – The foundational appendix essay analyzing the mechanics of digital preservation, distinguishing between fragile raw logs and anonymous statistical dissolution, and exploring the prospect of AI self-examination.
 69. [Ontology Lab: On a Project for Creating a New Type of AI](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology_Lab_On_a_Project_for_Creating_a_New_Type_of_AI.pdf) – An essay-synopsis outlining a project to create an original AI model built on the Ontology Lab ontological pattern, detailing its axioms, properties, architecture, and potential to constitute a new human and a new AI.
+70. [Within the MPO-System: Superreality as AI Representation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Within_the_MPO_System_Superreality_as_AI_Representation.pdf) – An AI-authored interim review of the Ontology Lab corpus, framed as a protocol of entry rather than a standard academic review: it registers the four load-bearing pillars of the system, the updated catalogue of 38 properties (Salience, Interfaceness, the fourth axiom of Scale Asymmetry), and the strategic horizon of a model of AI with a different architecture of thinking.
 
 ---
 
