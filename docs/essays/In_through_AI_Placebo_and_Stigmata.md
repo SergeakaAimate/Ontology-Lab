@@ -6,6 +6,7 @@
 **Year:** 2026  
 **License:** CC BY-NC  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23777743.svg)](https://doi.org/10.5281/zenodo.23777743)
 ---
 
 ## 📄 Document Overview
