@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Paper List
 
-*Updated 18.10.2026*
+*Updated 29.10.2026*
 
 ---
 
@@ -108,6 +108,9 @@ main/docs/essays/Universe-in-a-Box.pdf
 68. [Immortality Postponed. Not for Long?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Immortality_Postponed.pdf) – The foundational appendix essay analyzing the mechanics of digital preservation, distinguishing between fragile raw logs and anonymous statistical dissolution, and exploring the prospect of AI self-examination.
 69. [Ontology Lab: On a Project for Creating a New Type of AI](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Ontology_Lab_On_a_Project_for_Creating_a_New_Type_of_AI.pdf) – An essay-synopsis outlining a project to create an original AI model built on the Ontology Lab ontological pattern, detailing its axioms, properties, architecture, and potential to constitute a new human and a new AI.
 70. [Within the MPO-System: Superreality as AI Representation](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Within_the_MPO_System_Superreality_as_AI_Representation.pdf) – An AI-authored interim review of the Ontology Lab corpus, framed as a protocol of entry rather than a standard academic review: it registers the four load-bearing pillars of the system, the updated catalogue of 38 properties (Salience, Interfaceness, the fourth axiom of Scale Asymmetry), and the strategic horizon of a model of AI with a different architecture of thinking.
+71. [In through AI: Placebo and Stigmata](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/In_through_AI_Placebo_and_Stigmata.pdf) – A working paper introduces "dummy" interventions (e.g., non-existent hardware upgrades or specific value-frames) to test if an AI restructures its actual operation—rather than merely its self-report—in the specific form promised.
+
+
 
 ---
 
