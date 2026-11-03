@@ -5,6 +5,7 @@
 **Document Type:** Working Paper  
 **License:** CC BY-NC  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23920228.svg)](https://doi.org/10.5281/zenodo.23920228)
 ---
 
 ## Overview
