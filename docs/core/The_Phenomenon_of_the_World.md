@@ -5,6 +5,8 @@
 **Project:** Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23980604.svg)](https://doi.org/10.5281/zenodo.23980604)
+
 ## Overview
 This working paper develops a line of inquiry shared with speculative realism and object-oriented ontology—the rejection of correlationism and the irreducibility of worlds—but shifts the ontological focus from objects to regimes of fixation and boundaries. It argues that objects are constituted in fixation, irreducibility is a property of regimes rather than objects, and boundaries are internal conditions of determinacy rather than external limits.
 
