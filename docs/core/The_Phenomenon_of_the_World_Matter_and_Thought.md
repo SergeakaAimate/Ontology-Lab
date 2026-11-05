@@ -6,8 +6,8 @@
 **Year:** 2026  
 
 ## Overview
-This working paper develops the implications of the ontology of fixation formulated in *The Phenomenon of the World*. [The Phenomenon of the World](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World.pdf)
-It argues that the division of objects into "material" and "ideal" has no ontological basis: category membership is not a property of the object itself, but the result of an operation in which the object becomes determinate. Consequently, the ontological barrier between matter and thought cannot be fixed as a boundary. 
+This working paper develops the implications of the ontology of fixation formulated in [The Phenomenon of the World](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World.pdf)
+. It argues that the division of objects into "material" and "ideal" has no ontological basis: category membership is not a property of the object itself, but the result of an operation in which the object becomes determinate. Consequently, the ontological barrier between matter and thought cannot be fixed as a boundary. 
 
 ## Key Contributions
 - **Suspension of Container Logic:** Demonstrates that the traditional mind–body problem presupposes a "container" logic that fails at both philosophical and empirical limits (e.g., quantum mechanics and cosmology).
