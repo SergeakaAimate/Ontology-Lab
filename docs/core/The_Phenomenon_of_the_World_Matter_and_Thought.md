@@ -5,6 +5,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23981923.svg)](https://doi.org/10.5281/zenodo.23981923)
+
 ## Overview
 This working paper develops the implications of the ontology of fixation formulated in [The Phenomenon of the World](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World.pdf)
 . It argues that the division of objects into "material" and "ideal" has no ontological basis: category membership is not a property of the object itself, but the result of an operation in which the object becomes determinate. Consequently, the ontological barrier between matter and thought cannot be fixed as a boundary. 
