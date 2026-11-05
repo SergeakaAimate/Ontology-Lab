@@ -33,7 +33,7 @@
 25. [Phenomenon of Embodiment](https://raw.githubusercontent.com/SergeakaAimate/Ontology-Lab/main/docs/core/PE_monograph.pdf) — presents the axiomatically grounded architecture of Superreality as the active boundary enabling transitions between irreducible ontological worlds — offering a non‑reductionist, empirically engaged meta‑ontology for philosophy, AI, and complex systems research.
 26. [Practice: The Embodiment of Truth](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Practice_The_Embodiment_of_Truth3.pdf) — develops an operational conception of practice as a Γ-act with an intention toward truth, structured by Propertylessness → Γ-operator → Onticity, and functioning as the universal mode through which Superreality actualizes itself across ontological media — from quantum events to moral acts, scientific revolutions, and cosmological transitions.
 27. [The Phenomenon of the World](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World.pdf) — shifts the ontological focus from objects to regimes of fixation, introducing "double fixation" for inter-world interaction and demonstrating the structural Gödel-likeness and self-applicability of distinctions conducted from within.
-
+28. [The Phenomenon of the World: Matter and Thought](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World_Matter_and_Thought.pdf) – A working paper that suspends the traditional mind–body problem by arguing that "matter" and "idea" do not denote two substances, but rather two regimes of fixation, shifting the question from "how does matter produce thought" to "in what operations is this boundary established, and where does it cease to work."
 
 ---
 
