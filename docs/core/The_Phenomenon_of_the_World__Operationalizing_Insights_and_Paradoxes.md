@@ -5,6 +5,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24145693.svg)](https://doi.org/10.5281/zenodo.24145693)
+
 ## Overview
 This working paper operationalizes the insights and paradoxes introduced in the preceding article, "The Phenomenon of the World." It executes a radical shift in ontological status: the "world" is no longer conceptualized as a containing structure or a regime that precedes objects, but as a boundary event that simultaneously produces both regime and object. Determinacy is redefined not as an inherent property of an object, but as the result of an encounter at an interface. Grounded in the axiomatics of Superreality and the Method of Properties (MPO-System), this text performs a rigorous hygiene of thought, articulating the precise conditions under which determinacy arises, without claiming a final, falsifiable scientific theory.
 
