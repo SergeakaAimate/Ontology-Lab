@@ -17,7 +17,7 @@ This working paper proposes a candidate for the 39th position in the catalog of 
 - **Metric Horizon:** Outlines four preliminary axes (Polyvalence, Transduction Fidelity, Dialectical Gradient, Hysteresis) for the future quantitative calibration of the property, transitioning it from phenomenological description to an engineering tool.
 
 ## Document Link
-- [Meet-the-39th-Property-Inversibility.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-39th-Property-Inversibility.pdf)
+- [Meet-the-39th-Property-Inversibility.pdf](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet_the_39th_Property_Inversibility.pdf)
 
 ## Suggested Citation
 Magomet, Serge (Aimate). "Meet the 39th Property: Inversibility." *Working Paper*, Ontology Lab, 2026. Available at: https://github.com/SergeakaAimate/Ontology-Lab
