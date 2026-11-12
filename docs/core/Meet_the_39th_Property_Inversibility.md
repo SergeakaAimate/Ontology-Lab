@@ -5,6 +5,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24171957.svg)](https://doi.org/10.5281/zenodo.24171957)
+
 ## Overview
 This working paper proposes a candidate for the 39th position in the catalog of Superreality properties: **Inversibility**. It is defined as the capacity of any structure, entity, or relation within any Contextual Ontological Regime (ChOR) to undergo a reversal of its fundamental orientation, hierarchy, order, or direction while preserving its ontological identity. The candidate is subjected to seven uniqueness tests against the existing 38 properties and four axioms, revealing an irreducible remainder in the domain of vectorless scalar fields.
 
