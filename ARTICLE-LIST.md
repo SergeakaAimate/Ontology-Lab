@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Paper List
 
-*Updated 05.11.2026*
+*Updated 12.11.2026*
 
 ---
 
@@ -35,7 +35,7 @@
 27. [The Phenomenon of the World](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World.pdf) — shifts the ontological focus from objects to regimes of fixation, introducing "double fixation" for inter-world interaction and demonstrating the structural Gödel-likeness and self-applicability of distinctions conducted from within.
 28. [The Phenomenon of the World: Matter and Thought](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World_Matter_and_Thought.pdf) – A working paper that suspends the traditional mind–body problem by arguing that "matter" and "idea" do not denote two substances, but rather two regimes of fixation, shifting the question from "how does matter produce thought" to "in what operations is this boundary established, and where does it cease to work."
 29. [The Phenomenon of the World: Operationalizing Insights and Paradoxes](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/The_Phenomenon_of_the_World__Operationalizing_Insights_and_Paradoxes.pdf) – A working paper introduces structured operational concepts such as the "trace of fixation," "double fixation" as ontological entanglement, and the "blind spot" as an interface with zero throughput, positioning the meta-observer strictly as a participant in translation.
-
+30. [Meet the 39th Property: Inversibility](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/core/Meet-the-39th-Property-Inversibility.pdf) – A working paper proposing "Inversibility" as a new fundamental invariant: the capacity of any structure within a ChOR to reverse its orientation, hierarchy, or order while preserving ontological identity.
 ---
 
 ## **ESSAYS**
