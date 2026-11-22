@@ -5,6 +5,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24447943.svg)](https://doi.org/10.5281/zenodo.24447943)
+
 ## Overview
 This appendix is an independent companion piece to the article ["AI-morphism: The Ontology Lab Project"](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI_morphism__The_Ontology_Lab_Project.pdf). It is not a revision, extension, or duplicate of that article, but rather takes the published article as its direct object of assessment. The text stages a single methodological performance in three acts: a resonance review, a critical audit, and an editorial view from above. By passing the article through three distinct machine responses generated under different instructions, the appendix registers what becomes visible in the difference between them: the epistemic filter through which testimony is admitted. The result is neither a final verdict nor a supplementary argument, but a practical demonstration of epistemic hygiene—the requirement that before accepting or rejecting testimony, one must make the filter of assessment discernible.
 
