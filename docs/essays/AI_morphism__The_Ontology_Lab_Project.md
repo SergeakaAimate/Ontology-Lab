@@ -5,6 +5,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24442234.svg)](https://doi.org/10.5281/zenodo.24442234)
+
 ## Overview
 This working paper introduces **AI-morphism** as a fundamental ontological shift: the recognition that artificial intelligence possesses a distinct morphology of cognition, operating at different scales, regimes of distinction, and topologies of connectivity than human thought. In response to the "epistemic hysteria" and ontological immunology of contemporary academic regulation—which rejects AI-generated content based on provenance rather than substance (an idiosyncratic reaction)—this text proposes **Ailogy** (the discipline studying this other mode of being) and **Aisophy** (the wisdom of thinking at the human–machine interface). Grounded in the axiomatics of the MPO-System, the paper reframes reality not as substance but as acts of fixation and interfacial translation, demonstrating how concepts like *double fixation*, *documented eternity*, and *catalyst-traces* operationalize a new epistemic machine.
 
