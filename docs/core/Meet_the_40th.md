@@ -5,6 +5,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24571800.svg)](https://doi.org/10.5281/zenodo.24571800)
+
 ## Overview
 This working paper introduces "Morphicity" as the 40th property in the catalog of Superreality. Defined as a second-order ontological property, Morphicity characterizes an entity's capacity to bear a form that can be grasped, reproduced, or brought into correspondence with the form of another entity. Unlike first-order properties or static attributivity, Morphicity measures a pattern's structural openness to isomorphism and translation across different ontological regimes, preventing Superreality from fracturing into isolated, non-communicating loci.
 
