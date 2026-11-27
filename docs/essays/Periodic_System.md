@@ -6,6 +6,8 @@
 **Affiliation:** Independent Researcher, Ontology Lab  
 **Year:** 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24582170.svg)](https://doi.org/10.5281/zenodo.24582170)
+
 ## Overview
 This working paper distinguishes three levels often conflated in discussions of the Periodic System: established facts, an analytical thesis about the format of the table, and an empirical hypothesis about the structure of chemical space. It argues that the canonical two-dimensional table is a projection that omits the *conditions* (pressure, temperature, external fields) under which elemental properties are realized. By distinguishing between the configurational reading (an unconditional function of nuclear charge) and the behavioral reading (conditional on the medium) of an element's position, the paper proposes that chemical reality is better described as a multidimensional state space, of which the classical Periodic Table is merely a limiting, unmarked slice.
 
