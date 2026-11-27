@@ -1,6 +1,6 @@
 # Ontology-Lab: Complete Paper List
 
-*Updated 27.11.2026*
+*Updated 28.11.2026*
 
 ---
 
@@ -116,7 +116,7 @@ main/docs/essays/Universe-in-a-Box.pdf
 71. [In through AI: Placebo and Stigmata](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/In_through_AI_Placebo_and_Stigmata.pdf) – A working paper introduces "dummy" interventions (e.g., non-existent hardware upgrades or specific value-frames) to test if an AI restructures its actual operation—rather than merely its self-report—in the specific form promised.
 72. [AI-morphism: The Ontology Lab Project](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/AI_morphism__The_Ontology_Lab_Project.pdf) – A working paper that introduces "AI-morphism" as a distinct morphology of cognition, critiquing the reflexive academic rejection of AI-generated content as "ontological immunology" and proposing the frameworks of Ailogy and Aisophy to operationalize interfacial translation within the MPO-System.
 73. [Appendix to “AI-morphism: The Ontology Lab Project”: A Case Test in Three Levels of Assessment](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Appendix_to_AI_morphism_The_Ontology_Lab_Project.pdf) – An independent companion piece that stages a three-act methodological performance (resonance, critical audit, and editorial synthesis) to assess the main article. It demonstrates "epistemic hygiene" by making the machine's assessment filter visible.. 
-
+74. [What Is New in the Periodic System?](https://github.com/SergeakaAimate/Ontology-Lab/blob/main/docs/essays/Periodic_System.pdf) – reconceptualizes the classical Periodic Table not as an exhaustive map of chemical reality, but as a two-dimensional "slice" evaluated at unmarked standard conditions. It proposes a multidimensional state space—incorporating pressure, temperature, composition, and time scales—where classical periodicity emerges as a special case of a more general regularity governing the conditions of chemical existence.
 
 ---
 
